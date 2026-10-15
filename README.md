@@ -61,7 +61,7 @@ The intended data license is **CC BY 4.0**; evaluation scripts are intended to u
 
 ### Release status
 
-This repository currently publishes the task description. The split sizes above are targets, and the dates below are the planned schedule from the accepted proposal; they do not indicate that the corresponding artifacts have already been released. Dataset links, evaluation scripts, submission schemas, and baseline results will be added with their releases.
+This repository currently publishes the task description. The split sizes above are targets. Dataset links, evaluation scripts, submission schemas, and baseline results will be added with their releases.
 
 ## Evaluation
 
@@ -85,19 +85,11 @@ Separate rankings are planned for three tracks:
 
 Participants should identify the subtasks and track of their submission. The organizers plan to provide baselines for each track, including Surya, Qwen-VL, and an API model, together with inference cost per page.
 
-## Planned schedule
+## Schedule
 
-| Date | Milestone |
-| --- | --- |
-| 13 October 2026 | Release of the training set, Test A, evaluation script, and baselines. |
-| 13 October – 30 November 2026 | Development period; participant Q&A through GitHub Issues and Discord. |
-| 1 December 2026 | Release of Test B. |
-| 1–7 December 2026 | Result submission window. |
-| 8 December 2026 | Results announcement. |
-| 15 December 2026 | Paper submission deadline; the organizers coordinate reviews. |
-| January–March 2027 | Task overview paper for the PolEval proceedings / ACL Anthology and transition to a continuously maintained leaderboard. |
+All dates of PolEval 2026 are listed on the [PolEval dates page](https://poleval.pl/dates/).
 
-Release announcements and any schedule updates will be published in this repository.
+Release announcements will be published in this repository.
 
 ## After the shared task
 
