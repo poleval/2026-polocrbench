@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2026-07-17",
+ "conclusion_place": "Radom",
+ "contract_type": "employment",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "42/07/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "44",
+     "city": "Siedlce",
+     "country": null,
+     "postal_code": "56-038",
+     "street": "Poziomkowa",
+     "unit_no": "87"
+    },
+    "krs": "0099999999",
+    "name": "Gabinety Araszkiewicz S.A.",
+    "nip": "0008059346",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Sebastian Midura",
+     "role": "Pełnomocnik"
+    }
+   ],
+   "role": "Pracodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "96",
+     "city": "Inowrocław",
+     "country": null,
+     "postal_code": "36-163",
+     "street": "Strażacka",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Hubert Wiszowaty",
+    "nip": null,
+    "pesel": "82180815810",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pracownik"
+  }
+ ],
+ "payment_account": "PL54000000008866850118385462",
+ "remuneration": {
+  "amount": "8900.00",
+  "amount_in_words": "osiem tysięcy dziewięćset złotych 00 gr",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Pracodawca zatrudnia Pracownika na stanowisku specjalisty ds. obsługi klienta w pełnym wymiarze czasu pracy.",
+ "term": {
+  "end_date": "2026-09-21",
+  "indefinite": false,
+  "notice_period": "2 tygodnie",
+  "start_date": "2026-07-27"
+ },
+ "title": "UMOWA O PRACĘ NR 42/07/2026"
+}

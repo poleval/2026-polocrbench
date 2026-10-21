@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "FN.3759.70.2025",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6 ust. 2 ustawy o petycjach",
+  "art. 6 ust. 1 ustawy o petycjach"
+ ],
+ "letter_date": "2025-01-02",
+ "letter_place": "Miasteczko Śląskie",
+ "letter_type": "information",
+ "recipient": {
+  "address": {
+   "building_no": "26",
+   "city": "Chorzów",
+   "country": null,
+   "postal_code": "13-311",
+   "street": "Głogowa",
+   "unit_no": "84"
+  },
+  "krs": null,
+  "name": "Stowarzyszenie Lempart",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "4",
+   "city": "Miasteczko Śląskie",
+   "country": null,
+   "postal_code": "64-298",
+   "street": "Stolarska",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Miasteczka Śląskiego",
+  "epuap": "/UMMiasteczkoSlaskie/SkrytkaESP",
+  "nip": "0008817628",
+  "regon": "006930668",
+  "unit": "Wydział Organizacyjny"
+ },
+ "signatory": {
+  "full_name": "Sara Felisiak",
+  "role": "Burmistrz"
+ },
+ "subject": "sposób załatwienia petycji złożonej w dniu 20.12.2024 o zagospodarowanie nieruchomości oznaczonej numerem działki 783/4"
+}

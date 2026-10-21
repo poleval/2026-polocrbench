@@ -1,0 +1,70 @@
+{
+ "conclusion_date": "2025-03-07",
+ "conclusion_place": "Konin",
+ "contract_type": "nda",
+ "doc_type": "contract",
+ "governing_court": "Sąd Okręgowy w Warszawie",
+ "number": "61/03/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "118",
+     "city": "Lubartów",
+     "country": null,
+     "postal_code": "11-865",
+     "street": "Prosta",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Gabinety Franc-Zapaśnik S.A.",
+    "nip": "0007215123",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Józef Glenc",
+     "role": "Członek zarządu"
+    }
+   ],
+   "role": "Strona Ujawniająca"
+  },
+  {
+   "id_document": "ITB196883",
+   "party": {
+    "address": {
+     "building_no": "54",
+     "city": "Sosnowiec",
+     "country": null,
+     "postal_code": "20-515",
+     "street": "Tęczowa",
+     "unit_no": "83"
+    },
+    "krs": null,
+    "name": "Tymon Kononowicz",
+    "nip": null,
+    "pesel": "73191986923",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Strona Otrzymująca"
+  }
+ ],
+ "payment_account": null,
+ "remuneration": null,
+ "signatures_present": true,
+ "subject": "Strona Ujawniająca przekazuje Stronie Otrzymującej informacje poufne dotyczące planowanej współpracy gospodarczej w celu oceny możliwości jej nawiązania.",
+ "term": {
+  "end_date": "2026-02-04",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-03-19"
+ },
+ "title": "UMOWA O ZACHOWANIU POUFNOŚCI NR 61/03/2025"
+}

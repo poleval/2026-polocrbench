@@ -1,0 +1,62 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze w Częstochowie": [
+   "Samorządowego Kolegium Odwoławczego w Częstochowie"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Częstochowie",
+ "attachments_count": null,
+ "case_ref": "RO.7325.118.2025",
+ "deadline": {
+  "action": "wniesienia zażalenia",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": "Zawiesza się postępowanie administracyjne w sprawie dotyczącej nieruchomości oznaczonej numerem działki 273/19, wszczętej na wniosek strony: Nikodem Dycha, do czasu rozstrzygnięcia zagadnienia wstępnego przez organ administracji publicznej właściwy do ustalenia stanu prawnego nieruchomości.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 97 § 1 pkt 2 k.p.a.",
+  "art. 97 § 2 k.p.a.",
+  "art. 141 § 1 k.p.a.",
+  "art. 141 § 2 k.p.a."
+ ],
+ "letter_date": "2025-01-06",
+ "letter_place": "Konopiska",
+ "letter_type": "order",
+ "recipient": {
+  "address": {
+   "building_no": "110",
+   "city": "Mielec",
+   "country": null,
+   "postal_code": "42-904",
+   "street": "Krótka",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Nikodem Dycha",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "115",
+   "city": "Konopiska",
+   "country": null,
+   "postal_code": "26-799",
+   "street": "Rózana",
+   "unit_no": "3"
+  },
+  "authority_name": "Wójt Gminy Konopiska",
+  "epuap": "/WGKonopiska/SkrytkaESP",
+  "nip": "0001689506",
+  "regon": null,
+  "unit": "Referat Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Marek Szczepaniec",
+  "role": "Wójt Gminy"
+ },
+ "subject": "zawieszenie postępowania administracyjnego w przedmiocie nieruchomości o numerze działki 273/19"
+}

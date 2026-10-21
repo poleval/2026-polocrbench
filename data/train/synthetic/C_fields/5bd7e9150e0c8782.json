@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2026-03-26",
+ "conclusion_place": "Konin",
+ "contract_type": "lease",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "88/2026",
+ "parties": [
+  {
+   "id_document": "GCR283674",
+   "party": {
+    "address": {
+     "building_no": "143",
+     "city": "Rybnik",
+     "country": null,
+     "postal_code": "96-703",
+     "street": "Browarna",
+     "unit_no": "50"
+    },
+    "krs": null,
+    "name": "Natasza Ogonek",
+    "nip": null,
+    "pesel": "92202697302",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wydzierżawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "82",
+     "city": "Wrocław",
+     "country": null,
+     "postal_code": "89-213",
+     "street": "Miła",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Gabinety Natasza Słupik",
+    "nip": "0009791776",
+    "pesel": null,
+    "regon": "005838305",
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Dzierżawca"
+  }
+ ],
+ "payment_account": "PL78000000009688822317942267",
+ "remuneration": {
+  "amount": "12700.00",
+  "amount_in_words": "dwanaście tysięcy siedemset złotych 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Wydzierżawiający oddaje Dzierżawcy do używania i pobierania pożytków nieruchomość gruntową wraz z zabudowaniami, zwaną dalej „Przedmiotem dzierżawy”, opisaną w protokole zdawczo-odbiorczym stanowiącym załącznik nr 1 do umowy.",
+ "term": {
+  "end_date": "2026-11-24",
+  "indefinite": false,
+  "notice_period": "1 miesiąca",
+  "start_date": "2026-04-01"
+ },
+ "title": "UMOWA DZIERŻAWY NR 88/2026"
+}

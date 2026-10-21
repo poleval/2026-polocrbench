@@ -1,0 +1,56 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "GK.4431.91.2026.PV",
+ "deadline": {
+  "action": "uzupełnić braki formalne wniosku",
+  "date": "2026-01-26",
+  "days": null
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 64 § 2 k.p.a.",
+  "art. 83a ust. 2 ustawy o ochronie przyrody",
+  "art. 83a ust. 3 ustawy o ochronie przyrody"
+ ],
+ "letter_date": "2026-01-19",
+ "letter_place": "Bolesławiec",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "11",
+   "city": "Mysłowice",
+   "country": null,
+   "postal_code": "36-004",
+   "street": "Przechodnia",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Agnieszka Korek",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "149",
+   "city": "Bolesławiec",
+   "country": null,
+   "postal_code": "57-919",
+   "street": "Piastowska",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Bolesławca",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Ochrony Środowiska i Gospodarki Komunalnej"
+ },
+ "signatory": {
+  "full_name": "Eliza Wyłupek",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "uzupełnienia braków formalnych wniosku o wydanie zezwolenia na usunięcie drzew"
+}

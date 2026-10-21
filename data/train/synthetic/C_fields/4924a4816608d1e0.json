@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2025-12-22",
+ "conclusion_place": "Nowa Sól",
+ "contract_type": "rental",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "97/2025",
+ "parties": [
+  {
+   "id_document": "PWJ524465",
+   "party": {
+    "address": {
+     "building_no": "17C",
+     "city": "Stalowa Wola",
+     "country": null,
+     "postal_code": "07-827",
+     "street": "Sienkiewicza",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Apolonia Anioła",
+    "nip": null,
+    "pesel": "57131837834",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wynajmujący"
+  },
+  {
+   "id_document": "PZN654084",
+   "party": {
+    "address": {
+     "building_no": "71",
+     "city": "Żagań",
+     "country": null,
+     "postal_code": "73-542",
+     "street": "Piwna",
+     "unit_no": "71"
+    },
+    "krs": null,
+    "name": "Natan Litwinowicz",
+    "nip": null,
+    "pesel": "92130774432",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Najemca"
+  }
+ ],
+ "payment_account": "PL35000000001864405328306245",
+ "remuneration": {
+  "amount": "5700.00",
+  "amount_in_words": "pięć tysięcy siedemset zł 00/100",
+  "basis": null,
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": false,
+ "subject": "Wynajmujący oddaje Najemcy do używania lokal mieszkalny położony w ul. Sienkiewicza 17C, 07-827 Stalowa Wola, wraz z wyposażeniem.",
+ "term": {
+  "end_date": "2026-12-01",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-12-30"
+ },
+ "title": "UMOWA NAJMU LOKALU 97/2025"
+}

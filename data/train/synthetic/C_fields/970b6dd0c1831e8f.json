@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2026-06-10",
+ "conclusion_place": "Szczytno",
+ "contract_type": "specific_work",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "U/481/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "101",
+     "city": "Gliwice",
+     "country": null,
+     "postal_code": "50-836",
+     "street": "Kazimierza Wielkiego",
+     "unit_no": "74"
+    },
+    "krs": null,
+    "name": "Gabinety Ewelina Karyś",
+    "nip": "0002400287",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zamawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "44B",
+     "city": "Tomaszów Mazowiecki",
+     "country": null,
+     "postal_code": "98-807",
+     "street": "Kosynierów",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Juliusz Spychaj",
+    "nip": null,
+    "pesel": "66162083178",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wykonawca"
+  }
+ ],
+ "payment_account": "PL84000000001111192801384335",
+ "remuneration": {
+  "amount": "16750.00",
+  "amount_in_words": "szesnaście tysięcy siedemset pięćdziesiąt zł 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Wykonawca zobowiązuje się do wykonania na rzecz Zamawiającego dzieła polegającego na opracowaniu i przekazaniu dokumentacji projektowej, zwanego dalej „Dziełem”, zgodnie z opisem i wytycznymi Zamawiającego.",
+ "term": {
+  "end_date": "2026-11-19",
+  "indefinite": false,
+  "notice_period": "14 dni",
+  "start_date": "2026-06-24"
+ },
+ "title": "UMOWA O DZIEŁO NR U/481/2026"
+}

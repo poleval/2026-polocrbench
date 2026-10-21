@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2026-02-13",
+ "conclusion_place": "Września",
+ "contract_type": "b2b",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "7/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "137",
+     "city": "Mińsk Mazowiecki",
+     "country": null,
+     "postal_code": "32-139",
+     "street": "Błękitna",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Armatys-Stanisławek S.A.",
+    "nip": "0006802203",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Sylwia Wywiał",
+     "role": "Wspólnik uprawniony do reprezentacji"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "153",
+     "city": "Ostrów Wielkopolski",
+     "country": null,
+     "postal_code": "46-605",
+     "street": "Brzozowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Gabinety Gustaw Ksel",
+    "nip": "0000927352",
+    "pesel": null,
+    "regon": "005072955",
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Wykonawca"
+  }
+ ],
+ "payment_account": "PL88000000006972897399717327",
+ "remuneration": {
+  "amount": "9400.00",
+  "amount_in_words": "dziewięć tysięcy czterysta złotych 00 gr",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Zleceniodawca powierza, a Wykonawca przyjmuje do wykonania, w ramach prowadzonej działalności gospodarczej, usługi doradcze i wdrożeniowe w zakresie wskazanym w załączniku nr 1 do Umowy.",
+ "term": {
+  "end_date": "2026-12-19",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2026-02-19"
+ },
+ "title": "UMOWA O WSPÓŁPRACY B2B NR 7/2026"
+}

@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "GK.7762.159.2026.AL",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 217 § 1 k.p.a.",
+  "art. 4 ust. 1 ustawy o planowaniu i zagospodarowaniu przestrzennym",
+  "art. 20 ust. 1 ustawy o planowaniu i zagospodarowaniu przestrzennym",
+  "art. 217 § 2 k.p.a.",
+  "art. 220 k.p.a.",
+  "art. 219 k.p.a."
+ ],
+ "letter_date": "2026-10-05",
+ "letter_place": "Pasłęk",
+ "letter_type": "certificate",
+ "recipient": {
+  "address": {
+   "building_no": "4",
+   "city": "Bielsk Podlaski",
+   "country": null,
+   "postal_code": "28-558",
+   "street": "Willowa",
+   "unit_no": "46"
+  },
+  "krs": null,
+  "name": "Liwia Burnat",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "13",
+   "city": "Pasłęk",
+   "country": null,
+   "postal_code": "76-156",
+   "street": "Jana Pawła II",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Pasłęka",
+  "epuap": null,
+  "nip": "0005805524",
+  "regon": null,
+  "unit": "Wydział Architektury i Planowania Przestrzennego"
+ },
+ "signatory": {
+  "full_name": "Kamil Hubert",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "przeznaczenia działki ewidencyjnej nr 139/21 w miejscowym planie zagospodarowania przestrzennego"
+}

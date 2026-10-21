@@ -1,0 +1,81 @@
+{
+ "conclusion_date": "2025-06-10",
+ "conclusion_place": "Grodzisk Mazowiecki",
+ "contract_type": "services",
+ "doc_type": "contract",
+ "governing_court": "Sąd Okręgowy w Warszawie",
+ "number": "79/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "112",
+     "city": "Dzierżoniów",
+     "country": null,
+     "postal_code": "90-898",
+     "street": "Hutnicza",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "FPUH Kulis S.A.",
+    "nip": "0004474999",
+    "pesel": null,
+    "regon": "005643642",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Dorota Marchlewicz",
+     "role": "Prokurent"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "98",
+     "city": "Czeladź",
+     "country": null,
+     "postal_code": "41-946",
+     "street": "Sarnia",
+     "unit_no": "21"
+    },
+    "krs": "0099999999",
+    "name": "Kuran S.A.",
+    "nip": "0001258717",
+    "pesel": null,
+    "regon": "009941431",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Kaja Paczos",
+     "role": "Prezes zarządu"
+    }
+   ],
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL21000000005931675573185613",
+ "remuneration": {
+  "amount": "8800.00",
+  "amount_in_words": "osiem tysięcy osiemset złotych 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Zleceniobiorca zobowiązuje się do świadczenia na rzecz Zleceniodawcy usług polegających na utrzymaniu i rozwoju systemu informatycznego Zleceniodawcy, zwanego dalej Systemem.",
+ "term": {
+  "end_date": "2025-10-24",
+  "indefinite": false,
+  "notice_period": "30 dni",
+  "start_date": "2025-06-18"
+ },
+ "title": "UMOWA O ŚWIADCZENIE USŁUG NR 79/2025"
+}

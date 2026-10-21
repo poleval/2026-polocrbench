@@ -1,0 +1,70 @@
+{
+ "conclusion_date": "2026-08-05",
+ "conclusion_place": "Płock",
+ "contract_type": "nda",
+ "doc_type": "contract",
+ "governing_court": "Sąd Okręgowy w Warszawie",
+ "number": "11/08/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "82",
+     "city": "Sosnowiec",
+     "country": null,
+     "postal_code": "99-793",
+     "street": "Tysiąclecia",
+     "unit_no": "90"
+    },
+    "krs": "0099999999",
+    "name": "Hrynkiewicz-Westfal S.A.",
+    "nip": "0001441806",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Ignacy Dydo",
+     "role": "Kierownik jednostki organizacyjnej"
+    }
+   ],
+   "role": "Strona Ujawniająca"
+  },
+  {
+   "id_document": "PFD399434",
+   "party": {
+    "address": {
+     "building_no": "105",
+     "city": "Świdnik",
+     "country": null,
+     "postal_code": "21-165",
+     "street": "Rolnicza",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Adrianna Zaranek",
+    "nip": null,
+    "pesel": "86171270145",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Strona Otrzymująca"
+  }
+ ],
+ "payment_account": null,
+ "remuneration": null,
+ "signatures_present": false,
+ "subject": "Strona Ujawniająca przekazuje Stronie Otrzymującej informacje poufne dotyczące planowanej współpracy gospodarczej w celu oceny możliwości jej nawiązania.",
+ "term": {
+  "end_date": "2027-06-03",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2026-08-19"
+ },
+ "title": "UMOWA O ZACHOWANIU POUFNOŚCI NR 11/08/2026"
+}

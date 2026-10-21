@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "PS.3885.146.2026",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6 ust. 2 ustawy o petycjach",
+  "art. 6 ust. 1 ustawy o petycjach"
+ ],
+ "letter_date": "2026-08-25",
+ "letter_place": "Łaziska Górne",
+ "letter_type": "information",
+ "recipient": {
+  "address": {
+   "building_no": "93",
+   "city": "Krosno",
+   "country": null,
+   "postal_code": "15-482",
+   "street": "Jodłowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "FPUH Gapys Sp. z o.o.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "18",
+   "city": "Łaziska Górne",
+   "country": null,
+   "postal_code": "87-822",
+   "street": "Maja",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Łazisk Górnych",
+  "epuap": "/UMLaziskaGorne/SkrytkaESP",
+  "nip": "0002817432",
+  "regon": "001494228",
+  "unit": "Wydział Organizacyjny"
+ },
+ "signatory": {
+  "full_name": "Konrad Cudzich",
+  "role": "Burmistrz"
+ },
+ "subject": "sposób załatwienia petycji złożonej w dniu 2026-07-19 o zagospodarowanie nieruchomości oznaczonej numerem działki 477/5"
+}

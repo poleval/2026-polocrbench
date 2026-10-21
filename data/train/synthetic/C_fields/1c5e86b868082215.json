@@ -1,0 +1,98 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "43",
+   "city": "Pruszcz Gdański",
+   "country": null,
+   "postal_code": "67-125",
+   "street": "Lawendowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Kajetan Hallmann",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-08-18",
+ "issue_place": null,
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Koperta bąbelkowa A4",
+   "discount": null,
+   "gross_amount": "15.06",
+   "line_no": 1,
+   "net_amount": "12.24",
+   "pkwiu_or_gtu": null,
+   "quantity": "6",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "2.04",
+   "vat_amount": "2.82",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Tłumaczenie dokumentów prawnych",
+   "discount": null,
+   "gross_amount": "257.56",
+   "line_no": 2,
+   "net_amount": "209.40",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "str.",
+   "unit_price_gross": null,
+   "unit_price_net": "104.70",
+   "vat_amount": "48.16",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FV/2025/08/0472",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "cash"
+ },
+ "recipient": null,
+ "sale_date": "2025-08-18",
+ "seller": {
+  "address": {
+   "building_no": "99",
+   "city": "Bielawa",
+   "country": null,
+   "postal_code": "33-729",
+   "street": "Młyńska",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "PPUH Fryderyk Paszkowiak",
+  "nip": "0001087405",
+  "pesel": null,
+  "regon": "004825298",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "272.62",
+  "amount_in_words": "dwieście siedemdziesiąt dwa złote 62/100",
+  "amount_paid": null,
+  "gross_amount": "272.62",
+  "net_amount": "221.64",
+  "vat_amount": "50.98"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "272.62",
+   "net_amount": "221.64",
+   "vat_amount": "50.98",
+   "vat_rate": "23"
+  }
+ ]
+}

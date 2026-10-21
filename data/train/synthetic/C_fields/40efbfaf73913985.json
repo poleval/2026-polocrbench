@@ -1,0 +1,64 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze w Katowicach": [
+   "Samorządowego Kolegium Odwoławczego w Katowicach"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Katowicach",
+ "attachments_count": 1,
+ "case_ref": "FN.7533.77.2026",
+ "deadline": {
+  "action": "wniesienie odwołania",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": "Zezwalam stronie: Ryszard Wiertel na usunięcie drzew rosnących na nieruchomości oznaczonej jako działka ewidencyjna nr 748/14, zgodnie z wnioskiem z dnia 2026-02-28.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 87 ust. 1 ustawy o ochronie przyrody",
+  "art. 83 ust. 1 ustawy o ochronie przyrody",
+  "art. 84 ust. 1 ustawy o ochronie przyrody",
+  "art. 104 k.p.a.",
+  "art. 127 § 2 k.p.a.",
+  "art. 129 § 2 k.p.a."
+ ],
+ "letter_date": "2026-04-06",
+ "letter_place": "Czerwionka-Leszczyny",
+ "letter_type": "decision",
+ "recipient": {
+  "address": {
+   "building_no": "83",
+   "city": "Gorlice",
+   "country": null,
+   "postal_code": "05-064",
+   "street": "Rycerska",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Ryszard Wiertel",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "56",
+   "city": "Czerwionka-Leszczyny",
+   "country": null,
+   "postal_code": "81-394",
+   "street": "Grabowa",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Czerwionki-Leszczyn",
+  "epuap": "/BMCzerwionkaLeszczyny/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Ochrony Środowiska i Gospodarki Komunalnej"
+ },
+ "signatory": {
+  "full_name": "Ada Gęca",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "zezwolenie na usunięcie drzew rosnących na nieruchomości oznaczonej jako działka ewidencyjna nr 748/14"
+}

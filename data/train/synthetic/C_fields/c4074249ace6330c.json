@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "OŚ.7345.13.2025",
+ "deadline": {
+  "action": "usunięcia wskazanych braków",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 64 § 1 k.p.a.",
+  "art. 64 § 2 k.p.a."
+ ],
+ "letter_date": "2025-11-18",
+ "letter_place": "Piława Górna",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "46",
+   "city": "Gdynia",
+   "country": null,
+   "postal_code": "38-012",
+   "street": "Listopada",
+   "unit_no": "69"
+  },
+  "krs": null,
+  "name": "Polnik S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "115B",
+   "city": "Piława Górna",
+   "country": null,
+   "postal_code": "23-118",
+   "street": "Kosynierów",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Piławy Górnej",
+  "epuap": null,
+  "nip": "0001780879",
+  "regon": null,
+  "unit": "Wydział Spraw Administracyjnych"
+ },
+ "signatory": {
+  "full_name": "Leonard Sierpień",
+  "role": "Kierownik Wydziału Spraw Administracyjnych"
+ },
+ "subject": "uzupełnienie braków formalnych wniosku z dnia 15.11.2025 o wydanie decyzji administracyjnej dla działki nr 533/6"
+}

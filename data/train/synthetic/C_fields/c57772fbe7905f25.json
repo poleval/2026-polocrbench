@@ -1,0 +1,81 @@
+{
+ "conclusion_date": "2026-08-14",
+ "conclusion_place": "Kraków",
+ "contract_type": "services",
+ "doc_type": "contract",
+ "governing_court": "Sąd Okręgowy w Warszawie",
+ "number": "U/512/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "111",
+     "city": "Bydgoszcz",
+     "country": null,
+     "postal_code": "30-242",
+     "street": "Makowa",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "PPUH Chadaj Sp. z o.o.",
+    "nip": "0004730422",
+    "pesel": null,
+    "regon": "009858546",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Klara Sośniak",
+     "role": "Prokurent"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "49C",
+     "city": "Giżycko",
+     "country": null,
+     "postal_code": "53-337",
+     "street": "Leśna",
+     "unit_no": "11"
+    },
+    "krs": "0099999999",
+    "name": "PPUH Buk Sp. z o.o.",
+    "nip": "0003386313",
+    "pesel": null,
+    "regon": "007853390",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Szymon Gasz",
+     "role": "Wiceprezes zarządu"
+    }
+   ],
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL14000000009074406814506237",
+ "remuneration": {
+  "amount": "9800.00",
+  "amount_in_words": "dziewięć tysięcy osiemset zł 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": false,
+ "subject": "Zleceniobiorca zobowiązuje się do świadczenia na rzecz Zleceniodawcy usług polegających na utrzymaniu i rozwoju systemu informatycznego Zleceniodawcy, zwanego dalej Systemem.",
+ "term": {
+  "end_date": "2027-01-01",
+  "indefinite": false,
+  "notice_period": "30 dni",
+  "start_date": "2026-08-16"
+ },
+ "title": "UMOWA O ŚWIADCZENIE USŁUG NR U/512/2026"
+}

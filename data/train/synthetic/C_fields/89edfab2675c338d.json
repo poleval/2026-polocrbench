@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "PS.4407.249.2026",
+ "deadline": {
+  "action": "usunięcia wskazanych braków",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 64 § 1 k.p.a.",
+  "art. 64 § 2 k.p.a."
+ ],
+ "letter_date": "2026-01-12",
+ "letter_place": "Szlichtyngowa",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "31A",
+   "city": "Puławy",
+   "country": null,
+   "postal_code": "75-279",
+   "street": "Harcerska",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Spółdzielnia Żołna",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "40",
+   "city": "Szlichtyngowa",
+   "country": null,
+   "postal_code": "47-935",
+   "street": "Mostowa",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Szlichtyngowej",
+  "epuap": "/UMSzlichtyngowa/SkrytkaESP",
+  "nip": null,
+  "regon": "009763449",
+  "unit": "Wydział Spraw Administracyjnych"
+ },
+ "signatory": {
+  "full_name": "Fabian Baum",
+  "role": "Kierownik Wydziału Spraw Administracyjnych"
+ },
+ "subject": "uzupełnienie braków formalnych wniosku z dnia 05-12-2025 o wydanie decyzji administracyjnej dla działki nr 104/5"
+}

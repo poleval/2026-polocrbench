@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "FN.7278.35.2025",
+ "deadline": {
+  "action": "złożenie deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi",
+  "date": "2025-04-23",
+  "days": null
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6m ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 64 § 2 k.p.a."
+ ],
+ "letter_date": "2025-04-09",
+ "letter_place": "Szklarska Poręba",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "97",
+   "city": "Sosnowiec",
+   "country": null,
+   "postal_code": "91-662",
+   "street": "Robotnicza",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Kuzior-Maciejczuk Sp. z o.o.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "75C",
+   "city": "Szklarska Poręba",
+   "country": null,
+   "postal_code": "83-603",
+   "street": "Reja",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Szklarskiej Poręby",
+  "epuap": "/BMSzklarskaPoreba/SkrytkaESP",
+  "nip": null,
+  "regon": "006730120",
+  "unit": "Wydział Gospodarki Odpadami i Ochrony Środowiska"
+ },
+ "signatory": {
+  "full_name": "Oliwier Łokaj",
+  "role": "Burmistrz"
+ },
+ "subject": "złożenia deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi"
+}

@@ -1,0 +1,84 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "64",
+   "city": "Goleniów",
+   "country": null,
+   "postal_code": "40-691",
+   "street": "Zakątek",
+   "unit_no": "90"
+  },
+  "krs": "0099999999",
+  "name": "Pajdak S.A.",
+  "nip": "0008249868",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-07-28",
+ "issue_place": null,
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Montaż pralki u klienta",
+   "discount": null,
+   "gross_amount": "270.71",
+   "line_no": 1,
+   "net_amount": "220.09",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "220.09",
+   "vat_amount": null,
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FV/2025/07/0303",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "cash"
+ },
+ "recipient": null,
+ "sale_date": null,
+ "seller": {
+  "address": {
+   "building_no": "26",
+   "city": "Skawina",
+   "country": null,
+   "postal_code": "78-930",
+   "street": "Słowicza",
+   "unit_no": "81"
+  },
+  "krs": null,
+  "name": "Gabinety Tadeusz Sadoch",
+  "nip": "0006548064",
+  "pesel": null,
+  "regon": "001693755",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "270.71",
+  "amount_in_words": "dwieście siedemdziesiąt złotych 71/100",
+  "amount_paid": null,
+  "gross_amount": "270.71",
+  "net_amount": "220.09",
+  "vat_amount": "50.62"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "270.71",
+   "net_amount": "220.09",
+   "vat_amount": "50.62",
+   "vat_rate": "23"
+  }
+ ]
+}

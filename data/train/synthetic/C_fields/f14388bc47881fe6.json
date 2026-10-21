@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "OR.5537.97.2026.NW",
+ "deadline": {
+  "action": "usunięcia wskazanych braków",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 64 § 1 k.p.a.",
+  "art. 64 § 2 k.p.a."
+ ],
+ "letter_date": "2026-03-28",
+ "letter_place": "Pogorzela",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "19C",
+   "city": "Wodzisław Śląski",
+   "country": null,
+   "postal_code": "24-537",
+   "street": "Borowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Sonia Kłosowicz",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "78",
+   "city": "Pogorzela",
+   "country": null,
+   "postal_code": "33-630",
+   "street": "Hallera",
+   "unit_no": "66"
+  },
+  "authority_name": "Urząd Miasta Pogorzeli",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Spraw Administracyjnych"
+ },
+ "signatory": {
+  "full_name": "Nicole Beker",
+  "role": "Kierownik Wydziału Spraw Administracyjnych"
+ },
+ "subject": "uzupełnienie braków formalnych wniosku z dnia 25-02-2026 o wydanie decyzji administracyjnej dla działki nr 470/17"
+}

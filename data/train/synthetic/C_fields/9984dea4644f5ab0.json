@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2026-03-01",
+ "conclusion_place": "Jaworzno",
+ "contract_type": "specific_work",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "U/173/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "67",
+     "city": "Świętochłowice",
+     "country": null,
+     "postal_code": "64-116",
+     "street": "Zbożowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Gabinety Anna Maria Huczek",
+    "nip": "0008424337",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zamawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "18",
+     "city": "Ciechanów",
+     "country": null,
+     "postal_code": "89-008",
+     "street": "Mazowiecka",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Marianna Opyrchał",
+    "nip": null,
+    "pesel": "95140815670",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wykonawca"
+  }
+ ],
+ "payment_account": "PL07000000006042694753960218",
+ "remuneration": {
+  "amount": "23650.00",
+  "amount_in_words": "dwadzieścia trzy tysiące sześćset pięćdziesiąt złotych 00 gr",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": false,
+ "subject": "Wykonawca zobowiązuje się do wykonania na rzecz Zamawiającego dzieła polegającego na opracowaniu i przekazaniu dokumentacji projektowej, zwanego dalej „Dziełem”, zgodnie z opisem i wytycznymi Zamawiającego.",
+ "term": {
+  "end_date": "2026-04-13",
+  "indefinite": false,
+  "notice_period": "14 dni",
+  "start_date": "2026-03-14"
+ },
+ "title": "UMOWA O DZIEŁO NR U/173/2026"
+}

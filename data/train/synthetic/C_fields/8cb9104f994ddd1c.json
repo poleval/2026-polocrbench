@@ -1,0 +1,180 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "7",
+   "city": "Chojnice",
+   "country": null,
+   "postal_code": "53-032",
+   "street": "Grunwaldzka",
+   "unit_no": "48"
+  },
+  "krs": null,
+  "name": "Artur Kursa",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-12-23",
+ "issue_place": "Bydgoszcz",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Korepetycje z matematyki dla uczniów szkół podstawowych",
+   "discount": null,
+   "gross_amount": "2927.40",
+   "line_no": 1,
+   "net_amount": "2380.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "20",
+   "unit": "godz.",
+   "unit_price_gross": null,
+   "unit_price_net": "119.00",
+   "vat_amount": "547.40",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Zeszyt ćwiczeń do kursu księgowości",
+   "discount": null,
+   "gross_amount": "805.35",
+   "line_no": 2,
+   "net_amount": "767.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "13",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "59.00",
+   "vat_amount": "38.35",
+   "vat_rate": "5"
+  },
+  {
+   "description": "Usługa noclegowa podczas szkolenia",
+   "discount": null,
+   "gross_amount": "357.48",
+   "line_no": 3,
+   "net_amount": "331.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "noc",
+   "unit_price_gross": null,
+   "unit_price_net": "331.00",
+   "vat_amount": "26.48",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Szkolenie z cyberbezpieczeństwa dla pracowników",
+   "discount": null,
+   "gross_amount": "1027.05",
+   "line_no": 4,
+   "net_amount": "835.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "835.00",
+   "vat_amount": "192.05",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Konsultacja indywidualna z doradcą zawodowym",
+   "discount": null,
+   "gross_amount": "1083.14",
+   "line_no": 5,
+   "net_amount": "880.60",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "godz.",
+   "unit_price_gross": null,
+   "unit_price_net": "440.30",
+   "vat_amount": "202.54",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Kurs online z marketingu internetowego",
+   "discount": null,
+   "gross_amount": "1438.71",
+   "line_no": 6,
+   "net_amount": "1169.68",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "dostęp",
+   "unit_price_gross": null,
+   "unit_price_net": "584.84",
+   "vat_amount": "269.03",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Kurs pierwszej pomocy przedmedycznej dla pracowników",
+   "discount": null,
+   "gross_amount": "234.93",
+   "line_no": 7,
+   "net_amount": "191.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "191.00",
+   "vat_amount": "43.93",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FV/2025/12/0208",
+ "payment": {
+  "bank_account": "PL32000000009904726349466379",
+  "bank_name": "Bank Zielonej Doliny",
+  "due_date": "2026-01-13",
+  "due_days": null,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": null,
+ "seller": {
+  "address": {
+   "building_no": "96",
+   "city": "Ełk",
+   "country": null,
+   "postal_code": "56-013",
+   "street": "Osiedlowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Kopyść S.A.",
+  "nip": "0001424305",
+  "pesel": null,
+  "regon": "001611326",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "7874.06",
+  "amount_in_words": "siedem tysięcy osiemset siedemdziesiąt cztery złote 06 gr",
+  "amount_paid": null,
+  "gross_amount": "7874.06",
+  "net_amount": "6554.28",
+  "vat_amount": "1319.78"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "6711.23",
+   "net_amount": "5456.28",
+   "vat_amount": "1254.95",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "357.48",
+   "net_amount": "331.00",
+   "vat_amount": "26.48",
+   "vat_rate": "8"
+  },
+  {
+   "gross_amount": "805.35",
+   "net_amount": "767.00",
+   "vat_amount": "38.35",
+   "vat_rate": "5"
+  }
+ ]
+}

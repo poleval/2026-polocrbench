@@ -1,0 +1,53 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "OR.6133.15.2025.TT",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 61 § 1 i 4 k.p.a.",
+  "art. 10 § 1 k.p.a.",
+  "art. 73 § 1 k.p.a.",
+  "art. 41 § 1 k.p.a."
+ ],
+ "letter_date": "2025-09-04",
+ "letter_place": "Nowa Słupia",
+ "letter_type": "notification",
+ "recipient": {
+  "address": {
+   "building_no": "5",
+   "city": "Kętrzyn",
+   "country": null,
+   "postal_code": "58-103",
+   "street": "Rubinowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Liwia Kosznik",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "146",
+   "city": "Nowa Słupia",
+   "country": null,
+   "postal_code": "19-467",
+   "street": "Tęczowa",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Nowej Słupi",
+  "epuap": "/BMNowaSlupia/SkrytkaESP",
+  "nip": "0003904481",
+  "regon": null,
+  "unit": "Wydział Gospodarki Przestrzennej i Architektury"
+ },
+ "signatory": {
+  "full_name": "Sylwia Goliasz",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "wszczęcie postępowania administracyjnego dotyczącego wydania decyzji o warunkach zabudowy"
+}

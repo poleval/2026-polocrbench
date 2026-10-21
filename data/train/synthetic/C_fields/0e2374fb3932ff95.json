@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "OŚ.7939.65.2026.MD",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 217 § 1 k.p.a.",
+  "art. 4 ust. 1 ustawy o planowaniu i zagospodarowaniu przestrzennym",
+  "art. 20 ust. 1 ustawy o planowaniu i zagospodarowaniu przestrzennym",
+  "art. 217 § 2 k.p.a.",
+  "art. 220 k.p.a.",
+  "art. 219 k.p.a."
+ ],
+ "letter_date": "2026-01-31",
+ "letter_place": "Opole Lubelskie",
+ "letter_type": "certificate",
+ "recipient": {
+  "address": {
+   "building_no": "129",
+   "city": "Białystok",
+   "country": null,
+   "postal_code": "11-024",
+   "street": "Sienkiewicza",
+   "unit_no": "80"
+  },
+  "krs": null,
+  "name": "Konrad Sztuba",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "107",
+   "city": "Opole Lubelskie",
+   "country": null,
+   "postal_code": "77-146",
+   "street": "Podleśna",
+   "unit_no": "42"
+  },
+  "authority_name": "Burmistrz Miasta Opola Lubelskiego",
+  "epuap": "/BMOpoleLubelskie/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Architektury i Planowania Przestrzennego"
+ },
+ "signatory": {
+  "full_name": "Tymoteusz Lipowicz",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "przeznaczenia działki ewidencyjnej nr 472/20 w miejscowym planie zagospodarowania przestrzennego"
+}

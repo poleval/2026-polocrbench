@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2026-03-30",
+ "conclusion_place": "Piła",
+ "contract_type": "specific_work",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "26/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "133",
+     "city": "Łuków",
+     "country": null,
+     "postal_code": "63-687",
+     "street": "Wałowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Gabinety Rafał Dumała",
+    "nip": "0002065529",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zamawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "42",
+     "city": "Luboń",
+     "country": null,
+     "postal_code": "92-542",
+     "street": "Gołębia",
+     "unit_no": "53"
+    },
+    "krs": null,
+    "name": "Kalina Jany",
+    "nip": null,
+    "pesel": "72202719460",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wykonawca"
+  }
+ ],
+ "payment_account": "PL75000000007090841432702004",
+ "remuneration": {
+  "amount": "24700.00",
+  "amount_in_words": "dwadzieścia cztery tysiące siedemset złotych 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Wykonawca zobowiązuje się do wykonania na rzecz Zamawiającego dzieła polegającego na opracowaniu i przekazaniu dokumentacji projektowej, zwanego dalej „Dziełem”, zgodnie z opisem i wytycznymi Zamawiającego.",
+ "term": {
+  "end_date": "2026-12-13",
+  "indefinite": false,
+  "notice_period": "14 dni",
+  "start_date": "2026-04-08"
+ },
+ "title": "UMOWA O DZIEŁO NR 26/2026"
+}

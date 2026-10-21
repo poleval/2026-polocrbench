@@ -1,0 +1,154 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "6",
+   "city": "Sanok",
+   "country": null,
+   "postal_code": "83-830",
+   "street": "Rycerska",
+   "unit_no": "1"
+  },
+  "krs": null,
+  "name": "Sandra Wośko",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-08-30",
+ "issue_place": "Legionowo",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Blat z konglomeratu kwarcowego",
+   "discount": null,
+   "gross_amount": "2599.61",
+   "line_no": 1,
+   "net_amount": "2113.50",
+   "pkwiu_or_gtu": null,
+   "quantity": "1.5",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "1409.00",
+   "vat_amount": "486.11",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Lustro ścienne z ramą 80x120",
+   "discount": null,
+   "gross_amount": "1248.67",
+   "line_no": 2,
+   "net_amount": "1015.18",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "507.59",
+   "vat_amount": "233.49",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Szafa dwudrzwiowa z płyty laminowanej",
+   "discount": null,
+   "gross_amount": "2766.28",
+   "line_no": 3,
+   "net_amount": "2249.01",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "2249.01",
+   "vat_amount": "517.27",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Blat kuchenny laminowany na wymiar",
+   "discount": null,
+   "gross_amount": "5372.64",
+   "line_no": 4,
+   "net_amount": "4368.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "8",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "546.00",
+   "vat_amount": "1004.64",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Wizualizacja 3D pomieszczenia",
+   "discount": null,
+   "gross_amount": "751.53",
+   "line_no": 5,
+   "net_amount": "611.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "611.00",
+   "vat_amount": "140.53",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Komoda z lustrem",
+   "discount": null,
+   "gross_amount": "706.02",
+   "line_no": 6,
+   "net_amount": "574.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "574.00",
+   "vat_amount": "132.02",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "739/08/2026",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "cash"
+ },
+ "recipient": null,
+ "sale_date": "2026-08-30",
+ "seller": {
+  "address": {
+   "building_no": "158",
+   "city": "Jelenia Góra",
+   "country": null,
+   "postal_code": "10-382",
+   "street": "Prusa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "PPUH Bruno Bender",
+  "nip": "0006713221",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "13444.75",
+  "amount_in_words": "trzynaście tysięcy czterysta czterdzieści cztery zł 75/100",
+  "amount_paid": null,
+  "gross_amount": "13444.75",
+  "net_amount": "10930.69",
+  "vat_amount": "2514.06"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "13444.75",
+   "net_amount": "10930.69",
+   "vat_amount": "2514.06",
+   "vat_rate": "23"
+  }
+ ]
+}

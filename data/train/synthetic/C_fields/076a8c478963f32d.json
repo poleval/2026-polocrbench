@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2026-03-10",
+ "conclusion_place": "Nowa Ruda",
+ "contract_type": "lease",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "U/246/2026",
+ "parties": [
+  {
+   "id_document": "BQL977929",
+   "party": {
+    "address": {
+     "building_no": "137",
+     "city": "Starogard Gdański",
+     "country": null,
+     "postal_code": "35-876",
+     "street": "Środkowa",
+     "unit_no": "9"
+    },
+    "krs": null,
+    "name": "Apolonia Teterycz",
+    "nip": null,
+    "pesel": "12181381658",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wydzierżawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "141",
+     "city": "Tczew",
+     "country": null,
+     "postal_code": "94-192",
+     "street": "Partyzantów",
+     "unit_no": "48"
+    },
+    "krs": null,
+    "name": "Gabinety Anita Ochał",
+    "nip": "0000932979",
+    "pesel": null,
+    "regon": "001544080",
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Dzierżawca"
+  }
+ ],
+ "payment_account": "PL22000000008044323515518339",
+ "remuneration": {
+  "amount": "8600.00",
+  "amount_in_words": "osiem tysięcy sześćset złotych 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": false,
+ "subject": "Wydzierżawiający oddaje Dzierżawcy do używania i pobierania pożytków nieruchomość gruntową wraz z zabudowaniami, zwaną dalej „Przedmiotem dzierżawy”, opisaną w protokole zdawczo-odbiorczym stanowiącym załącznik nr 1 do umowy.",
+ "term": {
+  "end_date": "2026-11-11",
+  "indefinite": false,
+  "notice_period": "1 miesiąca",
+  "start_date": "2026-03-13"
+ },
+ "title": "UMOWA DZIERŻAWY NR U/246/2026"
+}

@@ -1,0 +1,53 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "SO.6443.235.2026",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 61 § 1 i 4 k.p.a.",
+  "art. 10 § 1 k.p.a.",
+  "art. 73 § 1 k.p.a.",
+  "art. 41 § 1 k.p.a."
+ ],
+ "letter_date": "2026-04-28",
+ "letter_place": "Józefów",
+ "letter_type": "notification",
+ "recipient": {
+  "address": {
+   "building_no": "8",
+   "city": "Krosno",
+   "country": null,
+   "postal_code": "53-263",
+   "street": "Reja",
+   "unit_no": "17"
+  },
+  "krs": null,
+  "name": "Brachaczek S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "61",
+   "city": "Józefów",
+   "country": null,
+   "postal_code": "62-591",
+   "street": "Krasickiego",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Józefowa",
+  "epuap": "/BMJozefow/SkrytkaESP",
+  "nip": "0000075357",
+  "regon": null,
+  "unit": "Wydział Gospodarki Przestrzennej i Architektury"
+ },
+ "signatory": {
+  "full_name": "Kazimierz Pęciak",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "wszczęcie postępowania administracyjnego dotyczącego wydania decyzji o warunkach zabudowy"
+}

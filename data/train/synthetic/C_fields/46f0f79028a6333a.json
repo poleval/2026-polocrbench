@@ -1,0 +1,146 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "154",
+   "city": "Oława",
+   "country": null,
+   "postal_code": "15-979",
+   "street": "Korfantego",
+   "unit_no": null
+  },
+  "krs": "0099999999",
+  "name": "Juroszek S.A.",
+  "nip": "0009983501",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "proforma",
+ "issue_date": "2026-05-10",
+ "issue_place": "Mielec",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Siatka mesh do banerów",
+   "discount": null,
+   "gross_amount": "241.08",
+   "line_no": 1,
+   "net_amount": "196.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "5",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "39.20",
+   "vat_amount": "45.08",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Ryż basmati",
+   "discount": null,
+   "gross_amount": "12.26",
+   "line_no": 2,
+   "net_amount": "11.68",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "kg",
+   "unit_price_gross": null,
+   "unit_price_net": "11.68",
+   "vat_amount": "0.58",
+   "vat_rate": "5"
+  },
+  {
+   "description": "Wahacz przedni zawieszenia",
+   "discount": null,
+   "gross_amount": "337.02",
+   "line_no": 3,
+   "net_amount": "274.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "274.00",
+   "vat_amount": "63.02",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Licencja oprogramowania księgowego",
+   "discount": null,
+   "gross_amount": "851.16",
+   "line_no": 4,
+   "net_amount": "692.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "692.00",
+   "vat_amount": "159.16",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Przewód elektryczny YDY 3x2,5 mm2",
+   "discount": null,
+   "gross_amount": "90.90",
+   "line_no": 5,
+   "net_amount": "73.90",
+   "pkwiu_or_gtu": null,
+   "quantity": "10",
+   "unit": "mb",
+   "unit_price_gross": null,
+   "unit_price_net": "7.39",
+   "vat_amount": "17.00",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "PF/2026/0886",
+ "payment": {
+  "bank_account": "PL17000000003974920923353055",
+  "bank_name": null,
+  "due_date": "2026-05-24",
+  "due_days": null,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2026-05-01",
+ "seller": {
+  "address": {
+   "building_no": "16",
+   "city": "Polkowice",
+   "country": null,
+   "postal_code": "67-084",
+   "street": "Ściegiennego",
+   "unit_no": "19"
+  },
+  "krs": "0099999999",
+  "name": "Romaniak S.A.",
+  "nip": "0006242537",
+  "pesel": null,
+  "regon": "006672551",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "1532.42",
+  "amount_in_words": "tysiąc pięćset trzydzieści dwa zł 42/100",
+  "amount_paid": null,
+  "gross_amount": "1532.42",
+  "net_amount": "1247.58",
+  "vat_amount": "284.84"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "1520.16",
+   "net_amount": "1235.90",
+   "vat_amount": "284.26",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "12.26",
+   "net_amount": "11.68",
+   "vat_amount": "0.58",
+   "vat_rate": "5"
+  }
+ ]
+}

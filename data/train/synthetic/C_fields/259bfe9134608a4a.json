@@ -1,0 +1,56 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "SO.3650.205.2025.AQ",
+ "deadline": {
+  "action": "uzupełnić braki formalne wniosku",
+  "date": "2025-12-27",
+  "days": null
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 64 § 2 k.p.a.",
+  "art. 83a ust. 2 ustawy o ochronie przyrody",
+  "art. 83a ust. 3 ustawy o ochronie przyrody"
+ ],
+ "letter_date": "2025-11-28",
+ "letter_place": "Trzciel",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "61",
+   "city": "Dąbrowa Górnicza",
+   "country": null,
+   "postal_code": "65-141",
+   "street": "Zielona",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Stowarzyszenie Naumiuk",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "35",
+   "city": "Trzciel",
+   "country": null,
+   "postal_code": "84-683",
+   "street": "Hutnicza",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Trzciela",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Ochrony Środowiska i Gospodarki Komunalnej"
+ },
+ "signatory": {
+  "full_name": "Ewelina Jamroz",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "uzupełnienia braków formalnych wniosku o wydanie zezwolenia na usunięcie drzew"
+}

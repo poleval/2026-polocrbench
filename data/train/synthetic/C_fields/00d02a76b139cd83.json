@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2026-05-03",
+ "conclusion_place": "Żory",
+ "contract_type": "services",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "61/05/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "95",
+     "city": "Płock",
+     "country": null,
+     "postal_code": "47-814",
+     "street": "Dojazdowa",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Wyłupek S.A.",
+    "nip": "0009905553",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Sandra Skup",
+     "role": "Członek zarządu"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "13",
+     "city": "Legionowo",
+     "country": null,
+     "postal_code": "35-710",
+     "street": "Wrocławska",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "FPUH Nela Pracz",
+    "nip": "0000402158",
+    "pesel": null,
+    "regon": "001452773",
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL83000000001522542534392771",
+ "remuneration": {
+  "amount": "16800.00",
+  "amount_in_words": "szesnaście tysięcy osiemset złotych 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Zleceniobiorca zobowiązuje się do świadczenia na rzecz Zleceniodawcy usług informatycznych polegających na administracji infrastrukturą serwerową, utrzymaniu kopii zapasowych oraz bieżącym wsparciu użytkowników.",
+ "term": {
+  "end_date": "2027-01-14",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2026-05-12"
+ },
+ "title": "UMOWA O ŚWIADCZENIE USŁUG NR 61/05/2026"
+}

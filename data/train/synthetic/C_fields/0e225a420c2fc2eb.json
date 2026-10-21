@@ -1,0 +1,146 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "57",
+   "city": "Zielona Góra",
+   "country": null,
+   "postal_code": "91-571",
+   "street": "Handlowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "PPUH Fryderyk Szpyt",
+  "nip": "0002167075",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-09-08",
+ "issue_place": "Bydgoszcz",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Oprawa oświetleniowa LED sufitowa 36W",
+   "discount": null,
+   "gross_amount": "738.26",
+   "line_no": 1,
+   "net_amount": "600.21",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "200.07",
+   "vat_amount": "138.05",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Wynajem sali szkoleniowej z wyposażeniem",
+   "discount": null,
+   "gross_amount": "1377.60",
+   "line_no": 2,
+   "net_amount": "1120.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "10",
+   "unit": "godz.",
+   "unit_price_gross": null,
+   "unit_price_net": "112.00",
+   "vat_amount": "257.60",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Ziemniaki młode",
+   "discount": null,
+   "gross_amount": "1.85",
+   "line_no": 3,
+   "net_amount": "1.76",
+   "pkwiu_or_gtu": null,
+   "quantity": "0.5",
+   "unit": "kg",
+   "unit_price_gross": null,
+   "unit_price_net": "3.52",
+   "vat_amount": "0.09",
+   "vat_rate": "5"
+  },
+  {
+   "description": "Makaron penne",
+   "discount": null,
+   "gross_amount": "28.70",
+   "line_no": 4,
+   "net_amount": "27.33",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "kg",
+   "unit_price_gross": null,
+   "unit_price_net": "9.11",
+   "vat_amount": "1.37",
+   "vat_rate": "5"
+  },
+  {
+   "description": "Kredki ołówkowe 12 kolorów",
+   "discount": null,
+   "gross_amount": "141.20",
+   "line_no": 5,
+   "net_amount": "114.80",
+   "pkwiu_or_gtu": null,
+   "quantity": "14",
+   "unit": "kpl.",
+   "unit_price_gross": null,
+   "unit_price_net": "8.20",
+   "vat_amount": "26.40",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "660/09/2026",
+ "payment": {
+  "bank_account": "PL44000000004059744806036877",
+  "bank_name": null,
+  "due_date": "2026-10-08",
+  "due_days": null,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2026-08-31",
+ "seller": {
+  "address": {
+   "building_no": "62",
+   "city": "Świnoujście",
+   "country": null,
+   "postal_code": "70-139",
+   "street": "Zakątek",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Wawrzkiewicz Sp. z o.o.",
+  "nip": "0009148000",
+  "pesel": null,
+  "regon": "004922110",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "2287.61",
+  "amount_in_words": "dwa tysiące dwieście osiemdziesiąt siedem złotych 61 gr",
+  "amount_paid": null,
+  "gross_amount": "2287.61",
+  "net_amount": "1864.10",
+  "vat_amount": "423.51"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "2257.06",
+   "net_amount": "1835.01",
+   "vat_amount": "422.05",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "30.55",
+   "net_amount": "29.09",
+   "vat_amount": "1.46",
+   "vat_rate": "5"
+  }
+ ]
+}

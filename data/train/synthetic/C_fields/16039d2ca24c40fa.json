@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2026-05-16",
+ "conclusion_place": "Częstochowa",
+ "contract_type": "employment",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "18/05/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "87",
+     "city": "Elbląg",
+     "country": null,
+     "postal_code": "31-575",
+     "street": "Sarnia",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Fundacja Adrian-Palus",
+    "nip": "0006232929",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Róża Listwan",
+     "role": "Prezes zarządu"
+    }
+   ],
+   "role": "Pracodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "78",
+     "city": "Zgierz",
+     "country": null,
+     "postal_code": "83-869",
+     "street": "Malczewskiego",
+     "unit_no": "86"
+    },
+    "krs": null,
+    "name": "Filip Szambelan",
+    "nip": null,
+    "pesel": "81181418572",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pracownik"
+  }
+ ],
+ "payment_account": "PL47000000006787381225363788",
+ "remuneration": {
+  "amount": "14500.00",
+  "amount_in_words": "czternaście tysięcy pięćset złotych 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Pracodawca zatrudnia Pracownika na stanowisku specjalisty ds. obsługi klienta w pełnym wymiarze czasu pracy.",
+ "term": {
+  "end_date": "2027-03-10",
+  "indefinite": false,
+  "notice_period": "2 tygodnie",
+  "start_date": "2026-05-26"
+ },
+ "title": "UMOWA O PRACĘ NR 18/05/2026"
+}

@@ -1,0 +1,84 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "72",
+   "city": "Chełm",
+   "country": null,
+   "postal_code": "33-299",
+   "street": "Leszczynowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "PPUH Dariusz Sołek",
+  "nip": "0003437921",
+  "pesel": null,
+  "regon": "006991300",
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-05-08",
+ "issue_place": "Wejherowo",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Usługa noclegowa w pokoju dwuosobowym ze śniadaniem",
+   "discount": null,
+   "gross_amount": "898.56",
+   "line_no": 1,
+   "net_amount": "832.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "416.00",
+   "vat_amount": "66.56",
+   "vat_rate": "8"
+  }
+ ],
+ "number": "FV/2025/05/0080",
+ "payment": {
+  "bank_account": "PL25000000004658897647651798",
+  "bank_name": "Bank Starego Rynku",
+  "due_date": "2025-05-15",
+  "due_days": null,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": null,
+ "seller": {
+  "address": {
+   "building_no": "60",
+   "city": "Kielce",
+   "country": null,
+   "postal_code": "26-861",
+   "street": "Norwida",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "FPUH Pałyga Sp. z o.o.",
+  "nip": "0009107774",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": null,
+  "amount_in_words": "osiemset dziewięćdziesiąt osiem złotych 56 gr",
+  "amount_paid": null,
+  "gross_amount": "898.56",
+  "net_amount": "832.00",
+  "vat_amount": "66.56"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "898.56",
+   "net_amount": "832.00",
+   "vat_amount": "66.56",
+   "vat_rate": "8"
+  }
+ ]
+}

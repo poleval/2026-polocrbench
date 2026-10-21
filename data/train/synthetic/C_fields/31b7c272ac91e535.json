@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "AB.7784.248.2025.EE",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6k ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6x ustawy o utrzymaniu czystości i porządku w gminach"
+ ],
+ "letter_date": "2025-01-01",
+ "letter_place": "Łęknica",
+ "letter_type": "information",
+ "recipient": {
+  "address": {
+   "building_no": "156",
+   "city": "Sieradz",
+   "country": null,
+   "postal_code": "54-672",
+   "street": "Sadowa",
+   "unit_no": "70"
+  },
+  "krs": null,
+  "name": "Spółdzielnia Ulrych-Wereda",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "16",
+   "city": "Łęknica",
+   "country": null,
+   "postal_code": "76-202",
+   "street": "Jana Sobieskiego",
+   "unit_no": "33"
+  },
+  "authority_name": "Burmistrz Miasta Łęknicy",
+  "epuap": "/BMLeknica/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Komunalnej i Ochrony Środowiska"
+ },
+ "signatory": {
+  "full_name": "Olga Miszkurka",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "wysokość opłaty za gospodarowanie odpadami komunalnymi dla nieruchomości położonej na działce ewidencyjnej nr 453/20"
+}

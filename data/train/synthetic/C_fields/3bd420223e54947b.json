@@ -1,0 +1,81 @@
+{
+ "conclusion_date": "2026-06-03",
+ "conclusion_place": "Chełm",
+ "contract_type": "services",
+ "doc_type": "contract",
+ "governing_court": "Sąd Okręgowy w Warszawie",
+ "number": "U/546/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "77",
+     "city": "Środa Wielkopolska",
+     "country": null,
+     "postal_code": "01-924",
+     "street": "Baczynskiego",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Pagacz Sp. z o.o.",
+    "nip": "0000566003",
+    "pesel": null,
+    "regon": "000336289",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Ida Rudolf",
+     "role": "Prokurent samoistny"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "42",
+     "city": "Płock",
+     "country": null,
+     "postal_code": "94-975",
+     "street": "Dworska",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Beker-Fechner Sp. z o.o.",
+    "nip": "0007870477",
+    "pesel": null,
+    "regon": "004161467",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Konrad Ludwiniak",
+     "role": "Dyrektor oddziału"
+    }
+   ],
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL65000000003106627160381243",
+ "remuneration": {
+  "amount": "7600.00",
+  "amount_in_words": "siedem tysięcy sześćset złotych 00 gr",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": false,
+ "subject": "Zleceniobiorca zobowiązuje się do świadczenia na rzecz Zleceniodawcy usług polegających na utrzymaniu i rozwoju systemu informatycznego Zleceniodawcy, zwanego dalej Systemem.",
+ "term": {
+  "end_date": "2027-05-06",
+  "indefinite": false,
+  "notice_period": "30 dni",
+  "start_date": "2026-06-10"
+ },
+ "title": "UMOWA O ŚWIADCZENIE USŁUG NR U/546/2026"
+}

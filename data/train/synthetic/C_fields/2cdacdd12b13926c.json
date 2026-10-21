@@ -1,0 +1,146 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "4",
+   "city": "Sosnowiec",
+   "country": null,
+   "postal_code": "68-711",
+   "street": "Świerczewskiego",
+   "unit_no": "33"
+  },
+  "krs": null,
+  "name": "FPUH Julita Grzelczyk",
+  "nip": "0004578440",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-08-10",
+ "issue_place": "Police",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Klej do płytek elastyczny 25 kg",
+   "discount": null,
+   "gross_amount": "50.43",
+   "line_no": 1,
+   "net_amount": "41.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "opak.",
+   "unit_price_gross": null,
+   "unit_price_net": "41.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Montaż drzwi wewnętrznych",
+   "discount": null,
+   "gross_amount": "337.75",
+   "line_no": 2,
+   "net_amount": "312.73",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "312.73",
+   "vat_amount": null,
+   "vat_rate": "8"
+  },
+  {
+   "description": "Wykonanie instalacji elektrycznej w mieszkaniu",
+   "discount": null,
+   "gross_amount": "26464.32",
+   "line_no": 3,
+   "net_amount": "24504.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "kpl.",
+   "unit_price_gross": null,
+   "unit_price_net": "8168.00",
+   "vat_amount": null,
+   "vat_rate": "8"
+  },
+  {
+   "description": "Rura kanalizacyjna PVC 110 mm",
+   "discount": null,
+   "gross_amount": "147.60",
+   "line_no": 4,
+   "net_amount": "120.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "5",
+   "unit": "mb",
+   "unit_price_gross": null,
+   "unit_price_net": "24.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Roboty rozbiórkowe ścianek działowych",
+   "discount": null,
+   "gross_amount": "175.72",
+   "line_no": 5,
+   "net_amount": "162.70",
+   "pkwiu_or_gtu": null,
+   "quantity": "2.5",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "65.08",
+   "vat_amount": null,
+   "vat_rate": "8"
+  }
+ ],
+ "number": "FV/2026/08/0281",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "card"
+ },
+ "recipient": null,
+ "sale_date": "2026-08-02",
+ "seller": {
+  "address": {
+   "building_no": "52",
+   "city": "Głogów",
+   "country": null,
+   "postal_code": "17-999",
+   "street": "Hallera",
+   "unit_no": "13"
+  },
+  "krs": "0099999999",
+  "name": "Osik S.A.",
+  "nip": "0006652761",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "27175.82",
+  "amount_in_words": "dwadzieścia siedem tysięcy sto siedemdziesiąt pięć złotych 82 gr",
+  "amount_paid": null,
+  "gross_amount": "27175.82",
+  "net_amount": "25140.43",
+  "vat_amount": "2035.39"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "198.03",
+   "net_amount": "161.00",
+   "vat_amount": "37.03",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "26977.79",
+   "net_amount": "24979.43",
+   "vat_amount": "1998.36",
+   "vat_rate": "8"
+  }
+ ]
+}

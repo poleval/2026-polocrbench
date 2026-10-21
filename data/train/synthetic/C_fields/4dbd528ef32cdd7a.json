@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "FN.4128.179.2026",
+ "deadline": {
+  "action": "usunięcia wskazanych braków",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 64 § 1 k.p.a.",
+  "art. 64 § 2 k.p.a."
+ ],
+ "letter_date": "2026-04-24",
+ "letter_place": "Solec Kujawski",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "147",
+   "city": "Krotoszyn",
+   "country": null,
+   "postal_code": "24-031",
+   "street": "Ptasia",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Oskar Bzdęga",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "111",
+   "city": "Solec Kujawski",
+   "country": null,
+   "postal_code": "60-848",
+   "street": "Mazurska",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Solca Kujawskiego",
+  "epuap": "/UMSolecKujawski/SkrytkaESP",
+  "nip": "0003267146",
+  "regon": null,
+  "unit": "Wydział Spraw Administracyjnych"
+ },
+ "signatory": {
+  "full_name": "Igor Wyroślak",
+  "role": "Kierownik Wydziału Spraw Administracyjnych"
+ },
+ "subject": "uzupełnienie braków formalnych wniosku z dnia 31.03.2026 o wydanie decyzji administracyjnej dla działki nr 147/28"
+}

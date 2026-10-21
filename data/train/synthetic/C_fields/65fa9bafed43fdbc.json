@@ -1,0 +1,64 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze w Warszawie": [
+   "Samorządowego Kolegium Odwoławczego w Warszawie"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Warszawie",
+ "attachments_count": 1,
+ "case_ref": "OR.6085.37.2026.DK",
+ "deadline": {
+  "action": "wniesienie odwołania",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": "Zezwalam stronie: Wałęsa S.A. na usunięcie drzew rosnących na nieruchomości oznaczonej jako działka ewidencyjna nr 737/5, zgodnie z wnioskiem z dnia 02.12.2025.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 87 ust. 1 ustawy o ochronie przyrody",
+  "art. 83 ust. 1 ustawy o ochronie przyrody",
+  "art. 84 ust. 1 ustawy o ochronie przyrody",
+  "art. 104 k.p.a.",
+  "art. 127 § 2 k.p.a.",
+  "art. 129 § 2 k.p.a."
+ ],
+ "letter_date": "2026-01-05",
+ "letter_place": "Brwinów",
+ "letter_type": "decision",
+ "recipient": {
+  "address": {
+   "building_no": "11",
+   "city": "Gniezno",
+   "country": null,
+   "postal_code": "34-295",
+   "street": "Solidarnosci",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Wałęsa S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "5B",
+   "city": "Brwinów",
+   "country": null,
+   "postal_code": "10-061",
+   "street": "Orkana",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Brwinowa",
+  "epuap": "/BMBrwinow/SkrytkaESP",
+  "nip": null,
+  "regon": "008166310",
+  "unit": "Wydział Ochrony Środowiska i Gospodarki Komunalnej"
+ },
+ "signatory": {
+  "full_name": "Mariusz Kucewicz",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "zezwolenie na usunięcie drzew rosnących na nieruchomości oznaczonej jako działka ewidencyjna nr 737/5"
+}

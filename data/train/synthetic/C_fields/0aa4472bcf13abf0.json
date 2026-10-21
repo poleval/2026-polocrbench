@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2026-02-28",
+ "conclusion_place": "Zamość",
+ "contract_type": "b2b",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla m.st. Warszawy w Warszawie",
+ "number": "21/02/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "133",
+     "city": "Kościerzyna",
+     "country": null,
+     "postal_code": "81-877",
+     "street": "Miodowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "PPUH Rafał Kobryń",
+    "nip": "0000964790",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "29",
+     "city": "Radomsko",
+     "country": null,
+     "postal_code": "73-435",
+     "street": "Wyzwolenia",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "FPUH Olaf Kretek",
+    "nip": "0009360125",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL27000000006043616418526275",
+ "remuneration": {
+  "amount": "9200.00",
+  "amount_in_words": "dziewięć tysięcy dwieście złotych 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Zleceniodawca powierza, a Zleceniobiorca przyjmuje do wykonania usługi bieżącego wsparcia operacyjnego i marketingowego, obejmujące opracowywanie materiałów, analizę wyników i koordynację działań, zwane dalej Usługami.",
+ "term": {
+  "end_date": "2026-08-29",
+  "indefinite": false,
+  "notice_period": "jeden miesiąc",
+  "start_date": "2026-03-12"
+ },
+ "title": "UMOWA O WSPÓŁPRACY B2B NR 21/02/2026"
+}

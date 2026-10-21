@@ -1,0 +1,55 @@
+{
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Katowicach",
+ "attachments_count": null,
+ "case_ref": "FN.5621.121.2026.SC",
+ "deadline": {
+  "action": "wniesienie odwołania",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": "Strona Szałas-Smętek S.A. podlega wymeldowaniu z pobytu stałego.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 35 ust. 1 ustawy o ewidencji ludności",
+  "art. 104 k.p.a."
+ ],
+ "letter_date": "2026-04-30",
+ "letter_place": "Piekary Śląskie",
+ "letter_type": "decision",
+ "recipient": {
+  "address": {
+   "building_no": "125",
+   "city": "Nowy Sącz",
+   "country": null,
+   "postal_code": "64-533",
+   "street": "Wesoła",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Szałas-Smętek S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "19",
+   "city": "Piekary Śląskie",
+   "country": null,
+   "postal_code": "57-630",
+   "street": "Lipca",
+   "unit_no": "57"
+  },
+  "authority_name": "Prezydent Miasta Piekar Śląskich",
+  "epuap": null,
+  "nip": "0003270303",
+  "regon": null,
+  "unit": "Wydział Spraw Obywatelskich i Ewidencji Ludności"
+ },
+ "signatory": {
+  "full_name": "Olaf Matyjas",
+  "role": "Prezydent Miasta"
+ },
+ "subject": "wymeldowanie z pobytu stałego"
+}

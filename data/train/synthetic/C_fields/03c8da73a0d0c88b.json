@@ -1,0 +1,81 @@
+{
+ "conclusion_date": "2026-03-27",
+ "conclusion_place": "Świdnica",
+ "contract_type": "lease",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "9/03/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "84",
+     "city": "Zawiercie",
+     "country": null,
+     "postal_code": "35-895",
+     "street": "Korczaka",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Stowarzyszenie Słoboda",
+    "nip": null,
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Aniela Burchard",
+     "role": "Prezes zarządu"
+    }
+   ],
+   "role": "Wydzierżawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "122",
+     "city": "Białogard",
+     "country": null,
+     "postal_code": "02-853",
+     "street": "Łanowa",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Szmelter S.A.",
+    "nip": null,
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Karina Kwarciak",
+     "role": "Prokurent łączny"
+    }
+   ],
+   "role": "Dzierżawca"
+  }
+ ],
+ "payment_account": "PL25000000008854363278382720",
+ "remuneration": {
+  "amount": "14800.00",
+  "amount_in_words": "czternaście tysięcy osiemset złotych 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": false,
+ "subject": "Wydzierżawiający oddaje Dzierżawcy do używania i pobierania pożytków nieruchomość gruntową położoną w miejscowości Przykładowo przy ul. Leśnej 7, działka nr 123/4, z budynkiem magazynowym, zwaną dalej Przedmiotem Dzierżawy.",
+ "term": {
+  "end_date": "2026-08-30",
+  "indefinite": false,
+  "notice_period": "30 dni",
+  "start_date": "2026-03-31"
+ },
+ "title": "UMOWA DZIERŻAWY NR 9/03/2026"
+}

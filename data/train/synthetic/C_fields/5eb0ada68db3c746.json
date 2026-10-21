@@ -1,0 +1,81 @@
+{
+ "conclusion_date": "2025-07-05",
+ "conclusion_place": "Jawor",
+ "contract_type": "services",
+ "doc_type": "contract",
+ "governing_court": "Sąd Okręgowy w Warszawie",
+ "number": "96/07/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "65",
+     "city": "Białystok",
+     "country": null,
+     "postal_code": "36-182",
+     "street": "Pułaskiego",
+     "unit_no": "20"
+    },
+    "krs": "0099999999",
+    "name": "Witaszek S.A.",
+    "nip": "0002929059",
+    "pesel": null,
+    "regon": "008022395",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Maurycy Jodko",
+     "role": "Pełnomocnik"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "4",
+     "city": "Słupsk",
+     "country": null,
+     "postal_code": "69-222",
+     "street": "Rybacka",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "PPUH Mortka Sp. z o.o.",
+    "nip": "0001997188",
+    "pesel": null,
+    "regon": "003885714",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Tymoteusz Molek",
+     "role": "Prokurent łączny"
+    }
+   ],
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL92000000004097217892178137",
+ "remuneration": {
+  "amount": "10900.00",
+  "amount_in_words": "dziesięć tysięcy dziewięćset zł 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Zleceniobiorca zobowiązuje się do świadczenia na rzecz Zleceniodawcy usług polegających na utrzymaniu i rozwoju systemu informatycznego Zleceniodawcy, zwanego dalej Systemem.",
+ "term": {
+  "end_date": "2026-03-23",
+  "indefinite": false,
+  "notice_period": "30 dni",
+  "start_date": "2025-07-17"
+ },
+ "title": "UMOWA O ŚWIADCZENIE USŁUG NR 96/07/2025"
+}

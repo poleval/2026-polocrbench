@@ -1,0 +1,59 @@
+{
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Białymstoku",
+ "attachments_count": null,
+ "case_ref": "OR.3433.236.2025.MX",
+ "deadline": {
+  "action": "wniesienie odwołania od decyzji",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": "I. Ustala się warunki zabudowy dla inwestycji polegającej na budowie budynku mieszkalnego jednorodzinnego na działce ewidencyjnej nr 957/4.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 104 k.p.a.",
+  "art. 59 ust. 1",
+  "art. 60 ust. 1",
+  "art. 61 ust. 1",
+  "art. 62 ust. 1",
+  "art. 127 § 1 i 2 k.p.a."
+ ],
+ "letter_date": "2025-07-25",
+ "letter_place": "Tykocin",
+ "letter_type": "decision",
+ "recipient": {
+  "address": {
+   "building_no": "129",
+   "city": "Piaseczno",
+   "country": null,
+   "postal_code": "21-167",
+   "street": "Północna",
+   "unit_no": "84"
+  },
+  "krs": null,
+  "name": "Marcin Gendek",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "41",
+   "city": "Tykocin",
+   "country": null,
+   "postal_code": "99-139",
+   "street": "Piwna",
+   "unit_no": "59"
+  },
+  "authority_name": "Burmistrz Miasta Tykocina",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Planowania Przestrzennego i Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Aniela Hojka",
+  "role": "Burmistrz"
+ },
+ "subject": "ustalenia warunków zabudowy dla inwestycji polegającej na budowie budynku mieszkalnego jednorodzinnego na działce ewidencyjnej nr 957/4"
+}

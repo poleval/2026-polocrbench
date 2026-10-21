@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "PS.6919.46.2026.DQ",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6k ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6x ustawy o utrzymaniu czystości i porządku w gminach"
+ ],
+ "letter_date": "2026-01-20",
+ "letter_place": "Kętrzyn",
+ "letter_type": "information",
+ "recipient": {
+  "address": {
+   "building_no": "14",
+   "city": "Kwidzyn",
+   "country": null,
+   "postal_code": "36-018",
+   "street": "Wiązowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Kalina Wosiak",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "99",
+   "city": "Kętrzyn",
+   "country": null,
+   "postal_code": "55-665",
+   "street": "Wieniawskiego",
+   "unit_no": "90"
+  },
+  "authority_name": "Burmistrz Miasta Kętrzyna",
+  "epuap": "/BMKetrzyn/SkrytkaESP",
+  "nip": null,
+  "regon": "007694129",
+  "unit": "Wydział Gospodarki Komunalnej i Ochrony Środowiska"
+ },
+ "signatory": {
+  "full_name": "Marcel Skupin",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "wysokość opłaty za gospodarowanie odpadami komunalnymi dla nieruchomości położonej na działce ewidencyjnej nr 521/29"
+}

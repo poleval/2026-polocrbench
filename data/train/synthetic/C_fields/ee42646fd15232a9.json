@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2025-08-23",
+ "conclusion_place": "Leszno",
+ "contract_type": "rental",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "73/2025",
+ "parties": [
+  {
+   "id_document": "UQA976614",
+   "party": {
+    "address": {
+     "building_no": "32",
+     "city": "Zgierz",
+     "country": null,
+     "postal_code": "56-603",
+     "street": "Malinowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Julianna Palica",
+    "nip": null,
+    "pesel": "44182725799",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wynajmujący"
+  },
+  {
+   "id_document": "OCP676738",
+   "party": {
+    "address": {
+     "building_no": "141",
+     "city": "Płońsk",
+     "country": null,
+     "postal_code": "38-135",
+     "street": "Wojska Polskiego",
+     "unit_no": "81"
+    },
+    "krs": null,
+    "name": "Robert Luks",
+    "nip": null,
+    "pesel": "59150358543",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Najemca"
+  }
+ ],
+ "payment_account": "PL10000000006251174657456371",
+ "remuneration": {
+  "amount": "14500.00",
+  "amount_in_words": "czternaście tysięcy pięćset zł 00/100",
+  "basis": null,
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": false,
+ "subject": "Wynajmujący oddaje Najemcy do używania lokal mieszkalny położony w ul. Malinowa 32, 56-603 Zgierz, wraz z wyposażeniem.",
+ "term": {
+  "end_date": "2025-11-03",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-08-26"
+ },
+ "title": "UMOWA NAJMU LOKALU 73/2025"
+}

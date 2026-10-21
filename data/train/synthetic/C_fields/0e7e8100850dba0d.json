@@ -1,0 +1,55 @@
+{
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Zielonej Górze",
+ "attachments_count": null,
+ "case_ref": "PS.7950.203.2025",
+ "deadline": {
+  "action": "wniesienie odwołania",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": "Strona Mateusz Wawryniuk podlega wymeldowaniu z pobytu stałego.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 35 ust. 1 ustawy o ewidencji ludności",
+  "art. 104 k.p.a."
+ ],
+ "letter_date": "2025-12-16",
+ "letter_place": "Zielona Góra",
+ "letter_type": "decision",
+ "recipient": {
+  "address": {
+   "building_no": "122",
+   "city": "Nysa",
+   "country": null,
+   "postal_code": "27-600",
+   "street": "Magnoliowa",
+   "unit_no": "37"
+  },
+  "krs": null,
+  "name": "Mateusz Wawryniuk",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "142",
+   "city": "Zielona Góra",
+   "country": null,
+   "postal_code": "57-217",
+   "street": "Podmiejska",
+   "unit_no": null
+  },
+  "authority_name": "Prezydent Miasta Zielonej Góry",
+  "epuap": "/PMZielonaGora/SkrytkaESP",
+  "nip": null,
+  "regon": "006406938",
+  "unit": "Wydział Spraw Obywatelskich i Ewidencji Ludności"
+ },
+ "signatory": {
+  "full_name": "Aleksander Bartela",
+  "role": "Prezydent Miasta"
+ },
+ "subject": "wymeldowanie z pobytu stałego"
+}

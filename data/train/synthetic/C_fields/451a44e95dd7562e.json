@@ -1,0 +1,57 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "FN.7909.82.2025.DK",
+ "deadline": {
+  "action": "zawiadomić organ o przyczynie niemożności stawienia się",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 50 § 1 k.p.a.",
+  "art. 54 § 1 k.p.a.",
+  "art. 88 § 1 pkt 1 k.p.a.",
+  "art. 88 § 2 k.p.a."
+ ],
+ "letter_date": "2025-04-26",
+ "letter_place": "Łódź",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "89",
+   "city": "Bydgoszcz",
+   "country": null,
+   "postal_code": "48-069",
+   "street": "Wiatraczna",
+   "unit_no": "50"
+  },
+  "krs": null,
+  "name": "Ewelina Pakos",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "72",
+   "city": "Łódź",
+   "country": null,
+   "postal_code": "58-342",
+   "street": "Narutowicza",
+   "unit_no": "3"
+  },
+  "authority_name": "Urząd Miasta Łodzi",
+  "epuap": "/UMLodz/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Janina Dziuda",
+  "role": "Naczelnik Wydziału Gospodarki Nieruchomościami"
+ },
+ "subject": "stawiennictwo w urzędzie w celu złożenia wyjaśnień i przedstawienia dokumentów odnoszących się do działki ewidencyjnej nr 635/3"
+}

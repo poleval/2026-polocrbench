@@ -1,0 +1,126 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "65",
+   "city": "Malbork",
+   "country": null,
+   "postal_code": "13-022",
+   "street": "Krasickiego",
+   "unit_no": "12"
+  },
+  "krs": null,
+  "name": "Gabinety Olga Dydo",
+  "nip": "0008191353",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-07-25",
+ "issue_place": "Świecie",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Worki na śmieci",
+   "discount": null,
+   "gross_amount": "124.54",
+   "line_no": 1,
+   "net_amount": "101.25",
+   "pkwiu_or_gtu": null,
+   "quantity": "5",
+   "unit": "opak.",
+   "unit_price_gross": null,
+   "unit_price_net": "20.25",
+   "vat_amount": "23.29",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Wynajem sali szkoleniowej z wyposażeniem",
+   "discount": null,
+   "gross_amount": "529.61",
+   "line_no": 2,
+   "net_amount": "430.58",
+   "pkwiu_or_gtu": null,
+   "quantity": "2.5",
+   "unit": "godz.",
+   "unit_price_gross": null,
+   "unit_price_net": "172.23",
+   "vat_amount": "99.03",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Zasilacz awaryjny UPS 3000 VA",
+   "discount": null,
+   "gross_amount": "4849.89",
+   "line_no": 3,
+   "net_amount": "3943.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "3943.00",
+   "vat_amount": "906.89",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Rejestracja spółki w KRS",
+   "discount": null,
+   "gross_amount": "2710.22",
+   "line_no": 4,
+   "net_amount": "2203.43",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "2203.43",
+   "vat_amount": "506.79",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FV/2026/07/0426",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "card"
+ },
+ "recipient": null,
+ "sale_date": "2026-07-22",
+ "seller": {
+  "address": {
+   "building_no": "44",
+   "city": "Pszczyna",
+   "country": null,
+   "postal_code": "46-788",
+   "street": "Nadbrzeżna",
+   "unit_no": "43"
+  },
+  "krs": null,
+  "name": "Gabinety Błażej Witas",
+  "nip": "0001768105",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "0.00",
+  "amount_in_words": "osiem tysięcy dwieście czternaście zł 26/100",
+  "amount_paid": "8214.26",
+  "gross_amount": "8214.26",
+  "net_amount": "6678.26",
+  "vat_amount": "1536.00"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "8214.26",
+   "net_amount": "6678.26",
+   "vat_amount": "1536.00",
+   "vat_rate": "23"
+  }
+ ]
+}

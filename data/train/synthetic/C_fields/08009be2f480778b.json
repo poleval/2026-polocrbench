@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2026-02-01",
+ "conclusion_place": "Świecie",
+ "contract_type": "specific_work",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "79/02/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "119",
+     "city": "Katowice",
+     "country": null,
+     "postal_code": "99-338",
+     "street": "Jana",
+     "unit_no": "66"
+    },
+    "krs": null,
+    "name": "PPUH Kamila Mydlarz",
+    "nip": "0001774063",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zamawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "102",
+     "city": "Dzierżoniów",
+     "country": null,
+     "postal_code": "13-947",
+     "street": "Widok",
+     "unit_no": "40"
+    },
+    "krs": null,
+    "name": "Ida Zera",
+    "nip": null,
+    "pesel": "53192674683",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wykonawca"
+  }
+ ],
+ "payment_account": "PL33000000004181850063185851",
+ "remuneration": {
+  "amount": "30450.00",
+  "amount_in_words": "trzydzieści tysięcy czterysta pięćdziesiąt złotych 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Wykonawca zobowiązuje się do wykonania na rzecz Zamawiającego dzieła polegającego na opracowaniu i przekazaniu dokumentacji projektowej, zwanego dalej „Dziełem”, zgodnie z opisem i wytycznymi Zamawiającego.",
+ "term": {
+  "end_date": "2026-05-12",
+  "indefinite": false,
+  "notice_period": "14 dni",
+  "start_date": "2026-02-13"
+ },
+ "title": "UMOWA O DZIEŁO NR 79/02/2026"
+}

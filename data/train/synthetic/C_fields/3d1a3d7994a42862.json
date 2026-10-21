@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "RO.4065.82.2025",
+ "deadline": {
+  "action": "złożenie deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi",
+  "date": "2025-11-22",
+  "days": null
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6m ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 64 § 2 k.p.a."
+ ],
+ "letter_date": "2025-11-11",
+ "letter_place": "Wielbark",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "106",
+   "city": "Chrzanów",
+   "country": null,
+   "postal_code": "48-669",
+   "street": "Łąkowa",
+   "unit_no": "77"
+  },
+  "krs": null,
+  "name": "FPUH Rysz Sp. z o.o.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "118",
+   "city": "Wielbark",
+   "country": null,
+   "postal_code": "78-906",
+   "street": "Zaciszna",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Wielbarku",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Odpadami i Ochrony Środowiska"
+ },
+ "signatory": {
+  "full_name": "Apolonia Głowiak",
+  "role": "Burmistrz"
+ },
+ "subject": "złożenia deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi"
+}

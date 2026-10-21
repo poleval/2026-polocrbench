@@ -1,0 +1,64 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze w Warszawie": [
+   "Samorządowego Kolegium Odwoławczego w Warszawie"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Warszawie",
+ "attachments_count": 1,
+ "case_ref": "BUD.4323.64.2025.EW",
+ "deadline": {
+  "action": "wniesienie odwołania",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": "Zezwalam stronie: Spółdzielnia Topa na usunięcie drzew rosnących na nieruchomości oznaczonej jako działka ewidencyjna nr 670/20, zgodnie z wnioskiem z dnia 2025-04-04.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 87 ust. 1 ustawy o ochronie przyrody",
+  "art. 83 ust. 1 ustawy o ochronie przyrody",
+  "art. 84 ust. 1 ustawy o ochronie przyrody",
+  "art. 104 k.p.a.",
+  "art. 127 § 2 k.p.a.",
+  "art. 129 § 2 k.p.a."
+ ],
+ "letter_date": "2025-04-19",
+ "letter_place": "Józefów",
+ "letter_type": "decision",
+ "recipient": {
+  "address": {
+   "building_no": "160",
+   "city": "Luboń",
+   "country": null,
+   "postal_code": "27-327",
+   "street": "Spółdzielcza",
+   "unit_no": "41"
+  },
+  "krs": null,
+  "name": "Spółdzielnia Topa",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "48",
+   "city": "Józefów",
+   "country": null,
+   "postal_code": "32-359",
+   "street": "Górna",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Józefowa",
+  "epuap": "/BMJozefow/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Ochrony Środowiska i Gospodarki Komunalnej"
+ },
+ "signatory": {
+  "full_name": "Apolonia Linke",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "zezwolenie na usunięcie drzew rosnących na nieruchomości oznaczonej jako działka ewidencyjna nr 670/20"
+}

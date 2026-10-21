@@ -1,0 +1,56 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "SO.4193.42.2026",
+ "deadline": {
+  "action": "usunięcia odpadów z nieruchomości położonej na działce ewidencyjnej nr 997/14 i uprzątnięcia terenu",
+  "date": "2026-08-11",
+  "days": null
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 26 ust. 1 ustawy o odpadach",
+  "art. 64 § 1 k.p.a.",
+  "art. 64 § 2 k.p.a."
+ ],
+ "letter_date": "2026-07-26",
+ "letter_place": "Wronki",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "97",
+   "city": "Sandomierz",
+   "country": null,
+   "postal_code": "90-333",
+   "street": "Podleśna",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Miozga Sp. z o.o.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "84",
+   "city": "Wronki",
+   "country": null,
+   "postal_code": "67-949",
+   "street": "Dębowa",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Wronek",
+  "epuap": "/UMWronki/SkrytkaESP",
+  "nip": "0004371093",
+  "regon": "007370243",
+  "unit": "Wydział Gospodarki Komunalnej i Ochrony Środowiska"
+ },
+ "signatory": {
+  "full_name": "Gaja Parada",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "uprzątnięcia nieruchomości z odpadów"
+}

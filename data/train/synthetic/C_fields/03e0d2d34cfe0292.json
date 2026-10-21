@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2025-04-04",
+ "conclusion_place": "Sochaczew",
+ "contract_type": "specific_work",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "24/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "109B",
+     "city": "Jasło",
+     "country": null,
+     "postal_code": "89-070",
+     "street": "Urocza",
+     "unit_no": "80"
+    },
+    "krs": "0099999999",
+    "name": "Hartman Sp. z o.o.",
+    "nip": "0006072354",
+    "pesel": null,
+    "regon": "008987684",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Alan Rzucidło",
+     "role": "Dyrektor oddziału"
+    }
+   ],
+   "role": "Zamawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "129",
+     "city": "Jawor",
+     "country": null,
+     "postal_code": "22-913",
+     "street": "Wschodnia",
+     "unit_no": "33"
+    },
+    "krs": null,
+    "name": "Grzegorz Fyda",
+    "nip": null,
+    "pesel": "84162333406",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wykonawca"
+  }
+ ],
+ "payment_account": "PL78000000006888570735970327",
+ "remuneration": {
+  "amount": "12900.00",
+  "amount_in_words": "dwanaście tysięcy dziewięćset złotych 00 gr",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": false,
+ "subject": "Zamawiający zamawia, a Wykonawca zobowiązuje się wykonać dzieło polegające na przygotowaniu projektu graficznego oraz tekstu broszury informacyjnej, zwane dalej „Dziełem”.",
+ "term": {
+  "end_date": "2025-09-12",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-04-07"
+ },
+ "title": "UMOWA O DZIEŁO NR 24/2025"
+}

@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "SO.7590.48.2026",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6k ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6x ustawy o utrzymaniu czystości i porządku w gminach"
+ ],
+ "letter_date": "2026-09-22",
+ "letter_place": "Zbąszynek",
+ "letter_type": "information",
+ "recipient": {
+  "address": {
+   "building_no": "146",
+   "city": "Augustów",
+   "country": null,
+   "postal_code": "95-544",
+   "street": "Wolności",
+   "unit_no": "80"
+  },
+  "krs": null,
+  "name": "Marcelina Migoń",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "64",
+   "city": "Zbąszynek",
+   "country": null,
+   "postal_code": "54-096",
+   "street": "Batalionów Chłopskich",
+   "unit_no": "45"
+  },
+  "authority_name": "Burmistrz Miasta Zbąszynka",
+  "epuap": "/BMZbaszynek/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Komunalnej i Ochrony Środowiska"
+ },
+ "signatory": {
+  "full_name": "Wiktor Wochna",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "wysokość opłaty za gospodarowanie odpadami komunalnymi dla nieruchomości położonej na działce ewidencyjnej nr 5/29"
+}

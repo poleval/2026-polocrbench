@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2026-04-15",
+ "conclusion_place": "Września",
+ "contract_type": "mandate",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "53/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "115",
+     "city": "Wałcz",
+     "country": null,
+     "postal_code": "64-608",
+     "street": "Północna",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Folga S.A.",
+    "nip": "0000124015",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Franciszek Pacyga",
+     "role": "Prezes zarządu"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": "RSY907268",
+   "party": {
+    "address": {
+     "building_no": "151",
+     "city": "Świnoujście",
+     "country": null,
+     "postal_code": "95-218",
+     "street": "Spokojna",
+     "unit_no": "9"
+    },
+    "krs": null,
+    "name": "Kaja Pacholik",
+    "nip": null,
+    "pesel": "25182279457",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL90000000007149557637755382",
+ "remuneration": {
+  "amount": "22500.00",
+  "amount_in_words": "dwadzieścia dwa tysiące pięćset złotych 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Zleceniodawca zleca Zleceniobiorcy wykonanie czynności polegających na prowadzeniu obsługi administracyjno-biurowej, w tym przyjmowaniu i rejestrowaniu korespondencji, przygotowywaniu dokumentów, prowadzeniu ewidencji oraz wykonywaniu innych poleceń Zleceniodawcy związanych z bieżącą działalnością, a Zleceniobiorca zobowiązuje się do ich wykonania z należytą starannością.",
+ "term": {
+  "end_date": "2026-11-07",
+  "indefinite": false,
+  "notice_period": "14 dni",
+  "start_date": "2026-04-24"
+ },
+ "title": "UMOWA ZLECENIA NR 53/2026"
+}

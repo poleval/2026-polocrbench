@@ -1,0 +1,160 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "58",
+   "city": "Żywiec",
+   "country": null,
+   "postal_code": "97-839",
+   "street": "Chabrowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Stowarzyszenie Startek-Franczuk",
+  "nip": "0009912375",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-12-05",
+ "issue_place": null,
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Prowadnica szuflad z pełnym wysuwem",
+   "discount": null,
+   "gross_amount": "321.03",
+   "line_no": 1,
+   "net_amount": "261.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "kpl.",
+   "unit_price_gross": null,
+   "unit_price_net": "87.00",
+   "vat_amount": "60.03",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Stół dębowy rozkładany",
+   "discount": null,
+   "gross_amount": "6103.85",
+   "line_no": 2,
+   "net_amount": "4962.48",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "2481.24",
+   "vat_amount": "1141.37",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Montaż i regulacja drzwi wewnętrznych",
+   "discount": null,
+   "gross_amount": "470.88",
+   "line_no": 3,
+   "net_amount": "436.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "436.00",
+   "vat_amount": "34.88",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Wykładzina dywanowa z montażem",
+   "discount": null,
+   "gross_amount": "990.15",
+   "line_no": 4,
+   "net_amount": "805.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "5",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "161.00",
+   "vat_amount": "185.15",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Materac kieszeniowy 160x200",
+   "discount": null,
+   "gross_amount": "2419.41",
+   "line_no": 5,
+   "net_amount": "1967.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "1967.00",
+   "vat_amount": "452.41",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Blat z konglomeratu kwarcowego",
+   "discount": null,
+   "gross_amount": "22189.20",
+   "line_no": 6,
+   "net_amount": "18040.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "8",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "2255.00",
+   "vat_amount": "4149.20",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FV/2025/12/0433",
+ "payment": {
+  "bank_account": "PL77000000008958971234367673",
+  "bank_name": null,
+  "due_date": null,
+  "due_days": 30,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2025-11-29",
+ "seller": {
+  "address": {
+   "building_no": "107",
+   "city": "Krotoszyn",
+   "country": null,
+   "postal_code": "76-126",
+   "street": "Graniczna",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Drygała Sp. z o.o.",
+  "nip": "0003642153",
+  "pesel": null,
+  "regon": "004285100",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "32494.52",
+  "amount_in_words": "trzydzieści dwa tysiące czterysta dziewięćdziesiąt cztery złote 52/100",
+  "amount_paid": null,
+  "gross_amount": "32494.52",
+  "net_amount": "26471.48",
+  "vat_amount": "6023.04"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "32023.64",
+   "net_amount": "26035.48",
+   "vat_amount": "5988.16",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "470.88",
+   "net_amount": "436.00",
+   "vat_amount": "34.88",
+   "vat_rate": "8"
+  }
+ ]
+}

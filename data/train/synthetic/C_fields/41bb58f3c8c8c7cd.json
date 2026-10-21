@@ -1,0 +1,54 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "PS.3462.160.2026.NF",
+ "deadline": {
+  "action": "uiścić zaległy podatek od środków transportowych wraz z odsetkami za zwłokę",
+  "date": "2026-01-30",
+  "days": null
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 15 § 1 ustawy o postępowaniu egzekucyjnym w administracji"
+ ],
+ "letter_date": "2026-01-11",
+ "letter_place": "Mirsk",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "76",
+   "city": "Szczytno",
+   "country": null,
+   "postal_code": "92-230",
+   "street": "Opolska",
+   "unit_no": "77"
+  },
+  "krs": null,
+  "name": "Stowarzyszenie Malesza",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "130",
+   "city": "Mirsk",
+   "country": null,
+   "postal_code": "16-012",
+   "street": "Rybacka",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Mirska",
+  "epuap": null,
+  "nip": "0004897702",
+  "regon": null,
+  "unit": "Wydział Podatków i Opłat"
+ },
+ "signatory": {
+  "full_name": "Oliwier Preuss",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "zapłata zaległego podatku od środków transportowych"
+}

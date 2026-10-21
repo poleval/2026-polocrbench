@@ -1,0 +1,58 @@
+{
+ "appeal_body": null,
+ "attachments_count": 2,
+ "case_ref": "BUD.7630.230.2025",
+ "deadline": {
+  "action": "do zapłaty zaległej opłaty za gospodarowanie odpadami komunalnymi należnej za nieruchomość położoną na terenie Gminy Wielkie Oczy, oznaczoną numerem działki ewidencyjnej 651/19, w łącznej kwocie 8422,00 zł, w terminie do dnia 11.04.2025",
+  "date": "2025-04-11",
+  "days": null
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6h ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6k ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6m ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6o ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6q ust. 1 ustawy o utrzymaniu czystości i porządku w gminach"
+ ],
+ "letter_date": "2025-03-18",
+ "letter_place": "Wielkie Oczy",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "107",
+   "city": "Jarosław",
+   "country": null,
+   "postal_code": "61-507",
+   "street": "Willowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Dariusz Szczot",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "21",
+   "city": "Wielkie Oczy",
+   "country": null,
+   "postal_code": "22-904",
+   "street": "Żurawia",
+   "unit_no": null
+  },
+  "authority_name": "Wójt Gminy Wielkie Oczy",
+  "epuap": null,
+  "nip": null,
+  "regon": "001679382",
+  "unit": "Referat Finansów i Budżetu"
+ },
+ "signatory": {
+  "full_name": "Leon Wojewódka",
+  "role": "Wójt"
+ },
+ "subject": "zapłata zaległej opłaty za gospodarowanie odpadami komunalnymi"
+}

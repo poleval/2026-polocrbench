@@ -1,0 +1,126 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "61",
+   "city": "Police",
+   "country": null,
+   "postal_code": "27-682",
+   "street": "Jana III Sobieskiego",
+   "unit_no": "82"
+  },
+  "krs": null,
+  "name": "Denkiewicz Sp. z o.o.",
+  "nip": "0006357140",
+  "pesel": null,
+  "regon": "003915993",
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-01-10",
+ "issue_place": "Wieluń",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Przewóz ładunku samochodem ciężarowym",
+   "discount": null,
+   "gross_amount": "95.45",
+   "line_no": 1,
+   "net_amount": "77.60",
+   "pkwiu_or_gtu": null,
+   "quantity": "20",
+   "unit": "km",
+   "unit_price_gross": null,
+   "unit_price_net": "3.88",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Badanie tachografu cyfrowego",
+   "discount": null,
+   "gross_amount": "559.66",
+   "line_no": 2,
+   "net_amount": "455.01",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "151.67",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Załadunek palet",
+   "discount": null,
+   "gross_amount": "23.37",
+   "line_no": 3,
+   "net_amount": "19.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "19.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Folia stretch do owijania palet",
+   "discount": null,
+   "gross_amount": "92.25",
+   "line_no": 4,
+   "net_amount": "75.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "5",
+   "unit": "kg",
+   "unit_price_gross": null,
+   "unit_price_net": "15.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FA/0276/25",
+ "payment": {
+  "bank_account": "PL82000000007525087896326964",
+  "bank_name": "Spółdzielczy Bank Młyńskiego Wzgórza",
+  "due_date": "2025-02-09",
+  "due_days": null,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2025-01-10",
+ "seller": {
+  "address": {
+   "building_no": "105B",
+   "city": "Tarnów",
+   "country": null,
+   "postal_code": "14-573",
+   "street": "Kusocińskiego",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "FPUH Monika Andreasik",
+  "nip": "0009680203",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "770.73",
+  "amount_in_words": "siedemset siedemdziesiąt złotych 73/100",
+  "amount_paid": "0.00",
+  "gross_amount": "770.73",
+  "net_amount": "626.61",
+  "vat_amount": "144.12"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "770.73",
+   "net_amount": "626.61",
+   "vat_amount": "144.12",
+   "vat_rate": "23"
+  }
+ ]
+}

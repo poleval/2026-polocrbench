@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "OŚ.4638.98.2025.NV",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 306a ustawy – Ordynacja podatkowa",
+  "art. 306b ustawy – Ordynacja podatkowa"
+ ],
+ "letter_date": "2025-04-01",
+ "letter_place": "Karpacz",
+ "letter_type": "certificate",
+ "recipient": {
+  "address": {
+   "building_no": "76",
+   "city": "Rumia",
+   "country": null,
+   "postal_code": "21-165",
+   "street": "Zielona",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Kobza Sp. z o.o.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "109",
+   "city": "Karpacz",
+   "country": null,
+   "postal_code": "66-523",
+   "street": "Truskawkowa",
+   "unit_no": "67"
+  },
+  "authority_name": "Burmistrz Miasta Karpacza",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Finansów, Referat Podatków i Opłat Lokalnych"
+ },
+ "signatory": {
+  "full_name": "Nicole Szłapka",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "niezalegania w podatkach lokalnych"
+}

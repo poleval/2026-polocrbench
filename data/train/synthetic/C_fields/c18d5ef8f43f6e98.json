@@ -1,0 +1,66 @@
+{
+ "conclusion_date": "2026-04-28",
+ "conclusion_place": "Oława",
+ "contract_type": "sale",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "U/952/2026",
+ "parties": [
+  {
+   "id_document": "YBA227668",
+   "party": {
+    "address": {
+     "building_no": "16",
+     "city": "Gliwice",
+     "country": null,
+     "postal_code": "29-835",
+     "street": "Zbożowa",
+     "unit_no": "56"
+    },
+    "krs": null,
+    "name": "Józef Ziegert",
+    "nip": null,
+    "pesel": "18132537185",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Sprzedawca"
+  },
+  {
+   "id_document": "CXQ259008",
+   "party": {
+    "address": {
+     "building_no": "120A",
+     "city": "Bartoszyce",
+     "country": null,
+     "postal_code": "67-952",
+     "street": "Batalionów Chłopskich",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Wojciech Pietrasz",
+    "nip": null,
+    "pesel": "47192114238",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Kupujący"
+  }
+ ],
+ "payment_account": "PL89000000005178142755220212",
+ "remuneration": {
+  "amount": "44200.00",
+  "amount_in_words": "czterdzieści cztery tysiące dwieście złotych 00/100",
+  "basis": null,
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": false,
+ "subject": "Sprzedawca sprzedaje, a Kupujący kupuje rzecz ruchomą, której szczegółowy opis, stan techniczny i wyposażenie strony określają w załączniku nr 1 do umowy.",
+ "term": null,
+ "title": "UMOWA SPRZEDAŻY NR U/952/2026"
+}

@@ -1,0 +1,84 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "147",
+   "city": "Police",
+   "country": null,
+   "postal_code": "14-893",
+   "street": "Kościelna",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Marcin Kielczyk",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "proforma",
+ "issue_date": "2026-01-04",
+ "issue_place": "Biała Podlaska",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Pomiary rezystancji izolacji instalacji",
+   "discount": null,
+   "gross_amount": "1192.15",
+   "line_no": 1,
+   "net_amount": "969.23",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "969.23",
+   "vat_amount": "222.92",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "PRO/781/2026",
+ "payment": {
+  "bank_account": "PL91000000005640696238309278",
+  "bank_name": "Bank Wierzbowego Gaju",
+  "due_date": null,
+  "due_days": 30,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2026-01-03",
+ "seller": {
+  "address": {
+   "building_no": "38",
+   "city": "Łomża",
+   "country": null,
+   "postal_code": "54-991",
+   "street": "Wiązowa",
+   "unit_no": "38"
+  },
+  "krs": "0099999999",
+  "name": "Kolman Sp. z o.o.",
+  "nip": "0003434325",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": null,
+  "amount_in_words": "tysiąc sto dziewięćdziesiąt dwa złote 15 gr",
+  "amount_paid": null,
+  "gross_amount": "1192.15",
+  "net_amount": "969.23",
+  "vat_amount": "222.92"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "1192.15",
+   "net_amount": "969.23",
+   "vat_amount": "222.92",
+   "vat_rate": "23"
+  }
+ ]
+}

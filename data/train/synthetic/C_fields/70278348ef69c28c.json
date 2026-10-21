@@ -1,0 +1,81 @@
+{
+ "conclusion_date": "2025-09-22",
+ "conclusion_place": "Chorzów",
+ "contract_type": "lease",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "11/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "25",
+     "city": "Nowy Targ",
+     "country": null,
+     "postal_code": "50-872",
+     "street": "Wybickiego",
+     "unit_no": "18"
+    },
+    "krs": "0099999999",
+    "name": "Spółdzielnia Stelmasiak",
+    "nip": null,
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Marcel Glazik",
+     "role": "Prokurent"
+    }
+   ],
+   "role": "Wydzierżawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "92A",
+     "city": "Legnica",
+     "country": null,
+     "postal_code": "06-985",
+     "street": "Armii Krajowej",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Karłowicz S.A.",
+    "nip": null,
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Anna Maria Jędral",
+     "role": "Prezes zarządu"
+    }
+   ],
+   "role": "Dzierżawca"
+  }
+ ],
+ "payment_account": "PL49000000004542750011084241",
+ "remuneration": {
+  "amount": "6000.00",
+  "amount_in_words": "sześć tysięcy złotych 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Wydzierżawiający oddaje Dzierżawcy do używania i pobierania pożytków nieruchomość gruntową położoną w miejscowości Przykładowo przy ul. Leśnej 7, działka nr 123/4, z budynkiem magazynowym, zwaną dalej Przedmiotem Dzierżawy.",
+ "term": {
+  "end_date": "2026-02-23",
+  "indefinite": false,
+  "notice_period": "30 dni",
+  "start_date": "2025-10-02"
+ },
+ "title": "UMOWA DZIERŻAWY NR 11/2025"
+}

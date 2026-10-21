@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "GN.3595.139.2025",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6k ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6x ustawy o utrzymaniu czystości i porządku w gminach"
+ ],
+ "letter_date": "2025-11-14",
+ "letter_place": "Pionki",
+ "letter_type": "information",
+ "recipient": {
+  "address": {
+   "building_no": "70",
+   "city": "Głogów",
+   "country": null,
+   "postal_code": "50-124",
+   "street": "Parkowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Spółdzielnia Buchalik",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "123",
+   "city": "Pionki",
+   "country": null,
+   "postal_code": "75-510",
+   "street": "Baczynskiego",
+   "unit_no": "64"
+  },
+  "authority_name": "Burmistrz Miasta Pionek",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Komunalnej i Ochrony Środowiska"
+ },
+ "signatory": {
+  "full_name": "Ewa Semenowicz",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "wysokość opłaty za gospodarowanie odpadami komunalnymi dla nieruchomości położonej na działce ewidencyjnej nr 128/21"
+}

@@ -1,0 +1,174 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "115",
+   "city": "Żary",
+   "country": null,
+   "postal_code": "47-977",
+   "street": "Rycerska",
+   "unit_no": "62"
+  },
+  "krs": null,
+  "name": "Stowarzyszenie Bilewicz",
+  "nip": "0001199191",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-02-01",
+ "issue_place": "Mińsk Mazowiecki",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Catering podczas szkolenia",
+   "discount": null,
+   "gross_amount": "101.06",
+   "line_no": 1,
+   "net_amount": "93.57",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "os.",
+   "unit_price_gross": null,
+   "unit_price_net": "93.57",
+   "vat_amount": "7.49",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Naprawa laptopa po zalaniu",
+   "discount": null,
+   "gross_amount": "4830.21",
+   "line_no": 2,
+   "net_amount": "3927.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "1309.00",
+   "vat_amount": "903.21",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Blok rysunkowy A4 biały",
+   "discount": null,
+   "gross_amount": "13.33",
+   "line_no": 3,
+   "net_amount": "10.84",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "10.84",
+   "vat_amount": "2.49",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Catering firmowy z dostawą",
+   "discount": null,
+   "gross_amount": "6950.88",
+   "line_no": 4,
+   "net_amount": "6436.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "3218.00",
+   "vat_amount": "514.88",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Komoda z lustrem",
+   "discount": null,
+   "gross_amount": "1466.16",
+   "line_no": 5,
+   "net_amount": "1192.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "596.00",
+   "vat_amount": "274.16",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Kamizelka ostrzegawcza",
+   "discount": null,
+   "gross_amount": "20.91",
+   "line_no": 6,
+   "net_amount": "17.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "17.00",
+   "vat_amount": "3.91",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Geometria kół",
+   "discount": null,
+   "gross_amount": "227.55",
+   "line_no": 7,
+   "net_amount": "185.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "185.00",
+   "vat_amount": "42.55",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FV/2025/02/0956",
+ "payment": {
+  "bank_account": "PL90000000009344390063973134",
+  "bank_name": "Bank Wierzbowego Gaju",
+  "due_date": "2025-02-15",
+  "due_days": null,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2025-02-01",
+ "seller": {
+  "address": {
+   "building_no": "126",
+   "city": "Łomża",
+   "country": null,
+   "postal_code": "53-994",
+   "street": "Kreta",
+   "unit_no": "39"
+  },
+  "krs": null,
+  "name": "FPUH Tola Pabisiak",
+  "nip": "0001393065",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": null,
+  "amount_in_words": "trzynaście tysięcy sześćset dziesięć złotych 10 gr",
+  "amount_paid": null,
+  "gross_amount": "13610.10",
+  "net_amount": "11861.41",
+  "vat_amount": "1748.69"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "6558.16",
+   "net_amount": "5331.84",
+   "vat_amount": "1226.32",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "7051.94",
+   "net_amount": "6529.57",
+   "vat_amount": "522.37",
+   "vat_rate": "8"
+  }
+ ]
+}

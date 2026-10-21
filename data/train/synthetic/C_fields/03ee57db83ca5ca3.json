@@ -1,0 +1,62 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze w Siedlcach": [
+   "Samorządowego Kolegium Odwoławczego w Siedlcach"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Siedlcach",
+ "attachments_count": null,
+ "case_ref": "SO.6341.99.2026.NO",
+ "deadline": {
+  "action": "wniesienia zażalenia",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": "Zawiesza się postępowanie administracyjne w sprawie dotyczącej nieruchomości oznaczonej numerem działki 483/21, wszczętej na wniosek strony: Marcin Gmurczyk, do czasu rozstrzygnięcia zagadnienia wstępnego przez organ administracji publicznej właściwy do ustalenia stanu prawnego nieruchomości.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 97 § 1 pkt 2 k.p.a.",
+  "art. 97 § 2 k.p.a.",
+  "art. 141 § 1 k.p.a.",
+  "art. 141 § 2 k.p.a."
+ ],
+ "letter_date": "2026-05-26",
+ "letter_place": "Wilga",
+ "letter_type": "order",
+ "recipient": {
+  "address": {
+   "building_no": "59",
+   "city": "Augustów",
+   "country": null,
+   "postal_code": "82-341",
+   "street": "Łanowa",
+   "unit_no": "52"
+  },
+  "krs": null,
+  "name": "Marcin Gmurczyk",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "132",
+   "city": "Wilga",
+   "country": null,
+   "postal_code": "11-405",
+   "street": "Piaskowa",
+   "unit_no": null
+  },
+  "authority_name": "Wójt Gminy Wilga",
+  "epuap": "/WGWilga/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Referat Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Ewa Kutnik",
+  "role": "Wójt Gminy"
+ },
+ "subject": "zawieszenie postępowania administracyjnego w przedmiocie nieruchomości o numerze działki 483/21"
+}

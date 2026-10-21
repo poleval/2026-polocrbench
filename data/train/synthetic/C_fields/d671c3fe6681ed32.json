@@ -1,0 +1,104 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "139",
+   "city": "Marki",
+   "country": null,
+   "postal_code": "71-646",
+   "street": "Łączna",
+   "unit_no": "48"
+  },
+  "krs": null,
+  "name": "Gabinety Mieszko Hajdasz",
+  "nip": "0001736269",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-08-19",
+ "issue_place": null,
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Skrypt szkoleniowy drukowany",
+   "discount": null,
+   "gross_amount": "415.80",
+   "line_no": 1,
+   "net_amount": "396.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "9",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "44.00",
+   "vat_amount": "19.80",
+   "vat_rate": "5"
+  },
+  {
+   "description": "Kurs języka angielskiego w grupach",
+   "discount": null,
+   "gross_amount": "919.06",
+   "line_no": 2,
+   "net_amount": "747.20",
+   "pkwiu_or_gtu": null,
+   "quantity": "5",
+   "unit": "godz.",
+   "unit_price_gross": null,
+   "unit_price_net": "149.44",
+   "vat_amount": "171.86",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FA/0961/25",
+ "payment": {
+  "bank_account": "PL53000000001339743526655997",
+  "bank_name": null,
+  "due_date": null,
+  "due_days": 7,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2025-08-12",
+ "seller": {
+  "address": {
+   "building_no": "4",
+   "city": "Sanok",
+   "country": null,
+   "postal_code": "55-460",
+   "street": "Zakole",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "FPUH Lulek S.A.",
+  "nip": "0000328746",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "1334.86",
+  "amount_in_words": "tysiąc trzysta trzydzieści cztery złote 86 gr",
+  "amount_paid": null,
+  "gross_amount": "1334.86",
+  "net_amount": "1143.20",
+  "vat_amount": "191.66"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "919.06",
+   "net_amount": "747.20",
+   "vat_amount": "171.86",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "415.80",
+   "net_amount": "396.00",
+   "vat_amount": "19.80",
+   "vat_rate": "5"
+  }
+ ]
+}

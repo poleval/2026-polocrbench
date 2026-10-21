@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2026-06-20",
+ "conclusion_place": "Żyrardów",
+ "contract_type": "loan",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "U/453/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "126",
+     "city": "Grodzisk Mazowiecki",
+     "country": null,
+     "postal_code": "37-797",
+     "street": "Pocztowa",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Gabinety Frączkiewicz Sp. z o.o.",
+    "nip": "0009263215",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Angelika Cylwik",
+     "role": "Dyrektor generalny"
+    }
+   ],
+   "role": "Pożyczkodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "6",
+     "city": "Środa Wielkopolska",
+     "country": null,
+     "postal_code": "19-845",
+     "street": "Żeromskiego",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Marcin Pachowicz",
+    "nip": null,
+    "pesel": "25162652160",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pożyczkobiorca"
+  }
+ ],
+ "payment_account": "PL44000000006827166757973357",
+ "remuneration": {
+  "amount": "19700.00",
+  "amount_in_words": "dziewiętnaście tysięcy siedemset zł 00/100",
+  "basis": null,
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Pożyczkodawca udziela Pożyczkobiorcy pożyczki w kwocie 19700,00 PLN (dziewiętnaście tysięcy siedemset zł 00/100) na cele prywatne.",
+ "term": {
+  "end_date": "2027-06-25",
+  "indefinite": false,
+  "notice_period": "30 dni",
+  "start_date": "2026-06-28"
+ },
+ "title": "UMOWA POŻYCZKI NR U/453/2026"
+}

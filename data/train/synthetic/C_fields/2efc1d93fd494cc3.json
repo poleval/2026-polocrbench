@@ -1,0 +1,174 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "139",
+   "city": "Racibórz",
+   "country": null,
+   "postal_code": "94-316",
+   "street": "Jesienna",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Maszczyk Sp. z o.o.",
+  "nip": "0009219852",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-01-01",
+ "issue_place": "Piotrków Trybunalski",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Wylewka samopoziomująca 20 kg",
+   "discount": null,
+   "gross_amount": "1159.04",
+   "line_no": 1,
+   "net_amount": "942.31",
+   "pkwiu_or_gtu": null,
+   "quantity": "17",
+   "unit": "opak.",
+   "unit_price_gross": null,
+   "unit_price_net": "55.43",
+   "vat_amount": "216.73",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Naprawa ekspresu do kawy",
+   "discount": null,
+   "gross_amount": "1039.14",
+   "line_no": 2,
+   "net_amount": "844.83",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "281.61",
+   "vat_amount": "194.31",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Monitor biurowy 27 cali",
+   "discount": null,
+   "gross_amount": "12379.95",
+   "line_no": 3,
+   "net_amount": "10065.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "3355.00",
+   "vat_amount": "2314.95",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Toner do drukarki laserowej",
+   "discount": null,
+   "gross_amount": "954.48",
+   "line_no": 4,
+   "net_amount": "776.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "776.00",
+   "vat_amount": "178.48",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Maseczka chirurgiczna 50 szt",
+   "discount": null,
+   "gross_amount": "220.32",
+   "line_no": 5,
+   "net_amount": "204.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "6",
+   "unit": "opak.",
+   "unit_price_gross": null,
+   "unit_price_net": "34.00",
+   "vat_amount": "16.32",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Czujnik ruchu sufitowy",
+   "discount": null,
+   "gross_amount": "436.75",
+   "line_no": 6,
+   "net_amount": "355.08",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "118.36",
+   "vat_amount": "81.67",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Wizualizacja 3D pomieszczenia",
+   "discount": null,
+   "gross_amount": "1025.40",
+   "line_no": 7,
+   "net_amount": "833.66",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "833.66",
+   "vat_amount": "191.74",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FA/0187/25",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "cash"
+ },
+ "recipient": null,
+ "sale_date": "2024-12-28",
+ "seller": {
+  "address": {
+   "building_no": "97",
+   "city": "Ciechanów",
+   "country": null,
+   "postal_code": "01-591",
+   "street": "Makowa",
+   "unit_no": "72"
+  },
+  "krs": null,
+  "name": "FPUH Marcin Chomik",
+  "nip": "0002481802",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "17215.08",
+  "amount_in_words": "siedemnaście tysięcy dwieście piętnaście zł 08/100",
+  "amount_paid": null,
+  "gross_amount": "17215.08",
+  "net_amount": "14020.88",
+  "vat_amount": "3194.20"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "16994.76",
+   "net_amount": "13816.88",
+   "vat_amount": "3177.88",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "220.32",
+   "net_amount": "204.00",
+   "vat_amount": "16.32",
+   "vat_rate": "8"
+  }
+ ]
+}

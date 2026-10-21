@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "SO.4545.174.2025",
+ "deadline": {
+  "action": "zapłaty zaległości podatkowej wraz z odsetkami za zwłokę",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 140 ustawy – Ordynacja podatkowa",
+  "art. 51 § 1 ustawy – Ordynacja podatkowa"
+ ],
+ "letter_date": "2025-09-07",
+ "letter_place": "Koniecpol",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "22",
+   "city": "Żyrardów",
+   "country": null,
+   "postal_code": "78-431",
+   "street": "Malczewskiego",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Robert Andryszczyk",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "99",
+   "city": "Koniecpol",
+   "country": null,
+   "postal_code": "39-857",
+   "street": "Mała",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Koniecpola",
+  "epuap": "/BMKoniecpol/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Podatków i Opłat"
+ },
+ "signatory": {
+  "full_name": "Fryderyk Kunc",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "zapłaty zaległości podatkowej w podatku od nieruchomości"
+}

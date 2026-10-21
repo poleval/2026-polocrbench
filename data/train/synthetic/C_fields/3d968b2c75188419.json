@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "SO.7497.14.2025",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 306a ustawy – Ordynacja podatkowa",
+  "art. 306b ustawy – Ordynacja podatkowa"
+ ],
+ "letter_date": "2025-07-26",
+ "letter_place": "Ropczyce",
+ "letter_type": "certificate",
+ "recipient": {
+  "address": {
+   "building_no": "116C",
+   "city": "Tarnowskie Góry",
+   "country": null,
+   "postal_code": "17-032",
+   "street": "Rzemieślnicza",
+   "unit_no": "37"
+  },
+  "krs": null,
+  "name": "Apolonia Nocek",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "67",
+   "city": "Ropczyce",
+   "country": null,
+   "postal_code": "51-279",
+   "street": "Rataja",
+   "unit_no": "28"
+  },
+  "authority_name": "Burmistrz Miasta Ropczyc",
+  "epuap": "/BMRopczyce/SkrytkaESP",
+  "nip": null,
+  "regon": "006754071",
+  "unit": "Wydział Finansów, Referat Podatków i Opłat Lokalnych"
+ },
+ "signatory": {
+  "full_name": "Aniela Sus",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "niezalegania w podatkach lokalnych"
+}

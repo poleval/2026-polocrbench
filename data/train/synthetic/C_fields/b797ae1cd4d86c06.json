@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2025-11-17",
+ "conclusion_place": "Chełm",
+ "contract_type": "employment",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Warszawy-Mokotowa w Warszawie",
+ "number": "U/878/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "73",
+     "city": "Chojnice",
+     "country": null,
+     "postal_code": "56-985",
+     "street": "Królewska",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "PPUH Marcelina Bartela",
+    "nip": "0003678547",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Pracodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "68",
+     "city": "Bytom",
+     "country": null,
+     "postal_code": "13-272",
+     "street": "Robotnicza",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Maciej Andryszczyk",
+    "nip": null,
+    "pesel": "81202131291",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pracownik"
+  }
+ ],
+ "payment_account": "PL51000000009297698788926836",
+ "remuneration": {
+  "amount": "7600.00",
+  "amount_in_words": "siedem tysięcy sześćset złotych 00 gr",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": false,
+ "subject": "Pracodawca zatrudnia Pracownika na stanowisku pracownika biurowego, w pełnym wymiarze czasu pracy, na czas określony.",
+ "term": {
+  "end_date": "2026-04-17",
+  "indefinite": false,
+  "notice_period": "dwa tygodnie",
+  "start_date": "2025-11-28"
+ },
+ "title": "UMOWA O PRACĘ NR U/878/2025"
+}

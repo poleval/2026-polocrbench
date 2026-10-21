@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "SO.6485.69.2026",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 217 § 1 k.p.a.",
+  "art. 4 ust. 1 ustawy o planowaniu i zagospodarowaniu przestrzennym",
+  "art. 20 ust. 1 ustawy o planowaniu i zagospodarowaniu przestrzennym",
+  "art. 217 § 2 k.p.a.",
+  "art. 220 k.p.a.",
+  "art. 219 k.p.a."
+ ],
+ "letter_date": "2026-09-03",
+ "letter_place": "Milanówek",
+ "letter_type": "certificate",
+ "recipient": {
+  "address": {
+   "building_no": "18",
+   "city": "Ciechanów",
+   "country": null,
+   "postal_code": "42-605",
+   "street": "Miłosza",
+   "unit_no": "20"
+  },
+  "krs": null,
+  "name": "Ścieszka S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "80",
+   "city": "Milanówek",
+   "country": null,
+   "postal_code": "24-778",
+   "street": "Konopnickiej",
+   "unit_no": "41"
+  },
+  "authority_name": "Burmistrz Miasta Milanówka",
+  "epuap": "/BMMilanowek/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Architektury i Planowania Przestrzennego"
+ },
+ "signatory": {
+  "full_name": "Janina Pleban",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "przeznaczenia działki ewidencyjnej nr 528/24 w miejscowym planie zagospodarowania przestrzennego"
+}

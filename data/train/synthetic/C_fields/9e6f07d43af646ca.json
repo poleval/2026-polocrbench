@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2026-02-02",
+ "conclusion_place": "Września",
+ "contract_type": "services",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "U/298/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "63",
+     "city": "Łaziska Górne",
+     "country": null,
+     "postal_code": "54-083",
+     "street": "Szeroka",
+     "unit_no": "54"
+    },
+    "krs": "0099999999",
+    "name": "Spółdzielnia Dzienisz",
+    "nip": "0004018698",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Kaja Kopyt",
+     "role": "Prezes zarządu"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "138",
+     "city": "Dębica",
+     "country": null,
+     "postal_code": "02-540",
+     "street": "Mickiewicza",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "PPUH Sandra Baumgart",
+    "nip": "0009781571",
+    "pesel": null,
+    "regon": "004149621",
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL41000000005832375470990533",
+ "remuneration": {
+  "amount": "15400.00",
+  "amount_in_words": "piętnaście tysięcy czterysta złotych 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Zleceniobiorca zobowiązuje się do świadczenia na rzecz Zleceniodawcy usług informatycznych polegających na administracji infrastrukturą serwerową, utrzymaniu kopii zapasowych oraz bieżącym wsparciu użytkowników.",
+ "term": {
+  "end_date": "2026-10-16",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2026-02-12"
+ },
+ "title": "UMOWA O ŚWIADCZENIE USŁUG NR U/298/2026"
+}

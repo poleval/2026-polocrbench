@@ -1,0 +1,62 @@
+{
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Piotrkowie Trybunalskim",
+ "attachments_count": null,
+ "case_ref": "FN.4321.77.2026.AC",
+ "deadline": {
+  "action": "wniesienia odwołania",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": "ustala, że wysokość podatku od nieruchomości za 2026 r. dla strony: PPUH Krüger-Przerwa Sp. z o.o. wynosi 19.903,00 zł i podatek jest płatny w terminie do dnia 29.03.2026.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 207 § 1 Ordynacji podatkowej",
+  "art. 210 § 1 Ordynacji podatkowej",
+  "art. 211 Ordynacji podatkowej",
+  "art. 2 ust. 1 pkt 1 ustawy o podatkach i opłatach lokalnych",
+  "art. 2 ust. 1 pkt 2 ustawy o podatkach i opłatach lokalnych",
+  "art. 3 ust. 1 ustawy o podatkach i opłatach lokalnych",
+  "art. 4 ust. 1 ustawy o podatkach i opłatach lokalnych",
+  "art. 5 ust. 1 ustawy o podatkach i opłatach lokalnych",
+  "art. 6 ust. 1 ustawy o podatkach i opłatach lokalnych"
+ ],
+ "letter_date": "2026-03-17",
+ "letter_place": "Sulejów",
+ "letter_type": "decision",
+ "recipient": {
+  "address": {
+   "building_no": "46",
+   "city": "Zielona Góra",
+   "country": null,
+   "postal_code": "16-995",
+   "street": "Królewska",
+   "unit_no": "90"
+  },
+  "krs": null,
+  "name": "PPUH Krüger-Przerwa Sp. z o.o.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "16",
+   "city": "Sulejów",
+   "country": null,
+   "postal_code": "98-422",
+   "street": "Turkusowa",
+   "unit_no": "2"
+  },
+  "authority_name": "Burmistrz Miasta Sulejowa",
+  "epuap": "/BMSulejow/SkrytkaESP",
+  "nip": "0000209071",
+  "regon": null,
+  "unit": "Wydział Podatków i Opłat Lokalnych"
+ },
+ "signatory": {
+  "full_name": "Jan Tyczka",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "wymiar podatku od nieruchomości za 2026 r."
+}

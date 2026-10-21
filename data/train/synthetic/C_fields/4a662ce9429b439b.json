@@ -1,0 +1,154 @@
+{
+ "annotations": [
+  "split_payment"
+ ],
+ "buyer": {
+  "address": {
+   "building_no": "96",
+   "city": "Żary",
+   "country": null,
+   "postal_code": "32-898",
+   "street": "Magnoliowa",
+   "unit_no": "68"
+  },
+  "krs": null,
+  "name": "Rup-Detka Sp. z o.o.",
+  "nip": "0008328421",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-01-05",
+ "issue_place": "Żagań",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Panel ścienny dekoracyjny z lamelami",
+   "discount": null,
+   "gross_amount": "14661.60",
+   "line_no": 1,
+   "net_amount": "11920.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "20",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "596.00",
+   "vat_amount": "2741.60",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Herbata czarna liściasta",
+   "discount": null,
+   "gross_amount": "195.30",
+   "line_no": 2,
+   "net_amount": "186.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "kg",
+   "unit_price_gross": null,
+   "unit_price_net": "93.00",
+   "vat_amount": "9.30",
+   "vat_rate": "5"
+  },
+  {
+   "description": "Wykonanie tynków gipsowych maszynowych",
+   "discount": null,
+   "gross_amount": "40.50",
+   "line_no": 3,
+   "net_amount": "37.50",
+   "pkwiu_or_gtu": null,
+   "quantity": "1.5",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "25.00",
+   "vat_amount": "3.00",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Montaż paneli podłogowych z listwami przypodłogowymi",
+   "discount": null,
+   "gross_amount": "204.12",
+   "line_no": 4,
+   "net_amount": "189.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "63.00",
+   "vat_amount": "15.12",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Toner do drukarki laserowej",
+   "discount": null,
+   "gross_amount": "775.61",
+   "line_no": 5,
+   "net_amount": "630.58",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "630.58",
+   "vat_amount": "145.03",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "435/01/2026",
+ "payment": {
+  "bank_account": "PL18000000006775834370521163",
+  "bank_name": null,
+  "due_date": null,
+  "due_days": 21,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2026-01-04",
+ "seller": {
+  "address": {
+   "building_no": "128",
+   "city": "Gdańsk",
+   "country": null,
+   "postal_code": "34-532",
+   "street": "Zwycięstwa",
+   "unit_no": "41"
+  },
+  "krs": null,
+  "name": "Wielgo-Klupś Sp. z o.o.",
+  "nip": "0002326450",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "15877.13",
+  "amount_in_words": "piętnaście tysięcy osiemset siedemdziesiąt siedem zł 13/100",
+  "amount_paid": "0.00",
+  "gross_amount": "15877.13",
+  "net_amount": "12963.08",
+  "vat_amount": "2914.05"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "15437.21",
+   "net_amount": "12550.58",
+   "vat_amount": "2886.63",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "244.62",
+   "net_amount": "226.50",
+   "vat_amount": "18.12",
+   "vat_rate": "8"
+  },
+  {
+   "gross_amount": "195.30",
+   "net_amount": "186.00",
+   "vat_amount": "9.30",
+   "vat_rate": "5"
+  }
+ ]
+}

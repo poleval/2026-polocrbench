@@ -1,0 +1,56 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "AB.3395.141.2025.NH",
+ "deadline": {
+  "action": "usunięcia odpadów z nieruchomości położonej na działce ewidencyjnej nr 58/18 i uprzątnięcia terenu",
+  "date": "2025-06-05",
+  "days": null
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 26 ust. 1 ustawy o odpadach",
+  "art. 64 § 1 k.p.a.",
+  "art. 64 § 2 k.p.a."
+ ],
+ "letter_date": "2025-05-07",
+ "letter_place": "Małomice",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "42",
+   "city": "Ruda Śląska",
+   "country": null,
+   "postal_code": "31-607",
+   "street": "Torowa",
+   "unit_no": "51"
+  },
+  "krs": null,
+  "name": "Adrian Walocha",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "18",
+   "city": "Małomice",
+   "country": null,
+   "postal_code": "66-251",
+   "street": "Jasna",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Małomic",
+  "epuap": null,
+  "nip": "0009438028",
+  "regon": null,
+  "unit": "Wydział Gospodarki Komunalnej i Ochrony Środowiska"
+ },
+ "signatory": {
+  "full_name": "Karina Krzystek",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "uprzątnięcia nieruchomości z odpadów"
+}

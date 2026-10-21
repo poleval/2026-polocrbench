@@ -1,0 +1,112 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "19",
+   "city": "Bielawa",
+   "country": null,
+   "postal_code": "09-489",
+   "street": "Brzozowa",
+   "unit_no": "53"
+  },
+  "krs": null,
+  "name": "Boś-Malcher S.A.",
+  "nip": "0005086259",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-08-30",
+ "issue_place": "Sopot",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Złącze kablowe wnętrzowe",
+   "discount": null,
+   "gross_amount": "396.06",
+   "line_no": 1,
+   "net_amount": "322.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "322.00",
+   "vat_amount": "74.06",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Usługa serwisowa aparatury energetycznej",
+   "discount": null,
+   "gross_amount": "1810.56",
+   "line_no": 2,
+   "net_amount": "1472.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "8",
+   "unit": "h",
+   "unit_price_gross": null,
+   "unit_price_net": "184.00",
+   "vat_amount": "338.56",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Projekt instalacji elektrycznej budynku",
+   "discount": null,
+   "gross_amount": "4238.83",
+   "line_no": 3,
+   "net_amount": "3446.20",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "3446.20",
+   "vat_amount": "792.63",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FA/0222/25",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "cash"
+ },
+ "recipient": null,
+ "sale_date": "2025-08-20",
+ "seller": {
+  "address": {
+   "building_no": "33",
+   "city": "Wieluń",
+   "country": null,
+   "postal_code": "28-800",
+   "street": "Dąbrowskiej",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "PPUH Fryderyk Bluszcz",
+  "nip": "0006532258",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "0.00",
+  "amount_in_words": "sześć tysięcy czterysta czterdzieści pięć złotych 45/100",
+  "amount_paid": "6445.45",
+  "gross_amount": "6445.45",
+  "net_amount": "5240.20",
+  "vat_amount": "1205.25"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "6445.45",
+   "net_amount": "5240.20",
+   "vat_amount": "1205.25",
+   "vat_rate": "23"
+  }
+ ]
+}

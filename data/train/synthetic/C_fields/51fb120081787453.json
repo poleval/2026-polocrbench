@@ -1,0 +1,62 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze w Lublinie": [
+   "Samorządowego Kolegium Odwoławczego w Lublinie"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Lublinie",
+ "attachments_count": null,
+ "case_ref": "OŚ.4305.153.2025.EP",
+ "deadline": {
+  "action": "wniesienia zażalenia",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": "Zawiesza się postępowanie administracyjne w sprawie dotyczącej nieruchomości oznaczonej numerem działki 72/10, wszczętej na wniosek strony: Wudarczyk-Kruszona S.A., do czasu rozstrzygnięcia zagadnienia wstępnego przez organ administracji publicznej właściwy do ustalenia stanu prawnego nieruchomości.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 97 § 1 pkt 2 k.p.a.",
+  "art. 97 § 2 k.p.a.",
+  "art. 141 § 1 k.p.a.",
+  "art. 141 § 2 k.p.a."
+ ],
+ "letter_date": "2025-09-14",
+ "letter_place": "Spiczyn",
+ "letter_type": "order",
+ "recipient": {
+  "address": {
+   "building_no": "22",
+   "city": "Augustów",
+   "country": null,
+   "postal_code": "02-936",
+   "street": "Żabia",
+   "unit_no": "54"
+  },
+  "krs": null,
+  "name": "Wudarczyk-Kruszona S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "10",
+   "city": "Spiczyn",
+   "country": null,
+   "postal_code": "78-420",
+   "street": "Wąska",
+   "unit_no": "18"
+  },
+  "authority_name": "Wójt Gminy Spiczyn",
+  "epuap": "/WGSpiczyn/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Referat Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Melania Jarka",
+  "role": "Wójt Gminy"
+ },
+ "subject": "zawieszenie postępowania administracyjnego w przedmiocie nieruchomości o numerze działki 72/10"
+}

@@ -1,0 +1,160 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "19",
+   "city": "Jastrzębie-Zdrój",
+   "country": null,
+   "postal_code": "39-099",
+   "street": "Poznańska",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Spółdzielnia Barczuk",
+  "nip": "0000765257",
+  "pesel": null,
+  "regon": "002602418",
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-07-26",
+ "issue_place": null,
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Opłata sądowa",
+   "discount": null,
+   "gross_amount": "3243.00",
+   "line_no": 1,
+   "net_amount": "3243.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "1081.00",
+   "vat_amount": "0.00",
+   "vat_rate": "zw"
+  },
+  {
+   "description": "Doradztwo podatkowe",
+   "discount": null,
+   "gross_amount": "955.71",
+   "line_no": 2,
+   "net_amount": "777.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "h",
+   "unit_price_gross": null,
+   "unit_price_net": "259.00",
+   "vat_amount": "178.71",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Obsługa sekretariatu kancelarii",
+   "discount": null,
+   "gross_amount": "131.00",
+   "line_no": 3,
+   "net_amount": "106.50",
+   "pkwiu_or_gtu": null,
+   "quantity": "1.5",
+   "unit": "h",
+   "unit_price_gross": null,
+   "unit_price_net": "71.00",
+   "vat_amount": "24.50",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Archiwizacja dokumentacji księgowej",
+   "discount": null,
+   "gross_amount": "156.14",
+   "line_no": 4,
+   "net_amount": "126.94",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "m-c",
+   "unit_price_gross": null,
+   "unit_price_net": "126.94",
+   "vat_amount": "29.20",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Toner do drukarki biurowej",
+   "discount": null,
+   "gross_amount": "300.89",
+   "line_no": 5,
+   "net_amount": "244.63",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "244.63",
+   "vat_amount": "56.26",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Przygotowanie projektu umowy",
+   "discount": null,
+   "gross_amount": "6038.98",
+   "line_no": 6,
+   "net_amount": "4909.74",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "2454.87",
+   "vat_amount": "1129.24",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "93/07/2026",
+ "payment": {
+  "bank_account": "PL36000000006952615759095906",
+  "bank_name": "Bank Starego Rynku",
+  "due_date": null,
+  "due_days": 7,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2026-07-22",
+ "seller": {
+  "address": {
+   "building_no": "134C",
+   "city": "Reda",
+   "country": null,
+   "postal_code": "96-539",
+   "street": "Ludowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "PPUH Juliusz Plich",
+  "nip": "0002371835",
+  "pesel": null,
+  "regon": "006022149",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "10825.72",
+  "amount_in_words": "dziesięć tysięcy osiemset dwadzieścia pięć zł 72/100",
+  "amount_paid": null,
+  "gross_amount": "10825.72",
+  "net_amount": "9407.81",
+  "vat_amount": "1417.91"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "7582.72",
+   "net_amount": "6164.81",
+   "vat_amount": "1417.91",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "3243.00",
+   "net_amount": "3243.00",
+   "vat_amount": "0.00",
+   "vat_rate": "zw"
+  }
+ ]
+}

@@ -1,0 +1,160 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "51A",
+   "city": "Śrem",
+   "country": null,
+   "postal_code": "50-445",
+   "street": "Rybacka",
+   "unit_no": "16"
+  },
+  "krs": null,
+  "name": "Daniel Steuer",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-08-29",
+ "issue_place": "Jelenia Góra",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Poradnik księgowy dla przedsiębiorców",
+   "discount": null,
+   "gross_amount": "98.70",
+   "line_no": 1,
+   "net_amount": "94.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "94.00",
+   "vat_amount": null,
+   "vat_rate": "5"
+  },
+  {
+   "description": "Audyt prawny spółki",
+   "discount": null,
+   "gross_amount": "9630.90",
+   "line_no": 2,
+   "net_amount": "7830.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "3915.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Licencja oprogramowania księgowego",
+   "discount": null,
+   "gross_amount": "788.43",
+   "line_no": 3,
+   "net_amount": "641.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "641.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Papier kserograficzny format A4",
+   "discount": null,
+   "gross_amount": "836.40",
+   "line_no": 4,
+   "net_amount": "680.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "20",
+   "unit": "opak.",
+   "unit_price_gross": null,
+   "unit_price_net": "34.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Przygotowanie wniosku o wpis do CEIDG",
+   "discount": null,
+   "gross_amount": "180.42",
+   "line_no": 5,
+   "net_amount": "146.68",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "146.68",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Wynajem sali konferencyjnej",
+   "discount": null,
+   "gross_amount": "1889.28",
+   "line_no": 6,
+   "net_amount": "1536.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "8",
+   "unit": "h",
+   "unit_price_gross": null,
+   "unit_price_net": "192.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FA/0161/26",
+ "payment": {
+  "bank_account": "PL49000000004615677520961245",
+  "bank_name": "Bank Nadmorskiej Bryzy",
+  "due_date": null,
+  "due_days": 21,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2026-08-22",
+ "seller": {
+  "address": {
+   "building_no": "20",
+   "city": "Pruszcz Gdański",
+   "country": null,
+   "postal_code": "80-729",
+   "street": "Poznańska",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Fundacja Syroka",
+  "nip": "0006194519",
+  "pesel": null,
+  "regon": "000630652",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "13424.13",
+  "amount_in_words": "trzynaście tysięcy czterysta dwadzieścia cztery zł 13/100",
+  "amount_paid": "0.00",
+  "gross_amount": "13424.13",
+  "net_amount": "10927.68",
+  "vat_amount": "2496.45"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "13325.43",
+   "net_amount": "10833.68",
+   "vat_amount": "2491.75",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "98.70",
+   "net_amount": "94.00",
+   "vat_amount": "4.70",
+   "vat_rate": "5"
+  }
+ ]
+}

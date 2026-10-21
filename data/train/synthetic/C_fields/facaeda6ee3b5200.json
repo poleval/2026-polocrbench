@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2025-12-02",
+ "conclusion_place": "Sosnowiec",
+ "contract_type": "mandate",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla m.st. Warszawy w Warszawie",
+ "number": "56/12/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "87",
+     "city": "Zawiercie",
+     "country": null,
+     "postal_code": "30-266",
+     "street": "Orla",
+     "unit_no": "53"
+    },
+    "krs": null,
+    "name": "Janina Świech",
+    "nip": null,
+    "pesel": "55152239268",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "140",
+     "city": "Wodzisław Śląski",
+     "country": null,
+     "postal_code": "08-189",
+     "street": "Leśna",
+     "unit_no": "71"
+    },
+    "krs": null,
+    "name": "Eryk Kuziora",
+    "nip": null,
+    "pesel": "31202183842",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL36000000009783871310389813",
+ "remuneration": {
+  "amount": "13000.00",
+  "amount_in_words": "trzynaście tysięcy zł 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Zleceniobiorca zobowiązuje się do przygotowania materiałów szkoleniowych, przeprowadzenia szkolenia i sporządzenia sprawozdania, które łącznie stanowią „Usługę”.",
+ "term": {
+  "end_date": "2026-03-30",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-12-15"
+ },
+ "title": "UMOWA ZLECENIA NR 56/12/2025"
+}

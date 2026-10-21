@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2025-08-15",
+ "conclusion_place": "Leszno",
+ "contract_type": "specific_work",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "U/784/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "38",
+     "city": "Świecie",
+     "country": null,
+     "postal_code": "69-763",
+     "street": "Środkowa",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Gabinety Simon S.A.",
+    "nip": "0007860510",
+    "pesel": null,
+    "regon": "000971749",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Julian Hermanowicz",
+     "role": "Członek zarządu"
+    }
+   ],
+   "role": "Zamawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "25B",
+     "city": "Żywiec",
+     "country": null,
+     "postal_code": "49-409",
+     "street": "Moniuszki",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Nicole Kluczek",
+    "nip": null,
+    "pesel": "33131035489",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wykonawca"
+  }
+ ],
+ "payment_account": "PL91000000005406243269451652",
+ "remuneration": {
+  "amount": "31300.00",
+  "amount_in_words": "trzydzieści jeden tysięcy trzysta złotych 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Zamawiający zamawia, a Wykonawca zobowiązuje się wykonać dzieło polegające na przygotowaniu projektu graficznego oraz tekstu broszury informacyjnej, zwane dalej „Dziełem”.",
+ "term": {
+  "end_date": "2026-08-13",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-08-18"
+ },
+ "title": "UMOWA O DZIEŁO NR U/784/2025"
+}

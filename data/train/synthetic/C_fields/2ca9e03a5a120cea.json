@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "BUD.3698.113.2025",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 18 ust. 8 ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi",
+  "art. 50 k.p.a."
+ ],
+ "letter_date": "2025-11-09",
+ "letter_place": "Bychawa",
+ "letter_type": "request",
+ "recipient": {
+  "address": {
+   "building_no": "144",
+   "city": "Łowicz",
+   "country": null,
+   "postal_code": "45-969",
+   "street": "Boczna",
+   "unit_no": "52"
+  },
+  "krs": null,
+  "name": "Spółdzielnia Piaseczna",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "77",
+   "city": "Bychawa",
+   "country": null,
+   "postal_code": "20-486",
+   "street": "Chopina",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Bychawy",
+  "epuap": "/UMBychawa/SkrytkaESP",
+  "nip": "0005719003",
+  "regon": "003429620",
+  "unit": "Wydział Działalności Gospodarczej i Zezwoleń"
+ },
+ "signatory": {
+  "full_name": "Kalina Andrzejuk",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "kontroli zezwolenia na sprzedaż napojów alkoholowych"
+}

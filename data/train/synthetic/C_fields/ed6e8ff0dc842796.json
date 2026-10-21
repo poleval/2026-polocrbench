@@ -1,0 +1,112 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "64",
+   "city": "Płock",
+   "country": null,
+   "postal_code": "73-757",
+   "street": "Zaułek",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Julianna Franas",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-08-25",
+ "issue_place": "Grodzisk Mazowiecki",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Kij do mopa",
+   "discount": null,
+   "gross_amount": "84.87",
+   "line_no": 1,
+   "net_amount": "69.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "69.00",
+   "vat_amount": "15.87",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Pranie wykładzin",
+   "discount": null,
+   "gross_amount": "23.92",
+   "line_no": 2,
+   "net_amount": "19.45",
+   "pkwiu_or_gtu": null,
+   "quantity": "2.5",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "7.78",
+   "vat_amount": "4.47",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Konserwacja instalacji alarmowej",
+   "discount": null,
+   "gross_amount": "388.68",
+   "line_no": 3,
+   "net_amount": "316.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "316.00",
+   "vat_amount": "72.68",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FA/0200/25",
+ "payment": {
+  "bank_account": "PL73000000009314540239894375",
+  "bank_name": null,
+  "due_date": "2025-09-08",
+  "due_days": null,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": null,
+ "seller": {
+  "address": {
+   "building_no": "74",
+   "city": "Kościerzyna",
+   "country": null,
+   "postal_code": "81-638",
+   "street": "Partyzantów",
+   "unit_no": "42"
+  },
+  "krs": "0099999999",
+  "name": "Nowotnik Sp. z o.o.",
+  "nip": "0008175503",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": null,
+  "amount_in_words": "czterysta dziewięćdziesiąt siedem złotych 47/100",
+  "amount_paid": null,
+  "gross_amount": "497.47",
+  "net_amount": "404.45",
+  "vat_amount": "93.02"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "497.47",
+   "net_amount": "404.45",
+   "vat_amount": "93.02",
+   "vat_rate": "23"
+  }
+ ]
+}

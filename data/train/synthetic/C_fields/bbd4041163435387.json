@@ -1,0 +1,62 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze w Rzeszowie": [
+   "Samorządowego Kolegium Odwoławczego w Rzeszowie"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Rzeszowie",
+ "attachments_count": null,
+ "case_ref": "BUD.7123.60.2026.AE",
+ "deadline": {
+  "action": "wniesienia zażalenia",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": "Zawiesza się postępowanie administracyjne w sprawie dotyczącej nieruchomości oznaczonej numerem działki 738/2, wszczętej na wniosek strony: Mateusz Kazek, do czasu rozstrzygnięcia zagadnienia wstępnego przez organ administracji publicznej właściwy do ustalenia stanu prawnego nieruchomości.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 97 § 1 pkt 2 k.p.a.",
+  "art. 97 § 2 k.p.a.",
+  "art. 141 § 1 k.p.a.",
+  "art. 141 § 2 k.p.a."
+ ],
+ "letter_date": "2026-06-25",
+ "letter_place": "Leżajsk",
+ "letter_type": "order",
+ "recipient": {
+  "address": {
+   "building_no": "24",
+   "city": "Tychy",
+   "country": null,
+   "postal_code": "41-584",
+   "street": "Pomorska",
+   "unit_no": "36"
+  },
+  "krs": null,
+  "name": "Mateusz Kazek",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "31",
+   "city": "Leżajsk",
+   "country": null,
+   "postal_code": "11-626",
+   "street": "Armii Krajowej",
+   "unit_no": null
+  },
+  "authority_name": "Wójt Gminy Leżajsk",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Referat Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Paweł Pułka",
+  "role": "Wójt Gminy"
+ },
+ "subject": "zawieszenie postępowania administracyjnego w przedmiocie nieruchomości o numerze działki 738/2"
+}

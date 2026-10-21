@@ -1,0 +1,59 @@
+{
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Rzeszowie",
+ "attachments_count": 1,
+ "case_ref": "GK.5569.71.2026",
+ "deadline": {
+  "action": "wniesienie odwołania od decyzji",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": "I. Ustala się warunki zabudowy dla inwestycji polegającej na budowie budynku mieszkalnego jednorodzinnego na działce ewidencyjnej nr 251/9.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 104 k.p.a.",
+  "art. 59 ust. 1",
+  "art. 60 ust. 1",
+  "art. 61 ust. 1",
+  "art. 62 ust. 1",
+  "art. 127 § 1 i 2 k.p.a."
+ ],
+ "letter_date": "2026-02-05",
+ "letter_place": "Dynów",
+ "letter_type": "decision",
+ "recipient": {
+  "address": {
+   "building_no": "141C",
+   "city": "Szczecin",
+   "country": null,
+   "postal_code": "91-783",
+   "street": "Harcerska",
+   "unit_no": "54"
+  },
+  "krs": null,
+  "name": "Sandra Czupryn",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "52",
+   "city": "Dynów",
+   "country": null,
+   "postal_code": "28-552",
+   "street": "Andersa",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Dynowa",
+  "epuap": "/BMDynow/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Planowania Przestrzennego i Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Krystyna Hass",
+  "role": "Burmistrz"
+ },
+ "subject": "ustalenia warunków zabudowy dla inwestycji polegającej na budowie budynku mieszkalnego jednorodzinnego na działce ewidencyjnej nr 251/9"
+}

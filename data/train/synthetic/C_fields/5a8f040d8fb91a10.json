@@ -1,0 +1,62 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze w Lublinie": [
+   "Samorządowego Kolegium Odwoławczego w Lublinie"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Lublinie",
+ "attachments_count": null,
+ "case_ref": "FN.4378.69.2026.UT",
+ "deadline": {
+  "action": "wniesienia zażalenia",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": "Zawiesza się postępowanie administracyjne w sprawie dotyczącej nieruchomości oznaczonej numerem działki 984/23, wszczętej na wniosek strony: Gustaw Wykręt, do czasu rozstrzygnięcia zagadnienia wstępnego przez organ administracji publicznej właściwy do ustalenia stanu prawnego nieruchomości.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 97 § 1 pkt 2 k.p.a.",
+  "art. 97 § 2 k.p.a.",
+  "art. 141 § 1 k.p.a.",
+  "art. 141 § 2 k.p.a."
+ ],
+ "letter_date": "2026-09-27",
+ "letter_place": "Firlej",
+ "letter_type": "order",
+ "recipient": {
+  "address": {
+   "building_no": "43",
+   "city": "Sochaczew",
+   "country": null,
+   "postal_code": "68-338",
+   "street": "Malczewskiego",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Gustaw Wykręt",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "5",
+   "city": "Firlej",
+   "country": null,
+   "postal_code": "06-694",
+   "street": "Miodowa",
+   "unit_no": "43"
+  },
+  "authority_name": "Wójt Gminy Firlej",
+  "epuap": "/WGFirlej/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Referat Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Ernest Bajak",
+  "role": "Wójt Gminy"
+ },
+ "subject": "zawieszenie postępowania administracyjnego w przedmiocie nieruchomości o numerze działki 984/23"
+}

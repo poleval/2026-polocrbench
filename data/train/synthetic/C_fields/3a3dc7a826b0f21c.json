@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2025-08-03",
+ "conclusion_place": "Rumia",
+ "contract_type": "mandate",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla m.st. Warszawy w Warszawie",
+ "number": "62/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "33",
+     "city": "Olsztyn",
+     "country": null,
+     "postal_code": "65-413",
+     "street": "Składowa",
+     "unit_no": "37"
+    },
+    "krs": null,
+    "name": "Mateusz Sapa",
+    "nip": null,
+    "pesel": "13142180563",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "108",
+     "city": "Ciechanów",
+     "country": null,
+     "postal_code": "80-995",
+     "street": "Majowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Kacper Śleziak",
+    "nip": null,
+    "pesel": "64160147700",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL40000000005396549515451350",
+ "remuneration": {
+  "amount": "40500.00",
+  "amount_in_words": "czterdzieści tysięcy pięćset złotych 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Zleceniobiorca zobowiązuje się do przygotowania materiałów szkoleniowych, przeprowadzenia szkolenia i sporządzenia sprawozdania, które łącznie stanowią „Usługę”.",
+ "term": {
+  "end_date": "2026-07-04",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-08-10"
+ },
+ "title": "UMOWA ZLECENIA NR 62/2025"
+}

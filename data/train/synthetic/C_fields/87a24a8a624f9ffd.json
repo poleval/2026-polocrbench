@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2025-07-22",
+ "conclusion_place": "Świdnica",
+ "contract_type": "mandate",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "61/07/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "90",
+     "city": "Marki",
+     "country": null,
+     "postal_code": "67-867",
+     "street": "Poprzeczna",
+     "unit_no": "84"
+    },
+    "krs": "0099999999",
+    "name": "Duczek Sp. z o.o.",
+    "nip": "0001062233",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Antoni Pioch",
+     "role": "Pełnomocnik"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": "MOJ878260",
+   "party": {
+    "address": {
+     "building_no": "149",
+     "city": "Kędzierzyn-Koźle",
+     "country": null,
+     "postal_code": "03-137",
+     "street": "Robotnicza",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Tobiasz Daniec",
+    "nip": null,
+    "pesel": "78130985304",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL76000000009236218447443385",
+ "remuneration": {
+  "amount": "49300.00",
+  "amount_in_words": "czterdzieści dziewięć tysięcy trzysta złotych 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Zleceniodawca zleca Zleceniobiorcy wykonanie czynności polegających na prowadzeniu obsługi administracyjno-biurowej, w tym przyjmowaniu i rejestrowaniu korespondencji, przygotowywaniu dokumentów, prowadzeniu ewidencji oraz wykonywaniu innych poleceń Zleceniodawcy związanych z bieżącą działalnością, a Zleceniobiorca zobowiązuje się do ich wykonania z należytą starannością.",
+ "term": {
+  "end_date": "2025-10-03",
+  "indefinite": false,
+  "notice_period": "14 dni",
+  "start_date": "2025-07-26"
+ },
+ "title": "UMOWA ZLECENIA NR 61/07/2025"
+}

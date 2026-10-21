@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "GN.3313.229.2026",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6 ust. 2 ustawy o petycjach",
+  "art. 6 ust. 1 ustawy o petycjach"
+ ],
+ "letter_date": "2026-02-24",
+ "letter_place": "Ryki",
+ "letter_type": "information",
+ "recipient": {
+  "address": {
+   "building_no": "123",
+   "city": "Świebodzice",
+   "country": null,
+   "postal_code": "22-469",
+   "street": "Morcinka",
+   "unit_no": "57"
+  },
+  "krs": null,
+  "name": "Wejman Sp. z o.o.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "115",
+   "city": "Ryki",
+   "country": null,
+   "postal_code": "30-420",
+   "street": "Koralowa",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Ryk",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Organizacyjny"
+ },
+ "signatory": {
+  "full_name": "Wojciech Bidas",
+  "role": "Burmistrz"
+ },
+ "subject": "sposób załatwienia petycji złożonej w dniu 24-01-2026 o zagospodarowanie nieruchomości oznaczonej numerem działki 403/13"
+}

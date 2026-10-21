@@ -1,0 +1,112 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "63",
+   "city": "Malbork",
+   "country": null,
+   "postal_code": "12-265",
+   "street": "Wierzbowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Gabinety Konstanty Rychel",
+  "nip": "0007001161",
+  "pesel": null,
+  "regon": "003874277",
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-09-27",
+ "issue_place": null,
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Zmywarka do naczyń 60 cm",
+   "discount": null,
+   "gross_amount": "13261.86",
+   "line_no": 1,
+   "net_amount": "10782.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "3594.00",
+   "vat_amount": "2479.86",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Żelazko parowe 2600 W",
+   "discount": null,
+   "gross_amount": "455.10",
+   "line_no": 2,
+   "net_amount": "370.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "185.00",
+   "vat_amount": "85.10",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Płyta indukcyjna czteropolowa",
+   "discount": null,
+   "gross_amount": "9291.42",
+   "line_no": 3,
+   "net_amount": "7554.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "2518.00",
+   "vat_amount": "1737.42",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FV/2025/09/0871",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "cash"
+ },
+ "recipient": null,
+ "sale_date": null,
+ "seller": {
+  "address": {
+   "building_no": "63",
+   "city": "Pabianice",
+   "country": null,
+   "postal_code": "61-995",
+   "street": "Cicha",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Boruń Sp. z o.o.",
+  "nip": "0004062015",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "0.00",
+  "amount_in_words": "dwadzieścia trzy tysiące osiem złotych 38 gr",
+  "amount_paid": "23008.38",
+  "gross_amount": "23008.38",
+  "net_amount": "18706.00",
+  "vat_amount": "4302.38"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "23008.38",
+   "net_amount": "18706.00",
+   "vat_amount": "4302.38",
+   "vat_rate": "23"
+  }
+ ]
+}

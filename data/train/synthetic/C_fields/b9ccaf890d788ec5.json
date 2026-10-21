@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2025-11-11",
+ "conclusion_place": "Skierniewice",
+ "contract_type": "specific_work",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "94/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "101",
+     "city": "Kościerzyna",
+     "country": null,
+     "postal_code": "29-850",
+     "street": "Rózana",
+     "unit_no": "33"
+    },
+    "krs": "0099999999",
+    "name": "Gabinety Godzwon Sp. z o.o.",
+    "nip": "0008561778",
+    "pesel": null,
+    "regon": "005264672",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Anita Łaś",
+     "role": "Prokurent"
+    }
+   ],
+   "role": "Zamawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "154",
+     "city": "Elbląg",
+     "country": null,
+     "postal_code": "09-426",
+     "street": "Leśna",
+     "unit_no": "35"
+    },
+    "krs": null,
+    "name": "Igor Godzik",
+    "nip": null,
+    "pesel": "00200114550",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wykonawca"
+  }
+ ],
+ "payment_account": "PL08000000007206939411886123",
+ "remuneration": {
+  "amount": "48800.00",
+  "amount_in_words": "czterdzieści osiem tysięcy osiemset zł 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": false,
+ "subject": "Zamawiający zamawia, a Wykonawca zobowiązuje się wykonać dzieło polegające na przygotowaniu projektu graficznego oraz tekstu broszury informacyjnej, zwane dalej „Dziełem”.",
+ "term": {
+  "end_date": "2026-01-08",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-11-11"
+ },
+ "title": "UMOWA O DZIEŁO NR 94/2025"
+}

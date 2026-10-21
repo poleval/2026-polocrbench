@@ -1,0 +1,50 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "GN.5816.41.2026.AJ",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 10 § 1 k.p.a."
+ ],
+ "letter_date": "2026-07-22",
+ "letter_place": "Piaski",
+ "letter_type": "notification",
+ "recipient": {
+  "address": {
+   "building_no": "123",
+   "city": "Zambrów",
+   "country": null,
+   "postal_code": "18-545",
+   "street": "Skośna",
+   "unit_no": "9"
+  },
+  "krs": null,
+  "name": "Płocharczyk Sp. z o.o.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "19",
+   "city": "Piaski",
+   "country": null,
+   "postal_code": "62-192",
+   "street": "Wrocławska",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Piask",
+  "epuap": "/UMPiaski/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Miłosz Kasper",
+  "role": "Burmistrz"
+ },
+ "subject": "zakończenie zbierania materiału dowodowego – działka ewidencyjna nr 646/2"
+}

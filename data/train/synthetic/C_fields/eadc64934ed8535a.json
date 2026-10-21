@@ -1,0 +1,57 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "AB.6227.152.2026",
+ "deadline": {
+  "action": "zawiadomić organ o przyczynie niemożności stawienia się",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 50 § 1 k.p.a.",
+  "art. 54 § 1 k.p.a.",
+  "art. 88 § 1 pkt 1 k.p.a.",
+  "art. 88 § 2 k.p.a."
+ ],
+ "letter_date": "2026-01-04",
+ "letter_place": "Biała Podlaska",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "117",
+   "city": "Świnoujście",
+   "country": null,
+   "postal_code": "42-879",
+   "street": "Paderewskiego",
+   "unit_no": "16"
+  },
+  "krs": null,
+  "name": "Anna Maria Szaj",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "71",
+   "city": "Biała Podlaska",
+   "country": null,
+   "postal_code": "64-545",
+   "street": "Pomorska",
+   "unit_no": "23"
+  },
+  "authority_name": "Urząd Miasta Białej Podlaskiej",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Bianka Morawiak",
+  "role": "Naczelnik Wydziału Gospodarki Nieruchomościami"
+ },
+ "subject": "stawiennictwo w urzędzie w celu złożenia wyjaśnień i przedstawienia dokumentów odnoszących się do działki ewidencyjnej nr 731/6"
+}

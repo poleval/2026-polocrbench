@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2026-10-03",
+ "conclusion_place": "Zawiercie",
+ "contract_type": "services",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "57/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "35",
+     "city": "Myszków",
+     "country": null,
+     "postal_code": "89-634",
+     "street": "Wiatraczna",
+     "unit_no": "60"
+    },
+    "krs": "0099999999",
+    "name": "PPUH Hanke Sp. z o.o.",
+    "nip": "0000821381",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Dorota Frania",
+     "role": "Pełnomocnik"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "88",
+     "city": "Bielsko-Biała",
+     "country": null,
+     "postal_code": "26-275",
+     "street": "Andersa",
+     "unit_no": "46"
+    },
+    "krs": null,
+    "name": "FPUH Kalina Karalus",
+    "nip": "0001950554",
+    "pesel": null,
+    "regon": "002273498",
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL21000000006439170987184344",
+ "remuneration": {
+  "amount": "3450.00",
+  "amount_in_words": "trzy tysiące czterysta pięćdziesiąt zł 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Zleceniobiorca zobowiązuje się do świadczenia na rzecz Zleceniodawcy usług informatycznych polegających na administracji infrastrukturą serwerową, utrzymaniu kopii zapasowych oraz bieżącym wsparciu użytkowników.",
+ "term": {
+  "end_date": "2027-03-04",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2026-10-04"
+ },
+ "title": "UMOWA O ŚWIADCZENIE USŁUG NR 57/2026"
+}

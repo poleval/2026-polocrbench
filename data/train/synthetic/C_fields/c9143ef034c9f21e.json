@@ -1,0 +1,98 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "125",
+   "city": "Piekary Śląskie",
+   "country": null,
+   "postal_code": "91-244",
+   "street": "Daszyńskiego",
+   "unit_no": "84"
+  },
+  "krs": "0099999999",
+  "name": "Cheba Sp. z o.o.",
+  "nip": "0003467419",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-02-27",
+ "issue_place": null,
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Optymalizacja wydajności bazy danych",
+   "discount": null,
+   "gross_amount": "40219.77",
+   "line_no": 1,
+   "net_amount": "32699.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "32699.00",
+   "vat_amount": "7520.77",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Wdrożenie systemu CRM",
+   "discount": null,
+   "gross_amount": "141017.15",
+   "line_no": 2,
+   "net_amount": "114648.09",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "114648.09",
+   "vat_amount": "26369.06",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FA/0827/26",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "card"
+ },
+ "recipient": null,
+ "sale_date": "2026-02-25",
+ "seller": {
+  "address": {
+   "building_no": "71C",
+   "city": "Kluczbork",
+   "country": null,
+   "postal_code": "95-330",
+   "street": "Skośna",
+   "unit_no": "89"
+  },
+  "krs": null,
+  "name": "PPUH Daniel Długajczyk",
+  "nip": "0002509512",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "181236.92",
+  "amount_in_words": "sto osiemdziesiąt jeden tysięcy dwieście trzydzieści sześć zł 92/100",
+  "amount_paid": null,
+  "gross_amount": "181236.92",
+  "net_amount": "147347.09",
+  "vat_amount": "33889.83"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "181236.92",
+   "net_amount": "147347.09",
+   "vat_amount": "33889.83",
+   "vat_rate": "23"
+  }
+ ]
+}

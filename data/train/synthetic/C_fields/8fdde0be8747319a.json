@@ -1,0 +1,62 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze w Koszalinie": [
+   "Samorządowego Kolegium Odwoławczego w Koszalinie"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Koszalinie",
+ "attachments_count": null,
+ "case_ref": "GK.7820.173.2026.JB",
+ "deadline": {
+  "action": "wniesienia zażalenia",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": "odmówić wszczęcia postępowania administracyjnego.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 61a § 1 k.p.a.",
+  "art. 61a § 2 k.p.a.",
+  "art. 61a § 3 k.p.a.",
+  "art. 141 § 2 k.p.a."
+ ],
+ "letter_date": "2026-01-31",
+ "letter_place": "Brzeżno",
+ "letter_type": "order",
+ "recipient": {
+  "address": {
+   "building_no": "133",
+   "city": "Wrocław",
+   "country": null,
+   "postal_code": "42-970",
+   "street": "Tulipanowa",
+   "unit_no": "44"
+  },
+  "krs": null,
+  "name": "Jędrusiak Sp. z o.o.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "116",
+   "city": "Brzeżno",
+   "country": null,
+   "postal_code": "78-692",
+   "street": "Cisowa",
+   "unit_no": null
+  },
+  "authority_name": "Wójt Gminy Brzeżno",
+  "epuap": "/WGBrzezno/SkrytkaESP",
+  "nip": null,
+  "regon": "003429407",
+  "unit": "Referat Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Lidia Suchenek",
+  "role": "Wójt Gminy"
+ },
+ "subject": "odmowa wszczęcia postępowania administracyjnego o stwierdzenie nieważności umowy sprzedaży działki ewidencyjnej nr 275/20"
+}

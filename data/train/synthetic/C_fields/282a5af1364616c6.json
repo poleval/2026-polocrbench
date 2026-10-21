@@ -1,0 +1,57 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "PS.6347.36.2025",
+ "deadline": {
+  "action": "zawiadomić organ o przyczynie niemożności stawienia się",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 50 § 1 k.p.a.",
+  "art. 54 § 1 k.p.a.",
+  "art. 88 § 1 pkt 1 k.p.a.",
+  "art. 88 § 2 k.p.a."
+ ],
+ "letter_date": "2025-09-20",
+ "letter_place": "Białystok",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "128B",
+   "city": "Piekary Śląskie",
+   "country": null,
+   "postal_code": "05-414",
+   "street": "Fiołkowa",
+   "unit_no": "89"
+  },
+  "krs": null,
+  "name": "Rafał Palica",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "158",
+   "city": "Białystok",
+   "country": null,
+   "postal_code": "81-804",
+   "street": "Borówkowa",
+   "unit_no": "37"
+  },
+  "authority_name": "Urząd Miasta Białegostoku",
+  "epuap": "/UMBialystok/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Aleks Hartman",
+  "role": "Naczelnik Wydziału Gospodarki Nieruchomościami"
+ },
+ "subject": "stawiennictwo w urzędzie w celu złożenia wyjaśnień i przedstawienia dokumentów odnoszących się do działki ewidencyjnej nr 701/24"
+}

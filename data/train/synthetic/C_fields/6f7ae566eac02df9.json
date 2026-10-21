@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2025-12-28",
+ "conclusion_place": "Police",
+ "contract_type": "rental",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "U/149/2025",
+ "parties": [
+  {
+   "id_document": "MCC963705",
+   "party": {
+    "address": {
+     "building_no": "97",
+     "city": "Skierniewice",
+     "country": null,
+     "postal_code": "36-061",
+     "street": "Storczykowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Błażej Hutyra",
+    "nip": null,
+    "pesel": "46142372441",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wynajmujący"
+  },
+  {
+   "id_document": "TKB339278",
+   "party": {
+    "address": {
+     "building_no": "124C",
+     "city": "Lublin",
+     "country": null,
+     "postal_code": "66-919",
+     "street": "Rolna",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Julianna Gul",
+    "nip": null,
+    "pesel": "67180513180",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Najemca"
+  }
+ ],
+ "payment_account": "PL55000000003548633245353041",
+ "remuneration": {
+  "amount": "7900.00",
+  "amount_in_words": "siedem tysięcy dziewięćset zł 00/100",
+  "basis": null,
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Wynajmujący oddaje Najemcy do używania lokal mieszkalny położony w ul. Storczykowa 97, 36-061 Skierniewice, wraz z wyposażeniem.",
+ "term": {
+  "end_date": "2026-07-09",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-12-28"
+ },
+ "title": "UMOWA NAJMU LOKALU U/149/2025"
+}

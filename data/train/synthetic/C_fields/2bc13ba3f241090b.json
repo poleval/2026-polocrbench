@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2026-08-31",
+ "conclusion_place": "Giżycko",
+ "contract_type": "b2b",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "63/08/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "62",
+     "city": "Chorzów",
+     "country": null,
+     "postal_code": "37-743",
+     "street": "Żurawia",
+     "unit_no": "65"
+    },
+    "krs": "0099999999",
+    "name": "Fundacja Robaszkiewicz-Komperda",
+    "nip": "0003082613",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Paweł Warwas",
+     "role": "Dyrektor generalny"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "13",
+     "city": "Knurów",
+     "country": null,
+     "postal_code": "86-742",
+     "street": "Wrzosowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "FPUH Ada Korpal",
+    "nip": "0007836227",
+    "pesel": null,
+    "regon": "002148468",
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Wykonawca"
+  }
+ ],
+ "payment_account": "PL84000000000812701012933484",
+ "remuneration": {
+  "amount": "12000.00",
+  "amount_in_words": "dwanaście tysięcy złotych 00 gr",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": false,
+ "subject": "Zleceniodawca powierza, a Wykonawca przyjmuje do wykonania, w ramach prowadzonej działalności gospodarczej, usługi doradcze i wdrożeniowe w zakresie wskazanym w załączniku nr 1 do Umowy.",
+ "term": {
+  "end_date": "2027-09-02",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2026-09-03"
+ },
+ "title": "UMOWA O WSPÓŁPRACY B2B NR 63/08/2026"
+}

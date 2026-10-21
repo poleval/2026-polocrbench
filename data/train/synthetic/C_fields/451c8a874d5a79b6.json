@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2025-09-07",
+ "conclusion_place": "Wejherowo",
+ "contract_type": "rental",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "38/09/2025",
+ "parties": [
+  {
+   "id_document": "OSK972621",
+   "party": {
+    "address": {
+     "building_no": "53",
+     "city": "Jawor",
+     "country": null,
+     "postal_code": "60-327",
+     "street": "Widok",
+     "unit_no": "72"
+    },
+    "krs": null,
+    "name": "Ryszard Madzia",
+    "nip": null,
+    "pesel": "01200602908",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wynajmujący"
+  },
+  {
+   "id_document": "UUN427642",
+   "party": {
+    "address": {
+     "building_no": "31",
+     "city": "Piła",
+     "country": null,
+     "postal_code": "42-187",
+     "street": "Urocza",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Kalina Bodziony",
+    "nip": null,
+    "pesel": "55200431318",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Najemca"
+  }
+ ],
+ "payment_account": "PL45000000001010956389418109",
+ "remuneration": {
+  "amount": "14100.00",
+  "amount_in_words": "czternaście tysięcy sto zł 00/100",
+  "basis": null,
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Wynajmujący oddaje Najemcy do używania lokal mieszkalny położony w ul. Widok 53 m. 72, 60-327 Jawor, wraz z wyposażeniem.",
+ "term": {
+  "end_date": "2026-01-20",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-09-19"
+ },
+ "title": "UMOWA NAJMU LOKALU 38/09/2025"
+}

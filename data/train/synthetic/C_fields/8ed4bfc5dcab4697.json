@@ -1,0 +1,59 @@
+{
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Tarnobrzegu",
+ "attachments_count": 1,
+ "case_ref": "SO.3832.229.2025.MT",
+ "deadline": {
+  "action": "wniesienie odwołania od decyzji",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": "I. Ustala się warunki zabudowy dla inwestycji polegającej na budowie budynku mieszkalnego jednorodzinnego na działce ewidencyjnej nr 614/22.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 104 k.p.a.",
+  "art. 59 ust. 1",
+  "art. 60 ust. 1",
+  "art. 61 ust. 1",
+  "art. 62 ust. 1",
+  "art. 127 § 1 i 2 k.p.a."
+ ],
+ "letter_date": "2025-12-07",
+ "letter_place": "Stalowa Wola",
+ "letter_type": "decision",
+ "recipient": {
+  "address": {
+   "building_no": "93",
+   "city": "Legnica",
+   "country": null,
+   "postal_code": "74-242",
+   "street": "Miarki",
+   "unit_no": "37"
+  },
+  "krs": null,
+  "name": "Fundacja Skwira-Syldatk",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "62",
+   "city": "Stalowa Wola",
+   "country": null,
+   "postal_code": "35-877",
+   "street": "Zbożowa",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Stalowej Woli",
+  "epuap": null,
+  "nip": "0004521109",
+  "regon": null,
+  "unit": "Wydział Planowania Przestrzennego i Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Krystian Zbroja",
+  "role": "Burmistrz"
+ },
+ "subject": "ustalenia warunków zabudowy dla inwestycji polegającej na budowie budynku mieszkalnego jednorodzinnego na działce ewidencyjnej nr 614/22"
+}

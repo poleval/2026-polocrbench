@@ -1,0 +1,55 @@
+{
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Lesznie",
+ "attachments_count": null,
+ "case_ref": "BUD.7101.182.2026",
+ "deadline": {
+  "action": "wniesienie odwołania",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": "Strona Inga Maćków podlega wymeldowaniu z pobytu stałego.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 35 ust. 1 ustawy o ewidencji ludności",
+  "art. 104 k.p.a."
+ ],
+ "letter_date": "2026-03-20",
+ "letter_place": "Leszno",
+ "letter_type": "decision",
+ "recipient": {
+  "address": {
+   "building_no": "52",
+   "city": "Gorzów Wielkopolski",
+   "country": null,
+   "postal_code": "03-435",
+   "street": "Sarnia",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Inga Maćków",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "55B",
+   "city": "Leszno",
+   "country": null,
+   "postal_code": "31-083",
+   "street": "Diamentowa",
+   "unit_no": "90"
+  },
+  "authority_name": "Prezydent Miasta Leszna",
+  "epuap": "/PMLeszno/SkrytkaESP",
+  "nip": null,
+  "regon": "003801918",
+  "unit": "Wydział Spraw Obywatelskich i Ewidencji Ludności"
+ },
+ "signatory": {
+  "full_name": "Blanka Łągiewka",
+  "role": "Prezydent Miasta"
+ },
+ "subject": "wymeldowanie z pobytu stałego"
+}

@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2026-04-03",
+ "conclusion_place": "Szczecinek",
+ "contract_type": "b2b",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla m.st. Warszawy w Warszawie",
+ "number": "24/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "9A",
+     "city": "Brodnica",
+     "country": null,
+     "postal_code": "12-646",
+     "street": "Mała",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Gabinety Róża Sroga",
+    "nip": "0000483961",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "19",
+     "city": "Piaseczno",
+     "country": null,
+     "postal_code": "38-244",
+     "street": "Szeroka",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "PPUH Cezary Nieradzik",
+    "nip": "0006189381",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL03000000001656446850554224",
+ "remuneration": {
+  "amount": "6400.00",
+  "amount_in_words": "sześć tysięcy czterysta złotych 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": false,
+ "subject": "Zleceniodawca powierza, a Zleceniobiorca przyjmuje do wykonania usługi bieżącego wsparcia operacyjnego i marketingowego, obejmujące opracowywanie materiałów, analizę wyników i koordynację działań, zwane dalej Usługami.",
+ "term": {
+  "end_date": "2026-06-03",
+  "indefinite": false,
+  "notice_period": "jeden miesiąc",
+  "start_date": "2026-04-12"
+ },
+ "title": "UMOWA O WSPÓŁPRACY B2B NR 24/2026"
+}

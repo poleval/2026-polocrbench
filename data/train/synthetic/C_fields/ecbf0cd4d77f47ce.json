@@ -1,0 +1,56 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "GN.5726.205.2025.LK",
+ "deadline": {
+  "action": "uzupełnić braki formalne wniosku",
+  "date": "2025-05-23",
+  "days": null
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 64 § 2 k.p.a.",
+  "art. 83a ust. 2 ustawy o ochronie przyrody",
+  "art. 83a ust. 3 ustawy o ochronie przyrody"
+ ],
+ "letter_date": "2025-04-23",
+ "letter_place": "Niemcza",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "80",
+   "city": "Olkusz",
+   "country": null,
+   "postal_code": "18-644",
+   "street": "Wesoła",
+   "unit_no": "87"
+  },
+  "krs": null,
+  "name": "Spółdzielnia Jędryczka-Dawiec",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "54",
+   "city": "Niemcza",
+   "country": null,
+   "postal_code": "23-725",
+   "street": "Swierkowa",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Niemczy",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Ochrony Środowiska i Gospodarki Komunalnej"
+ },
+ "signatory": {
+  "full_name": "Urszula Kapka",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "uzupełnienia braków formalnych wniosku o wydanie zezwolenia na usunięcie drzew"
+}

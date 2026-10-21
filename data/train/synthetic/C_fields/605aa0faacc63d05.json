@@ -1,0 +1,70 @@
+{
+ "conclusion_date": "2026-06-21",
+ "conclusion_place": "Otwock",
+ "contract_type": "nda",
+ "doc_type": "contract",
+ "governing_court": "Sąd Okręgowy w Warszawie",
+ "number": "U/012/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "117",
+     "city": "Poznań",
+     "country": null,
+     "postal_code": "92-969",
+     "street": "Urocza",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Bancerz S.A.",
+    "nip": "0003032207",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Franciszek Nawój",
+     "role": "Likwidator"
+    }
+   ],
+   "role": "Strona Ujawniająca"
+  },
+  {
+   "id_document": "HFF582911",
+   "party": {
+    "address": {
+     "building_no": "120",
+     "city": "Pabianice",
+     "country": null,
+     "postal_code": "13-764",
+     "street": "Krasińskiego",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Olaf Wyderka",
+    "nip": null,
+    "pesel": "47152123212",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Strona Otrzymująca"
+  }
+ ],
+ "payment_account": null,
+ "remuneration": null,
+ "signatures_present": false,
+ "subject": "Strona Ujawniająca przekazuje Stronie Otrzymującej informacje poufne dotyczące planowanej współpracy gospodarczej w celu oceny możliwości jej nawiązania.",
+ "term": {
+  "end_date": "2027-04-08",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2026-06-30"
+ },
+ "title": "UMOWA O ZACHOWANIU POUFNOŚCI NR U/012/2026"
+}

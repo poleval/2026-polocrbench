@@ -1,0 +1,50 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "OŚ.3541.192.2025",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 10 § 1 k.p.a."
+ ],
+ "letter_date": "2025-10-20",
+ "letter_place": "Ziębice",
+ "letter_type": "notification",
+ "recipient": {
+  "address": {
+   "building_no": "106",
+   "city": "Olsztyn",
+   "country": null,
+   "postal_code": "95-271",
+   "street": "Zacisze",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Ida Maciocha",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "152",
+   "city": "Ziębice",
+   "country": null,
+   "postal_code": "76-270",
+   "street": "Władysława Jagiełły",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Ziębic",
+  "epuap": "/UMZiebice/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Anastazja Nędzi",
+  "role": "Burmistrz"
+ },
+ "subject": "zakończenie zbierania materiału dowodowego – działka ewidencyjna nr 246/4"
+}

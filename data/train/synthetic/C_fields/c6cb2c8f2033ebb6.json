@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2025-04-07",
+ "conclusion_place": "Grudziądz",
+ "contract_type": "loan",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "62/04/2025",
+ "parties": [
+  {
+   "id_document": "IKM826747",
+   "party": {
+    "address": {
+     "building_no": "25C",
+     "city": "Szczytno",
+     "country": null,
+     "postal_code": "07-861",
+     "street": "Sucharskiego",
+     "unit_no": "42"
+    },
+    "krs": null,
+    "name": "Józef Stoch",
+    "nip": null,
+    "pesel": "45202032082",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pożyczkodawca"
+  },
+  {
+   "id_document": "YUY660735",
+   "party": {
+    "address": {
+     "building_no": "119",
+     "city": "Jelenia Góra",
+     "country": null,
+     "postal_code": "81-054",
+     "street": "Bydgoska",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Krzysztof Roskosz",
+    "nip": null,
+    "pesel": "95161330066",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pożyczkobiorca"
+  }
+ ],
+ "payment_account": "PL97000000007826367028853337",
+ "remuneration": {
+  "amount": "10450.00",
+  "amount_in_words": "dziesięć tysięcy czterysta pięćdziesiąt zł 00/100",
+  "basis": null,
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Pożyczkodawca udziela Pożyczkobiorcy pożyczki w kwocie 10450,00 zł (słownie: dziesięć tysięcy czterysta pięćdziesiąt zł 00/100), zwanej dalej „Kwotą pożyczki”.",
+ "term": {
+  "end_date": "2025-10-23",
+  "indefinite": false,
+  "notice_period": null,
+  "start_date": "2025-04-07"
+ },
+ "title": "UMOWA POŻYCZKI NR 62/04/2025"
+}

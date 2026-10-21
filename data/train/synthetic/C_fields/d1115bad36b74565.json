@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2025-07-13",
+ "conclusion_place": "Rybnik",
+ "contract_type": "rental",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "87/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "141",
+     "city": "Kościan",
+     "country": null,
+     "postal_code": "18-603",
+     "street": "Południowa",
+     "unit_no": "32"
+    },
+    "krs": "0099999999",
+    "name": "Lepka Sp. z o.o.",
+    "nip": "0006893631",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Krystyna Wylegała",
+     "role": "Dyrektor generalny"
+    }
+   ],
+   "role": "Wynajmujący"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "42",
+     "city": "Świętochłowice",
+     "country": null,
+     "postal_code": "53-315",
+     "street": "Szkolna",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "FPUH Karol Drozda",
+    "nip": "0003506993",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Najemca"
+  }
+ ],
+ "payment_account": "PL71000000002144304961054258",
+ "remuneration": {
+  "amount": "14600.00",
+  "amount_in_words": "czternaście tysięcy sześćset złotych 00 gr",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": false,
+ "subject": "Wynajmujący oddaje Najemcy do używania lokal użytkowy nr 4 o powierzchni 78 m², położony w budynku przy ul. Południowa 141 m. 32, 18-603 Kościan, wraz z miejscem parkingowym (Lokal).",
+ "term": {
+  "end_date": "2026-02-14",
+  "indefinite": false,
+  "notice_period": "trzy miesiące",
+  "start_date": "2025-07-26"
+ },
+ "title": "UMOWA NAJMU LOKALU UŻYTKOWEGO NR 87/2025"
+}

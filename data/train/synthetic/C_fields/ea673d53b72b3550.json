@@ -1,0 +1,98 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "93",
+   "city": "Myszków",
+   "country": null,
+   "postal_code": "93-314",
+   "street": "Narutowicza",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "PPUH Sylwia Starościak",
+  "nip": "0007018517",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-01-30",
+ "issue_place": "Zduńska Wola",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Przełącznik sieciowy 24 porty",
+   "discount": null,
+   "gross_amount": "11001.12",
+   "line_no": 1,
+   "net_amount": "8944.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "4472.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Szkolenie pracowników z cyberbezpieczeństwa",
+   "discount": null,
+   "gross_amount": "4477.45",
+   "line_no": 2,
+   "net_amount": "3640.20",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "1213.40",
+   "vat_amount": null,
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FA/0918/25",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "card"
+ },
+ "recipient": null,
+ "sale_date": "2025-01-26",
+ "seller": {
+  "address": {
+   "building_no": "53",
+   "city": "Opole",
+   "country": null,
+   "postal_code": "67-824",
+   "street": "Księżycowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "PPUH Piotr Langier",
+  "nip": "0002785040",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "0.00",
+  "amount_in_words": "piętnaście tysięcy czterysta siedemdziesiąt osiem złotych 57 gr",
+  "amount_paid": "15478.57",
+  "gross_amount": "15478.57",
+  "net_amount": "12584.20",
+  "vat_amount": "2894.37"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "15478.57",
+   "net_amount": "12584.20",
+   "vat_amount": "2894.37",
+   "vat_rate": "23"
+  }
+ ]
+}

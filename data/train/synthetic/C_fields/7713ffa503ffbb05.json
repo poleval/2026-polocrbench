@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2026-02-23",
+ "conclusion_place": "Chorzów",
+ "contract_type": "loan",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "20/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "94",
+     "city": "Przemyśl",
+     "country": null,
+     "postal_code": "20-216",
+     "street": "Jagiellońska",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "PPUH Habdas S.A.",
+    "nip": "0008717996",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Aleksander Dukat",
+     "role": "Wiceprezes zarządu"
+    }
+   ],
+   "role": "Pożyczkodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "23",
+     "city": "Koło",
+     "country": null,
+     "postal_code": "65-782",
+     "street": "Skłodowskiej-Curie",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Kazimierz Posłuszny",
+    "nip": null,
+    "pesel": "28130385802",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pożyczkobiorca"
+  }
+ ],
+ "payment_account": "PL97000000007610442837396066",
+ "remuneration": {
+  "amount": "3350.00",
+  "amount_in_words": "trzy tysiące trzysta pięćdziesiąt złotych 00/100",
+  "basis": null,
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Pożyczkodawca udziela Pożyczkobiorcy pożyczki w kwocie 3 350,00 PLN (trzy tysiące trzysta pięćdziesiąt złotych 00/100) na cele prywatne.",
+ "term": {
+  "end_date": "2026-09-03",
+  "indefinite": false,
+  "notice_period": "30 dni",
+  "start_date": "2026-02-23"
+ },
+ "title": "UMOWA POŻYCZKI NR 20/2026"
+}

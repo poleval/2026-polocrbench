@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "OR.4337.191.2025",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 18 ust. 8 ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi",
+  "art. 50 k.p.a."
+ ],
+ "letter_date": "2025-12-12",
+ "letter_place": "Kłobuck",
+ "letter_type": "request",
+ "recipient": {
+  "address": {
+   "building_no": "160",
+   "city": "Skawina",
+   "country": null,
+   "postal_code": "06-546",
+   "street": "Jeziorna",
+   "unit_no": "18"
+  },
+  "krs": null,
+  "name": "Rakus Sp. z o.o.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "144",
+   "city": "Kłobuck",
+   "country": null,
+   "postal_code": "64-693",
+   "street": "Truskawkowa",
+   "unit_no": "73"
+  },
+  "authority_name": "Urząd Miasta Kłobucka",
+  "epuap": null,
+  "nip": null,
+  "regon": "009376764",
+  "unit": "Wydział Działalności Gospodarczej i Zezwoleń"
+ },
+ "signatory": {
+  "full_name": "Eryk Ludwin",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "kontroli zezwolenia na sprzedaż napojów alkoholowych"
+}

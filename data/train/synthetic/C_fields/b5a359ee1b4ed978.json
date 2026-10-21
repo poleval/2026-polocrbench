@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2026-08-18",
+ "conclusion_place": "Żary",
+ "contract_type": "employment",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Warszawy-Mokotowa w Warszawie",
+ "number": "29/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "156",
+     "city": "Piła",
+     "country": null,
+     "postal_code": "42-230",
+     "street": "Słowicza",
+     "unit_no": "74"
+    },
+    "krs": null,
+    "name": "FPUH Dagmara Andryszczyk",
+    "nip": "0004830218",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Pracodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "109",
+     "city": "Kielce",
+     "country": null,
+     "postal_code": "71-482",
+     "street": "Górska",
+     "unit_no": "79"
+    },
+    "krs": null,
+    "name": "Norbert Jaremek",
+    "nip": null,
+    "pesel": "32200309809",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pracownik"
+  }
+ ],
+ "payment_account": "PL43000000006640473588414153",
+ "remuneration": {
+  "amount": "4500.00",
+  "amount_in_words": "cztery tysiące pięćset zł 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": false,
+ "subject": "Pracodawca zatrudnia Pracownika na stanowisku pracownika biurowego, w pełnym wymiarze czasu pracy, na czas określony.",
+ "term": {
+  "end_date": "2027-03-21",
+  "indefinite": false,
+  "notice_period": "dwa tygodnie",
+  "start_date": "2026-08-28"
+ },
+ "title": "UMOWA O PRACĘ NR 29/2026"
+}

@@ -1,0 +1,81 @@
+{
+ "conclusion_date": "2026-08-17",
+ "conclusion_place": "Rzeszów",
+ "contract_type": "lease",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "U/924/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "31",
+     "city": "Świebodzice",
+     "country": null,
+     "postal_code": "13-942",
+     "street": "Stolarska",
+     "unit_no": "5"
+    },
+    "krs": "0099999999",
+    "name": "Listwan S.A.",
+    "nip": null,
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Dagmara Dzierżak",
+     "role": "Kierownik jednostki organizacyjnej"
+    }
+   ],
+   "role": "Wydzierżawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "46",
+     "city": "Przemyśl",
+     "country": null,
+     "postal_code": "37-787",
+     "street": "Poprzeczna",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "FPUH Kiszczak-Nytko Sp. z o.o.",
+    "nip": null,
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Kornel Dułak",
+     "role": "Dyrektor oddziału"
+    }
+   ],
+   "role": "Dzierżawca"
+  }
+ ],
+ "payment_account": "PL51000000002083455048381862",
+ "remuneration": {
+  "amount": "10800.00",
+  "amount_in_words": "dziesięć tysięcy osiemset złotych 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Wydzierżawiający oddaje Dzierżawcy do używania i pobierania pożytków nieruchomość gruntową położoną w miejscowości Przykładowo przy ul. Leśnej 7, działka nr 123/4, z budynkiem magazynowym, zwaną dalej Przedmiotem Dzierżawy.",
+ "term": {
+  "end_date": "2027-02-17",
+  "indefinite": false,
+  "notice_period": "30 dni",
+  "start_date": "2026-08-22"
+ },
+ "title": "UMOWA DZIERŻAWY NR U/924/2026"
+}

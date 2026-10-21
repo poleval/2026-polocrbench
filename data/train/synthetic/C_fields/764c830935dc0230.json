@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2025-05-16",
+ "conclusion_place": "Żywiec",
+ "contract_type": "b2b",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla m.st. Warszawy w Warszawie",
+ "number": "13/05/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "142",
+     "city": "Zabrze",
+     "country": null,
+     "postal_code": "59-521",
+     "street": "Szarych Szeregów",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Gabinety Janina Roch",
+    "nip": "0005116664",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "126",
+     "city": "Goleniów",
+     "country": null,
+     "postal_code": "68-862",
+     "street": "Lawendowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Gabinety Julianna Tomaszkiewicz",
+    "nip": "0008588263",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL55000000004872712278959257",
+ "remuneration": {
+  "amount": "3800.00",
+  "amount_in_words": "trzy tysiące osiemset zł 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": false,
+ "subject": "Zleceniodawca powierza, a Zleceniobiorca przyjmuje do wykonania usługi bieżącego wsparcia operacyjnego i marketingowego, obejmujące opracowywanie materiałów, analizę wyników i koordynację działań, zwane dalej Usługami.",
+ "term": {
+  "end_date": "2026-02-17",
+  "indefinite": false,
+  "notice_period": "jeden miesiąc",
+  "start_date": "2025-05-19"
+ },
+ "title": "UMOWA O WSPÓŁPRACY B2B NR 13/05/2025"
+}

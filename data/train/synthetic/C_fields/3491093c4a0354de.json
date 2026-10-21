@@ -1,0 +1,50 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "GK.7152.24.2025",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 10 § 1 k.p.a."
+ ],
+ "letter_date": "2025-09-03",
+ "letter_place": "Drawsko Pomorskie",
+ "letter_type": "notification",
+ "recipient": {
+  "address": {
+   "building_no": "74",
+   "city": "Jarosław",
+   "country": null,
+   "postal_code": "46-686",
+   "street": "Bociania",
+   "unit_no": "50"
+  },
+  "krs": null,
+  "name": "Spółdzielnia Michniak",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "148",
+   "city": "Drawsko Pomorskie",
+   "country": null,
+   "postal_code": "65-843",
+   "street": "Kilińskiego",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Drawska Pomorskiego",
+  "epuap": null,
+  "nip": "0008444759",
+  "regon": null,
+  "unit": "Wydział Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Wiktor Pezda",
+  "role": "Burmistrz"
+ },
+ "subject": "zakończenie zbierania materiału dowodowego – działka ewidencyjna nr 706/16"
+}

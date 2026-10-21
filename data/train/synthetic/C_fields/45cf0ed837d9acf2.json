@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2026-03-13",
+ "conclusion_place": "Lubin",
+ "contract_type": "lease",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "66/2026",
+ "parties": [
+  {
+   "id_document": "QWF952663",
+   "party": {
+    "address": {
+     "building_no": "37",
+     "city": "Brzeg",
+     "country": null,
+     "postal_code": "82-306",
+     "street": "Korfantego",
+     "unit_no": "60"
+    },
+    "krs": null,
+    "name": "Aleksander Kolanek",
+    "nip": null,
+    "pesel": "30202892068",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wydzierżawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "6B",
+     "city": "Świętochłowice",
+     "country": null,
+     "postal_code": "30-066",
+     "street": "Glówna",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "PPUH Janina Kózka",
+    "nip": "0002180489",
+    "pesel": null,
+    "regon": "009612845",
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Dzierżawca"
+  }
+ ],
+ "payment_account": "PL66000000006428827826753913",
+ "remuneration": {
+  "amount": "14100.00",
+  "amount_in_words": "czternaście tysięcy sto zł 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Wydzierżawiający oddaje Dzierżawcy do używania i pobierania pożytków nieruchomość gruntową wraz z zabudowaniami, zwaną dalej „Przedmiotem dzierżawy”, opisaną w protokole zdawczo-odbiorczym stanowiącym załącznik nr 1 do umowy.",
+ "term": {
+  "end_date": "2026-11-07",
+  "indefinite": false,
+  "notice_period": "1 miesiąca",
+  "start_date": "2026-03-19"
+ },
+ "title": "UMOWA DZIERŻAWY NR 66/2026"
+}

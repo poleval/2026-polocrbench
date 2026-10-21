@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2025-11-22",
+ "conclusion_place": "Śrem",
+ "contract_type": "b2b",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "U/082/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "27",
+     "city": "Ełk",
+     "country": null,
+     "postal_code": "39-471",
+     "street": "Jana Pawła II",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Fundacja Bareja",
+    "nip": "0007056989",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Marika Kluczyk",
+     "role": "Prezes zarządu"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "108A",
+     "city": "Grudziądz",
+     "country": null,
+     "postal_code": "25-580",
+     "street": "Storczykowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "FPUH Nikodem Wożniak",
+    "nip": "0000407641",
+    "pesel": null,
+    "regon": "000790574",
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Wykonawca"
+  }
+ ],
+ "payment_account": "PL04000000009240416250361685",
+ "remuneration": {
+  "amount": "11600.00",
+  "amount_in_words": "jedenaście tysięcy sześćset złotych 00 gr",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": false,
+ "subject": "Zleceniodawca powierza, a Wykonawca przyjmuje do wykonania, w ramach prowadzonej działalności gospodarczej, usługi doradcze i wdrożeniowe w zakresie wskazanym w załączniku nr 1 do Umowy.",
+ "term": {
+  "end_date": "2026-12-04",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-12-05"
+ },
+ "title": "UMOWA O WSPÓŁPRACY B2B NR U/082/2025"
+}

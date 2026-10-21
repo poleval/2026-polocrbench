@@ -1,0 +1,112 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "151",
+   "city": "Łuków",
+   "country": null,
+   "postal_code": "64-273",
+   "street": "Strzelecka",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Janina Pietrusiewicz",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "proforma",
+ "issue_date": "2026-02-20",
+ "issue_place": "Piotrków Trybunalski",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Narożnik tapicerowany z funkcją spania",
+   "discount": null,
+   "gross_amount": "8044.97",
+   "line_no": 1,
+   "net_amount": "6540.63",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "6540.63",
+   "vat_amount": "1504.34",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Składowanie towaru",
+   "discount": null,
+   "gross_amount": "25.83",
+   "line_no": 2,
+   "net_amount": "21.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1.5",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "14.00",
+   "vat_amount": "4.83",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Ołówek grafitowy HB",
+   "discount": null,
+   "gross_amount": "2.02",
+   "line_no": 3,
+   "net_amount": "1.64",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "0.82",
+   "vat_amount": "0.38",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "PRO/653/2026",
+ "payment": {
+  "bank_account": "PL72000000003719257971298276",
+  "bank_name": "Spółdzielczy Bank Młyńskiego Wzgórza",
+  "due_date": null,
+  "due_days": 21,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2026-02-19",
+ "seller": {
+  "address": {
+   "building_no": "150",
+   "city": "Żary",
+   "country": null,
+   "postal_code": "54-730",
+   "street": "Wiosenna",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "PPUH Adrianna Szeja",
+  "nip": "0005100752",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "8072.82",
+  "amount_in_words": "osiem tysięcy siedemdziesiąt dwa złote 82 gr",
+  "amount_paid": null,
+  "gross_amount": "8072.82",
+  "net_amount": "6563.27",
+  "vat_amount": "1509.55"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "8072.82",
+   "net_amount": "6563.27",
+   "vat_amount": "1509.55",
+   "vat_rate": "23"
+  }
+ ]
+}

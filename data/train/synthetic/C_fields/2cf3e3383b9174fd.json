@@ -1,0 +1,57 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "PS.3260.102.2026.DV",
+ "deadline": {
+  "action": "zawiadomić organ o przyczynie niemożności stawienia się",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 50 § 1 k.p.a.",
+  "art. 54 § 1 k.p.a.",
+  "art. 88 § 1 pkt 1 k.p.a.",
+  "art. 88 § 2 k.p.a."
+ ],
+ "letter_date": "2026-09-16",
+ "letter_place": "Jelenia Góra",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "69",
+   "city": "Bydgoszcz",
+   "country": null,
+   "postal_code": "90-484",
+   "street": "Gałczynskiego",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Konrad Jany",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "150",
+   "city": "Jelenia Góra",
+   "country": null,
+   "postal_code": "91-268",
+   "street": "Mokra",
+   "unit_no": "20"
+  },
+  "authority_name": "Urząd Miasta Jeleniej Góry",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Justyna Solis",
+  "role": "Naczelnik Wydziału Gospodarki Nieruchomościami"
+ },
+ "subject": "stawiennictwo w urzędzie w celu złożenia wyjaśnień i przedstawienia dokumentów odnoszących się do działki ewidencyjnej nr 618/8"
+}

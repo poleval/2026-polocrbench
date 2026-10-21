@@ -1,0 +1,54 @@
+{
+ "appeal_body": null,
+ "attachments_count": 2,
+ "case_ref": "OŚ.3567.68.2026.OG",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 20 pkt 5 ustawy o drogach publicznych",
+  "art. 7 ust. 1 pkt 2 ustawy o samorządzie gminnym",
+  "art. 227 k.p.a.",
+  "art. 237 § 1 k.p.a.",
+  "art. 238 k.p.a."
+ ],
+ "letter_date": "2026-07-07",
+ "letter_place": "Czernica",
+ "letter_type": "reply",
+ "recipient": {
+  "address": {
+   "building_no": "29",
+   "city": "Świdnica",
+   "country": null,
+   "postal_code": "77-696",
+   "street": "Korfantego",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Olga Halama",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "154C",
+   "city": "Czernica",
+   "country": null,
+   "postal_code": "40-803",
+   "street": "Wolności",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Gminy Czernica",
+  "epuap": "/UGCzernica/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Referat Inwestycji i Gospodarki Komunalnej"
+ },
+ "signatory": {
+  "full_name": "Nataniel Pastuła",
+  "role": "Kierownik Referatu Inwestycji i Gospodarki Komunalnej"
+ },
+ "subject": "utrzymania drogi gminnej na działce ewidencyjnej nr 557/12"
+}

@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2026-08-09",
+ "conclusion_place": "Nowa Ruda",
+ "contract_type": "employment",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "32/08/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "150",
+     "city": "Rybnik",
+     "country": null,
+     "postal_code": "20-108",
+     "street": "Borówkowa",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "PPUH Molek S.A.",
+    "nip": "0009827043",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Damian Żmija",
+     "role": "Wspólnik uprawniony do reprezentacji"
+    }
+   ],
+   "role": "Pracodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "52",
+     "city": "Radomsko",
+     "country": null,
+     "postal_code": "74-579",
+     "street": "Cisowa",
+     "unit_no": "63"
+    },
+    "krs": null,
+    "name": "Cezary Andrys",
+    "nip": null,
+    "pesel": "99131269635",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pracownik"
+  }
+ ],
+ "payment_account": "PL40000000006717399136715010",
+ "remuneration": {
+  "amount": "7100.00",
+  "amount_in_words": "siedem tysięcy sto złotych 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Pracodawca zatrudnia Pracownika na stanowisku specjalisty ds. obsługi klienta w pełnym wymiarze czasu pracy.",
+ "term": {
+  "end_date": "2026-11-11",
+  "indefinite": false,
+  "notice_period": "2 tygodnie",
+  "start_date": "2026-08-23"
+ },
+ "title": "UMOWA O PRACĘ NR 32/08/2026"
+}

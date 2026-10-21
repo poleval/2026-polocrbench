@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "FN.5209.57.2026.KH",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 18 ust. 8 ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi",
+  "art. 50 k.p.a."
+ ],
+ "letter_date": "2026-02-08",
+ "letter_place": "Świebodzice",
+ "letter_type": "request",
+ "recipient": {
+  "address": {
+   "building_no": "18A",
+   "city": "Piotrków Trybunalski",
+   "country": null,
+   "postal_code": "16-390",
+   "street": "Konarskiego",
+   "unit_no": "78"
+  },
+  "krs": null,
+  "name": "Miszta Sp. z o.o.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "40",
+   "city": "Świebodzice",
+   "country": null,
+   "postal_code": "13-289",
+   "street": "Willowa",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Świebodzic",
+  "epuap": "/UMSwiebodzice/SkrytkaESP",
+  "nip": "0000593218",
+  "regon": "005619997",
+  "unit": "Wydział Działalności Gospodarczej i Zezwoleń"
+ },
+ "signatory": {
+  "full_name": "Andrzej Kozdra",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "kontroli zezwolenia na sprzedaż napojów alkoholowych"
+}

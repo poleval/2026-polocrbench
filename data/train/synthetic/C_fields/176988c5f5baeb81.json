@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "BUD.6924.88.2025",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6k ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6x ustawy o utrzymaniu czystości i porządku w gminach"
+ ],
+ "letter_date": "2025-01-31",
+ "letter_place": "Kostrzyn",
+ "letter_type": "information",
+ "recipient": {
+  "address": {
+   "building_no": "47",
+   "city": "Bydgoszcz",
+   "country": null,
+   "postal_code": "92-865",
+   "street": "Jastrzębia",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Angelika Sąsiadek",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "88",
+   "city": "Kostrzyn",
+   "country": null,
+   "postal_code": "75-163",
+   "street": "Rejtana",
+   "unit_no": "6"
+  },
+  "authority_name": "Burmistrz Miasta Kostrzyna",
+  "epuap": null,
+  "nip": "0008361542",
+  "regon": null,
+  "unit": "Wydział Gospodarki Komunalnej i Ochrony Środowiska"
+ },
+ "signatory": {
+  "full_name": "Ada Golda",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "wysokość opłaty za gospodarowanie odpadami komunalnymi dla nieruchomości położonej na działce ewidencyjnej nr 539/11"
+}

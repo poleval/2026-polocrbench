@@ -1,0 +1,132 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "135",
+   "city": "Świdnik",
+   "country": null,
+   "postal_code": "36-164",
+   "street": "Azaliowa",
+   "unit_no": "10"
+  },
+  "krs": null,
+  "name": "Gabinety Oliwier Budkiewicz",
+  "nip": "0005079242",
+  "pesel": null,
+  "regon": "002628375",
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-03-21",
+ "issue_place": "Dzierżoniów",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Koszulka na dokumenty A4",
+   "discount": null,
+   "gross_amount": "6.24",
+   "line_no": 1,
+   "net_amount": "5.07",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "opak.",
+   "unit_price_gross": null,
+   "unit_price_net": "5.07",
+   "vat_amount": "1.17",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Projekt graficzny papieru firmowego",
+   "discount": null,
+   "gross_amount": "532.59",
+   "line_no": 2,
+   "net_amount": "433.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "433.00",
+   "vat_amount": "99.59",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Koperta biała DL z okienkiem",
+   "discount": null,
+   "gross_amount": "36.22",
+   "line_no": 3,
+   "net_amount": "29.45",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "opak.",
+   "unit_price_gross": null,
+   "unit_price_net": "29.45",
+   "vat_amount": "6.77",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Książka poradnik z zakresu organizacji biura",
+   "discount": null,
+   "gross_amount": "916.27",
+   "line_no": 4,
+   "net_amount": "872.64",
+   "pkwiu_or_gtu": null,
+   "quantity": "16",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "54.54",
+   "vat_amount": "43.63",
+   "vat_rate": "5"
+  }
+ ],
+ "number": "523/03/2026",
+ "payment": {
+  "bank_account": "PL63000000006954921970751235",
+  "bank_name": "Bank Starego Rynku",
+  "due_date": null,
+  "due_days": 30,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2026-03-11",
+ "seller": {
+  "address": {
+   "building_no": "123",
+   "city": "Łaziska Górne",
+   "country": null,
+   "postal_code": "29-520",
+   "street": "Orla",
+   "unit_no": "38"
+  },
+  "krs": null,
+  "name": "FPUH Flisek Sp. z o.o.",
+  "nip": "0007201405",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": null,
+  "amount_in_words": "tysiąc czterysta dziewięćdziesiąt jeden złotych 32/100",
+  "amount_paid": null,
+  "gross_amount": "1491.32",
+  "net_amount": "1340.16",
+  "vat_amount": "151.16"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "575.05",
+   "net_amount": "467.52",
+   "vat_amount": "107.53",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "916.27",
+   "net_amount": "872.64",
+   "vat_amount": "43.63",
+   "vat_rate": "5"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2025-01-02",
+ "conclusion_place": "Wałbrzych",
+ "contract_type": "employment",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "12/01/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "134A",
+     "city": "Goleniów",
+     "country": null,
+     "postal_code": "83-121",
+     "street": "Śląska",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Ścibisz S.A.",
+    "nip": "0002874306",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Róża Kunysz",
+     "role": "Prokurent łączny"
+    }
+   ],
+   "role": "Pracodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "43A",
+     "city": "Iława",
+     "country": null,
+     "postal_code": "85-866",
+     "street": "Hutnicza",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Gaja John",
+    "nip": null,
+    "pesel": "06172343709",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pracownik"
+  }
+ ],
+ "payment_account": "PL07000000005494712197167527",
+ "remuneration": {
+  "amount": "9500.00",
+  "amount_in_words": "dziewięć tysięcy pięćset złotych 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Pracodawca zatrudnia Pracownika na stanowisku specjalisty ds. obsługi klienta w pełnym wymiarze czasu pracy.",
+ "term": {
+  "end_date": "2025-03-06",
+  "indefinite": false,
+  "notice_period": "2 tygodnie",
+  "start_date": "2025-01-04"
+ },
+ "title": "UMOWA O PRACĘ NR 12/01/2025"
+}

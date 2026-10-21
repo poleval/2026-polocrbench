@@ -1,0 +1,56 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "AB.7113.2.2026",
+ "deadline": {
+  "action": "usunięcia odpadów z nieruchomości położonej na działce ewidencyjnej nr 577/22 i uprzątnięcia terenu",
+  "date": "2026-10-15",
+  "days": null
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 26 ust. 1 ustawy o odpadach",
+  "art. 64 § 1 k.p.a.",
+  "art. 64 § 2 k.p.a."
+ ],
+ "letter_date": "2026-09-19",
+ "letter_place": "Biłgoraj",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "84",
+   "city": "Włocławek",
+   "country": null,
+   "postal_code": "02-432",
+   "street": "Pocztowa",
+   "unit_no": "50"
+  },
+  "krs": null,
+  "name": "Baum S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "129",
+   "city": "Biłgoraj",
+   "country": null,
+   "postal_code": "04-518",
+   "street": "Urocza",
+   "unit_no": "75"
+  },
+  "authority_name": "Urząd Miasta Biłgoraja",
+  "epuap": "/UMBilgoraj/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Komunalnej i Ochrony Środowiska"
+ },
+ "signatory": {
+  "full_name": "Kaja Oleksa",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "uprzątnięcia nieruchomości z odpadów"
+}

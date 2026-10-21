@@ -1,0 +1,50 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "PS.5978.188.2025",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 10 § 1 k.p.a."
+ ],
+ "letter_date": "2025-05-03",
+ "letter_place": "Tułowice",
+ "letter_type": "notification",
+ "recipient": {
+  "address": {
+   "building_no": "53",
+   "city": "Biała Podlaska",
+   "country": null,
+   "postal_code": "95-113",
+   "street": "Magnoliowa",
+   "unit_no": "90"
+  },
+  "krs": null,
+  "name": "Marika Laskus",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "155",
+   "city": "Tułowice",
+   "country": null,
+   "postal_code": "32-766",
+   "street": "Łabędzia",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Tułowic",
+  "epuap": "/UMTulowice/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Ewelina Folga",
+  "role": "Burmistrz"
+ },
+ "subject": "zakończenie zbierania materiału dowodowego – działka ewidencyjna nr 267/24"
+}

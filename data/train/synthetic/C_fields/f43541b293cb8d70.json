@@ -1,0 +1,53 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "PS.5222.98.2025.AT",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 61 § 1 i 4 k.p.a.",
+  "art. 10 § 1 k.p.a.",
+  "art. 73 § 1 k.p.a.",
+  "art. 41 § 1 k.p.a."
+ ],
+ "letter_date": "2025-06-30",
+ "letter_place": "Węgorzewo",
+ "letter_type": "notification",
+ "recipient": {
+  "address": {
+   "building_no": "43",
+   "city": "Gniezno",
+   "country": null,
+   "postal_code": "62-181",
+   "street": "Srebrna",
+   "unit_no": "42"
+  },
+  "krs": null,
+  "name": "FPUH Starzak S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "77",
+   "city": "Węgorzewo",
+   "country": null,
+   "postal_code": "36-728",
+   "street": "Narutowicza",
+   "unit_no": "4"
+  },
+  "authority_name": "Burmistrz Miasta Węgorzewa",
+  "epuap": "/BMWegorzewo/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Przestrzennej i Architektury"
+ },
+ "signatory": {
+  "full_name": "Monika Halama",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "wszczęcie postępowania administracyjnego dotyczącego wydania decyzji o warunkach zabudowy"
+}

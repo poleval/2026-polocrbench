@@ -1,0 +1,58 @@
+{
+ "appeal_body": null,
+ "attachments_count": 2,
+ "case_ref": "PS.4685.218.2025",
+ "deadline": {
+  "action": "do zapłaty zaległej opłaty za gospodarowanie odpadami komunalnymi należnej za nieruchomość położoną na terenie Gminy Oleśnica, oznaczoną numerem działki ewidencyjnej 280/27, w łącznej kwocie 6203,00 zł, w terminie do dnia 2025-06-16",
+  "date": "2025-06-16",
+  "days": null
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6h ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6k ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6m ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6o ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6q ust. 1 ustawy o utrzymaniu czystości i porządku w gminach"
+ ],
+ "letter_date": "2025-05-20",
+ "letter_place": "Oleśnica",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "113",
+   "city": "Kłodzko",
+   "country": null,
+   "postal_code": "45-890",
+   "street": "Krokusowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Sara Durlik",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "40",
+   "city": "Oleśnica",
+   "country": null,
+   "postal_code": "25-532",
+   "street": "Okulickiego",
+   "unit_no": "34"
+  },
+  "authority_name": "Wójt Gminy Oleśnica",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Referat Finansów i Budżetu"
+ },
+ "signatory": {
+  "full_name": "Kamila Kuszyk",
+  "role": "Wójt"
+ },
+ "subject": "zapłata zaległej opłaty za gospodarowanie odpadami komunalnymi"
+}

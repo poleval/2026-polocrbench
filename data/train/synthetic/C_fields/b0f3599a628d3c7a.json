@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "OR.6028.247.2025.MK",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6 ust. 2 ustawy o petycjach",
+  "art. 6 ust. 1 ustawy o petycjach"
+ ],
+ "letter_date": "2025-06-24",
+ "letter_place": "Wałcz",
+ "letter_type": "information",
+ "recipient": {
+  "address": {
+   "building_no": "95",
+   "city": "Lublin",
+   "country": null,
+   "postal_code": "41-734",
+   "street": "Kolonia",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Blanka Surdel",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "83",
+   "city": "Wałcz",
+   "country": null,
+   "postal_code": "51-423",
+   "street": "Sokola",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Wałcza",
+  "epuap": "/UMWalcz/SkrytkaESP",
+  "nip": null,
+  "regon": "006706646",
+  "unit": "Wydział Organizacyjny"
+ },
+ "signatory": {
+  "full_name": "Wiktor Wrześniak",
+  "role": "Burmistrz"
+ },
+ "subject": "sposób załatwienia petycji złożonej w dniu 2025-05-18 o zagospodarowanie nieruchomości oznaczonej numerem działki 864/23"
+}

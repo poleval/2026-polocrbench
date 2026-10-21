@@ -1,0 +1,59 @@
+{
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Wałbrzychu",
+ "attachments_count": 1,
+ "case_ref": "RO.5911.53.2025.ST",
+ "deadline": {
+  "action": "wniesienie odwołania od decyzji",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": "I. Ustala się warunki zabudowy dla inwestycji polegającej na budowie budynku mieszkalnego jednorodzinnego na działce ewidencyjnej nr 103/14.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 104 k.p.a.",
+  "art. 59 ust. 1",
+  "art. 60 ust. 1",
+  "art. 61 ust. 1",
+  "art. 62 ust. 1",
+  "art. 127 § 1 i 2 k.p.a."
+ ],
+ "letter_date": "2025-01-01",
+ "letter_place": "Ziębice",
+ "letter_type": "decision",
+ "recipient": {
+  "address": {
+   "building_no": "131",
+   "city": "Chełm",
+   "country": null,
+   "postal_code": "14-114",
+   "street": "Górska",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Tyniec Sp. z o.o.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "18",
+   "city": "Ziębice",
+   "country": null,
+   "postal_code": "35-092",
+   "street": "Źródlana",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Ziębic",
+  "epuap": "/BMZiebice/SkrytkaESP",
+  "nip": "0001352020",
+  "regon": null,
+  "unit": "Wydział Planowania Przestrzennego i Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Urszula Bączkiewicz",
+  "role": "Burmistrz"
+ },
+ "subject": "ustalenia warunków zabudowy dla inwestycji polegającej na budowie budynku mieszkalnego jednorodzinnego na działce ewidencyjnej nr 103/14"
+}

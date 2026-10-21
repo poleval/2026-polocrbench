@@ -1,0 +1,146 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "37",
+   "city": "Łomża",
+   "country": null,
+   "postal_code": "82-017",
+   "street": "Jasna",
+   "unit_no": "60"
+  },
+  "krs": "0099999999",
+  "name": "FPUH Dudczak-Kosowicz S.A.",
+  "nip": "0002464979",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-09-12",
+ "issue_place": null,
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Szafka kuchenna wisząca 60 cm",
+   "discount": null,
+   "gross_amount": "1867.16",
+   "line_no": 1,
+   "net_amount": "1518.02",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "759.01",
+   "vat_amount": "349.14",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Tkanina obiciowa meblowa",
+   "discount": null,
+   "gross_amount": "369.71",
+   "line_no": 2,
+   "net_amount": "300.58",
+   "pkwiu_or_gtu": null,
+   "quantity": "2.5",
+   "unit": "mb",
+   "unit_price_gross": null,
+   "unit_price_net": "120.23",
+   "vat_amount": "69.13",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Dywan wełniany 200x300",
+   "discount": null,
+   "gross_amount": "7499.78",
+   "line_no": 3,
+   "net_amount": "6097.38",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "2032.46",
+   "vat_amount": "1402.40",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Roboty wykończeniowe wnętrz",
+   "discount": null,
+   "gross_amount": "2138.40",
+   "line_no": 4,
+   "net_amount": "1980.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "20",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "99.00",
+   "vat_amount": "158.40",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Montaż i regulacja drzwi wewnętrznych",
+   "discount": null,
+   "gross_amount": "761.40",
+   "line_no": 5,
+   "net_amount": "705.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "235.00",
+   "vat_amount": "56.40",
+   "vat_rate": "8"
+  }
+ ],
+ "number": "FA/0317/25",
+ "payment": {
+  "bank_account": "PL04000000004194208071936290",
+  "bank_name": null,
+  "due_date": null,
+  "due_days": 7,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2025-09-11",
+ "seller": {
+  "address": {
+   "building_no": "19",
+   "city": "Jelenia Góra",
+   "country": null,
+   "postal_code": "44-243",
+   "street": "Orkana",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Gabinety Agnieszka Rozynek",
+  "nip": "0005337365",
+  "pesel": null,
+  "regon": "008356216",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "12636.45",
+  "amount_in_words": "dwanaście tysięcy sześćset trzydzieści sześć złotych 45/100",
+  "amount_paid": "0.00",
+  "gross_amount": "12636.45",
+  "net_amount": "10600.98",
+  "vat_amount": "2035.47"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "9736.65",
+   "net_amount": "7915.98",
+   "vat_amount": "1820.67",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "2899.80",
+   "net_amount": "2685.00",
+   "vat_amount": "214.80",
+   "vat_rate": "8"
+  }
+ ]
+}

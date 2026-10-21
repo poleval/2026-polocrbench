@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "AB.4737.130.2025.AW",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 306a ustawy – Ordynacja podatkowa",
+  "art. 306b ustawy – Ordynacja podatkowa"
+ ],
+ "letter_date": "2025-02-10",
+ "letter_place": "Mikołajki",
+ "letter_type": "certificate",
+ "recipient": {
+  "address": {
+   "building_no": "145",
+   "city": "Starogard Gdański",
+   "country": null,
+   "postal_code": "23-213",
+   "street": "Jana Pawła II",
+   "unit_no": "55"
+  },
+  "krs": null,
+  "name": "Oliwier Pawliczek",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "112",
+   "city": "Mikołajki",
+   "country": null,
+   "postal_code": "95-590",
+   "street": "Wschodnia",
+   "unit_no": "37"
+  },
+  "authority_name": "Burmistrz Miasta Mikołajek",
+  "epuap": "/BMMikolajki/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Finansów, Referat Podatków i Opłat Lokalnych"
+ },
+ "signatory": {
+  "full_name": "Marcelina Dyszkiewicz",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "niezalegania w podatkach lokalnych"
+}

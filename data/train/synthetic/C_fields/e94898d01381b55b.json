@@ -1,0 +1,170 @@
+{
+ "annotations": [
+  "split_payment"
+ ],
+ "buyer": {
+  "address": {
+   "building_no": "67",
+   "city": "Czeladź",
+   "country": null,
+   "postal_code": "91-178",
+   "street": "Skłodowskiej-Curie",
+   "unit_no": "15"
+  },
+  "krs": "0099999999",
+  "name": "Spółdzielnia Wesoły",
+  "nip": "0002340059",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-06-03",
+ "issue_place": "Białystok",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Obsługa księgowa podatnika ryczałtowego",
+   "discount": null,
+   "gross_amount": "1668.15",
+   "line_no": 1,
+   "net_amount": "1356.22",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "m-c",
+   "unit_price_gross": null,
+   "unit_price_net": "678.11",
+   "vat_amount": "311.93",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Stała obsługa prawna przedsiębiorcy",
+   "discount": null,
+   "gross_amount": "8316.03",
+   "line_no": 2,
+   "net_amount": "6761.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "m-c",
+   "unit_price_gross": null,
+   "unit_price_net": "6761.00",
+   "vat_amount": "1555.03",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Audyt prawny spółki",
+   "discount": null,
+   "gross_amount": "12015.23",
+   "line_no": 3,
+   "net_amount": "9768.48",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "9768.48",
+   "vat_amount": "2246.75",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Doradztwo w zakresie zasobów ludzkich",
+   "discount": null,
+   "gross_amount": "4095.90",
+   "line_no": 4,
+   "net_amount": "3330.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "10",
+   "unit": "h",
+   "unit_price_gross": null,
+   "unit_price_net": "333.00",
+   "vat_amount": "765.90",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Toner do drukarki biurowej",
+   "discount": null,
+   "gross_amount": "135.30",
+   "line_no": 5,
+   "net_amount": "110.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "110.00",
+   "vat_amount": "25.30",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Licencja oprogramowania księgowego",
+   "discount": null,
+   "gross_amount": "1330.86",
+   "line_no": 6,
+   "net_amount": "1082.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "1082.00",
+   "vat_amount": "248.86",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Doradztwo podatkowe",
+   "discount": null,
+   "gross_amount": "11165.02",
+   "line_no": 7,
+   "net_amount": "9077.25",
+   "pkwiu_or_gtu": null,
+   "quantity": "12.5",
+   "unit": "h",
+   "unit_price_gross": null,
+   "unit_price_net": "726.18",
+   "vat_amount": "2087.77",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "890/06/2025",
+ "payment": {
+  "bank_account": "PL35000000009666447855815683",
+  "bank_name": "Bank Nadmorskiej Bryzy",
+  "due_date": null,
+  "due_days": 14,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2025-06-01",
+ "seller": {
+  "address": {
+   "building_no": "21",
+   "city": "Kędzierzyn-Koźle",
+   "country": null,
+   "postal_code": "70-111",
+   "street": "Lwowska",
+   "unit_no": null
+  },
+  "krs": "0099999999",
+  "name": "PPUH Bondaruk Sp. z o.o.",
+  "nip": "0004635505",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "38726.49",
+  "amount_in_words": "trzydzieści osiem tysięcy siedemset dwadzieścia sześć zł 49/100",
+  "amount_paid": "0.00",
+  "gross_amount": "38726.49",
+  "net_amount": "31484.95",
+  "vat_amount": "7241.54"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "38726.49",
+   "net_amount": "31484.95",
+   "vat_amount": "7241.54",
+   "vat_rate": "23"
+  }
+ ]
+}

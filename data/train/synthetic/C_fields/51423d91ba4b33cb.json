@@ -1,0 +1,57 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "GN.5232.225.2026",
+ "deadline": {
+  "action": "zawiadomić organ o przyczynie niemożności stawienia się",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 50 § 1 k.p.a.",
+  "art. 54 § 1 k.p.a.",
+  "art. 88 § 1 pkt 1 k.p.a.",
+  "art. 88 § 2 k.p.a."
+ ],
+ "letter_date": "2026-09-09",
+ "letter_place": "Piotrków Trybunalski",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "52",
+   "city": "Tarnowskie Góry",
+   "country": null,
+   "postal_code": "26-149",
+   "street": "Borówkowa",
+   "unit_no": "10"
+  },
+  "krs": null,
+  "name": "Patryk Pietrus",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "60",
+   "city": "Piotrków Trybunalski",
+   "country": null,
+   "postal_code": "98-178",
+   "street": "Jana",
+   "unit_no": "4"
+  },
+  "authority_name": "Urząd Miasta Piotrkowa Trybunalskiego",
+  "epuap": "/UMPiotrkowTrybunalski/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Eryk Oleksa",
+  "role": "Naczelnik Wydziału Gospodarki Nieruchomościami"
+ },
+ "subject": "stawiennictwo w urzędzie w celu złożenia wyjaśnień i przedstawienia dokumentów odnoszących się do działki ewidencyjnej nr 467/25"
+}

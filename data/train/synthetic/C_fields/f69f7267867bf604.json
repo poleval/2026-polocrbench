@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2025-02-20",
+ "conclusion_place": "Łaziska Górne",
+ "contract_type": "specific_work",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "U/229/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "26",
+     "city": "Szczecinek",
+     "country": null,
+     "postal_code": "74-841",
+     "street": "Nowowiejska",
+     "unit_no": "82"
+    },
+    "krs": "0099999999",
+    "name": "Spółdzielnia Sromek",
+    "nip": "0008445204",
+    "pesel": null,
+    "regon": "008669688",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Eryk Kość",
+     "role": "Wspólnik uprawniony do reprezentacji"
+    }
+   ],
+   "role": "Zamawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "39B",
+     "city": "Świdnik",
+     "country": null,
+     "postal_code": "06-068",
+     "street": "Wróblewskiego",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Stefan Cieloch",
+    "nip": null,
+    "pesel": "22132701242",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wykonawca"
+  }
+ ],
+ "payment_account": "PL26000000001775620808053616",
+ "remuneration": {
+  "amount": "4050.00",
+  "amount_in_words": "cztery tysiące pięćdziesiąt zł 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Zamawiający zamawia, a Wykonawca zobowiązuje się wykonać dzieło polegające na przygotowaniu projektu graficznego oraz tekstu broszury informacyjnej, zwane dalej „Dziełem”.",
+ "term": {
+  "end_date": "2025-05-16",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-03-02"
+ },
+ "title": "UMOWA O DZIEŁO NR U/229/2025"
+}

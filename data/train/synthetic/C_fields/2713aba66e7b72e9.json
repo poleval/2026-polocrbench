@@ -1,0 +1,118 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "48",
+   "city": "Wągrowiec",
+   "country": null,
+   "postal_code": "16-309",
+   "street": "Radosna",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Gabinety Ewelina Sommer",
+  "nip": "0009983731",
+  "pesel": null,
+  "regon": "001194696",
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-07-28",
+ "issue_place": "Radomsko",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Catering na event firmowy",
+   "discount": null,
+   "gross_amount": "1125.03",
+   "line_no": 1,
+   "net_amount": "1041.69",
+   "pkwiu_or_gtu": null,
+   "quantity": "13",
+   "unit": "os.",
+   "unit_price_gross": null,
+   "unit_price_net": "80.13",
+   "vat_amount": null,
+   "vat_rate": "8"
+  },
+  {
+   "description": "Baner reklamowy PVC 440 g",
+   "discount": null,
+   "gross_amount": "252.15",
+   "line_no": 2,
+   "net_amount": "205.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "5",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "41.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Projekt graficzny logo",
+   "discount": null,
+   "gross_amount": "1950.78",
+   "line_no": 3,
+   "net_amount": "1586.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "1586.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FA/0178/26",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "card"
+ },
+ "recipient": null,
+ "sale_date": "2026-07-23",
+ "seller": {
+  "address": {
+   "building_no": "39",
+   "city": "Łaziska Górne",
+   "country": null,
+   "postal_code": "46-468",
+   "street": "Krakowska",
+   "unit_no": "62"
+  },
+  "krs": null,
+  "name": "PPUH Kazimierz Lica",
+  "nip": "0005221591",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "0.00",
+  "amount_in_words": "trzy tysiące trzysta dwadzieścia siedem zł 96/100",
+  "amount_paid": "3327.96",
+  "gross_amount": "3327.96",
+  "net_amount": "2832.69",
+  "vat_amount": "495.27"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "2202.93",
+   "net_amount": "1791.00",
+   "vat_amount": "411.93",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "1125.03",
+   "net_amount": "1041.69",
+   "vat_amount": "83.34",
+   "vat_rate": "8"
+  }
+ ]
+}

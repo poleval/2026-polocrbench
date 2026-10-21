@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2026-06-22",
+ "conclusion_place": "Grodzisk Mazowiecki",
+ "contract_type": "b2b",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla m.st. Warszawy w Warszawie",
+ "number": "59/06/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "115",
+     "city": "Szczecinek",
+     "country": null,
+     "postal_code": "49-855",
+     "street": "Miarki",
+     "unit_no": "40"
+    },
+    "krs": null,
+    "name": "Gabinety Anastazja Wocial",
+    "nip": "0004945364",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "146",
+     "city": "Kraśnik",
+     "country": null,
+     "postal_code": "40-706",
+     "street": "Miła",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "PPUH Aurelia Skała",
+    "nip": "0004147697",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL98000000002057668362957423",
+ "remuneration": {
+  "amount": "5700.00",
+  "amount_in_words": "pięć tysięcy siedemset złotych 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Zleceniodawca powierza, a Zleceniobiorca przyjmuje do wykonania usługi bieżącego wsparcia operacyjnego i marketingowego, obejmujące opracowywanie materiałów, analizę wyników i koordynację działań, zwane dalej Usługami.",
+ "term": {
+  "end_date": "2027-04-13",
+  "indefinite": false,
+  "notice_period": "jeden miesiąc",
+  "start_date": "2026-06-29"
+ },
+ "title": "UMOWA O WSPÓŁPRACY B2B NR 59/06/2026"
+}

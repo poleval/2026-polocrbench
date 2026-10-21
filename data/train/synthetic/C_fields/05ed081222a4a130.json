@@ -1,0 +1,62 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze w Krośnie": [
+   "Samorządowego Kolegium Odwoławczego w Krośnie"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Krośnie",
+ "attachments_count": null,
+ "case_ref": "PS.6150.74.2026.EY",
+ "deadline": {
+  "action": "wniesienia zażalenia",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": "Zawiesza się postępowanie administracyjne w sprawie dotyczącej nieruchomości oznaczonej numerem działki 344/14, wszczętej na wniosek strony: Monika Wojtaszczyk, do czasu rozstrzygnięcia zagadnienia wstępnego przez organ administracji publicznej właściwy do ustalenia stanu prawnego nieruchomości.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 97 § 1 pkt 2 k.p.a.",
+  "art. 97 § 2 k.p.a.",
+  "art. 141 § 1 k.p.a.",
+  "art. 141 § 2 k.p.a."
+ ],
+ "letter_date": "2026-08-20",
+ "letter_place": "Bukowsko",
+ "letter_type": "order",
+ "recipient": {
+  "address": {
+   "building_no": "133",
+   "city": "Bielsk Podlaski",
+   "country": null,
+   "postal_code": "54-464",
+   "street": "Borówkowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Monika Wojtaszczyk",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "71",
+   "city": "Bukowsko",
+   "country": null,
+   "postal_code": "95-235",
+   "street": "Cyprysowa",
+   "unit_no": null
+  },
+  "authority_name": "Wójt Gminy Bukowsko",
+  "epuap": null,
+  "nip": "0001502554",
+  "regon": null,
+  "unit": "Referat Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Monika Albin",
+  "role": "Wójt Gminy"
+ },
+ "subject": "zawieszenie postępowania administracyjnego w przedmiocie nieruchomości o numerze działki 344/14"
+}

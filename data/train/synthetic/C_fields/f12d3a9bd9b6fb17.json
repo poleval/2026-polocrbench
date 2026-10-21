@@ -1,0 +1,81 @@
+{
+ "conclusion_date": "2026-08-29",
+ "conclusion_place": "Czerwionka-Leszczyny",
+ "contract_type": "lease",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "67/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "3",
+     "city": "Włocławek",
+     "country": null,
+     "postal_code": "40-240",
+     "street": "Jagiellońska",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Fundacja Glazer-Kala",
+    "nip": null,
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Nicole Włodyka",
+     "role": "Prokurent"
+    }
+   ],
+   "role": "Wydzierżawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "81",
+     "city": "Mielec",
+     "country": null,
+     "postal_code": "38-947",
+     "street": "Jana",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Dziarmaga Sp. z o.o.",
+    "nip": null,
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Oskar Łapot",
+     "role": "Prokurent"
+    }
+   ],
+   "role": "Dzierżawca"
+  }
+ ],
+ "payment_account": "PL74000000002792578184779591",
+ "remuneration": {
+  "amount": "6200.00",
+  "amount_in_words": "sześć tysięcy dwieście zł 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Wydzierżawiający oddaje Dzierżawcy do używania i pobierania pożytków nieruchomość gruntową położoną w miejscowości Przykładowo przy ul. Leśnej 7, działka nr 123/4, z budynkiem magazynowym, zwaną dalej Przedmiotem Dzierżawy.",
+ "term": {
+  "end_date": "2027-03-29",
+  "indefinite": false,
+  "notice_period": "30 dni",
+  "start_date": "2026-08-30"
+ },
+ "title": "UMOWA DZIERŻAWY NR 67/2026"
+}

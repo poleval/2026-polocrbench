@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "GN.4849.94.2025.BA",
+ "deadline": {
+  "action": "zapłaty zaległości podatkowej wraz z odsetkami za zwłokę",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 140 ustawy – Ordynacja podatkowa",
+  "art. 51 § 1 ustawy – Ordynacja podatkowa"
+ ],
+ "letter_date": "2025-10-23",
+ "letter_place": "Sułkowice",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "118",
+   "city": "Mysłowice",
+   "country": null,
+   "postal_code": "15-815",
+   "street": "Wyspiańskiego",
+   "unit_no": "23"
+  },
+  "krs": null,
+  "name": "Emil Grabas",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "152",
+   "city": "Sułkowice",
+   "country": null,
+   "postal_code": "82-640",
+   "street": "Chełmońskiego",
+   "unit_no": "81"
+  },
+  "authority_name": "Burmistrz Miasta Sułkowic",
+  "epuap": "/BMSulkowice/SkrytkaESP",
+  "nip": "0003138911",
+  "regon": null,
+  "unit": "Wydział Podatków i Opłat"
+ },
+ "signatory": {
+  "full_name": "Olaf Parus",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "zapłaty zaległości podatkowej w podatku od nieruchomości"
+}

@@ -1,0 +1,62 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze w Ciechanowie": [
+   "Samorządowego Kolegium Odwoławczego w Ciechanowie"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Ciechanowie",
+ "attachments_count": null,
+ "case_ref": "GN.3004.23.2025",
+ "deadline": {
+  "action": "odwołanie do Samorządowego Kolegium Odwoławczego w Ciechanowie",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 5 ust. 2 ustawy o dostępie do informacji publicznej",
+  "art. 13 ust. 1 ustawy o dostępie do informacji publicznej",
+  "art. 16 ust. 1 ustawy o dostępie do informacji publicznej",
+  "art. 6 ust. 1 pkt 4 lit. a ustawy o dostępie do informacji publicznej"
+ ],
+ "letter_date": "2025-03-08",
+ "letter_place": "Winnica",
+ "letter_type": "reply",
+ "recipient": {
+  "address": {
+   "building_no": "99",
+   "city": "Kraśnik",
+   "country": null,
+   "postal_code": "91-051",
+   "street": "Reja",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Spółdzielnia Składanek",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "1",
+   "city": "Winnica",
+   "country": null,
+   "postal_code": "42-829",
+   "street": "Gdańska",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Gminy Winnica",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Referat Zamówień Publicznych"
+ },
+ "signatory": {
+  "full_name": "Julian Such",
+  "role": "Wójt Gminy"
+ },
+ "subject": "udostępnienia informacji publicznej o zamówieniach publicznych"
+}

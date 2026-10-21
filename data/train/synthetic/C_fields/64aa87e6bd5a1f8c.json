@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2025-02-09",
+ "conclusion_place": "Świnoujście",
+ "contract_type": "loan",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "57/2025",
+ "parties": [
+  {
+   "id_document": "FDB546425",
+   "party": {
+    "address": {
+     "building_no": "71",
+     "city": "Kraków",
+     "country": null,
+     "postal_code": "65-106",
+     "street": "Koralowa",
+     "unit_no": "78"
+    },
+    "krs": null,
+    "name": "Błażej Kocurek",
+    "nip": null,
+    "pesel": "13182191080",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pożyczkodawca"
+  },
+  {
+   "id_document": "YXO983284",
+   "party": {
+    "address": {
+     "building_no": "90",
+     "city": "Lębork",
+     "country": null,
+     "postal_code": "04-536",
+     "street": "Zielona",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Igor Gilewicz",
+    "nip": null,
+    "pesel": "63140990675",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pożyczkobiorca"
+  }
+ ],
+ "payment_account": "PL07000000006735946409466217",
+ "remuneration": {
+  "amount": "5600.00",
+  "amount_in_words": "pięć tysięcy sześćset złotych 00 gr",
+  "basis": null,
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": false,
+ "subject": "Pożyczkodawca udziela Pożyczkobiorcy pożyczki w kwocie 5 600,00 zł (słownie: pięć tysięcy sześćset złotych 00 gr), zwanej dalej „Kwotą pożyczki”.",
+ "term": {
+  "end_date": "2025-07-30",
+  "indefinite": false,
+  "notice_period": null,
+  "start_date": "2025-02-12"
+ },
+ "title": "UMOWA POŻYCZKI NR 57/2025"
+}

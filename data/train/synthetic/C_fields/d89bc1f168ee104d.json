@@ -1,0 +1,75 @@
+{
+ "conclusion_date": "2025-09-13",
+ "conclusion_place": "Wałcz",
+ "contract_type": "nda",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "26/09/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "22",
+     "city": "Jaworzno",
+     "country": null,
+     "postal_code": "21-119",
+     "street": "Szarych Szeregów",
+     "unit_no": "64"
+    },
+    "krs": "0099999999",
+    "name": "FPUH Tomzik S.A.",
+    "nip": "0003736463",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Damian Skrobot",
+     "role": "Dyrektor oddziału"
+    }
+   ],
+   "role": "Ujawniający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "78",
+     "city": "Sochaczew",
+     "country": null,
+     "postal_code": "19-837",
+     "street": "Baczynskiego",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "PPUH Jamroży S.A.",
+    "nip": "0002656242",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Antoni Nikołajuk",
+     "role": "Likwidator"
+    }
+   ],
+   "role": "Przyjmujący"
+  }
+ ],
+ "payment_account": null,
+ "remuneration": null,
+ "signatures_present": true,
+ "subject": "Na podstawie umowy strona 1 („Ujawniający”) przekazuje stronie 2 („Przyjmujący”) informacje poufne w celu prowadzenia rozmów o współpracy, a strona 2 zobowiązuje się do zachowania ich poufności.",
+ "term": {
+  "end_date": "2026-05-04",
+  "indefinite": false,
+  "notice_period": null,
+  "start_date": "2025-09-16"
+ },
+ "title": "UMOWA O ZACHOWANIU POUFNOŚCI NR 26/09/2025"
+}

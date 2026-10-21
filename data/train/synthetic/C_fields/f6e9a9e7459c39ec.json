@@ -1,0 +1,174 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "131",
+   "city": "Żory",
+   "country": null,
+   "postal_code": "47-774",
+   "street": "Zielna",
+   "unit_no": "10"
+  },
+  "krs": null,
+  "name": "Spółdzielnia Nurek",
+  "nip": "0009798100",
+  "pesel": null,
+  "regon": "001351776",
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-06-12",
+ "issue_place": "Czerwionka-Leszczyny",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Zdjęcia produktowe w studiu",
+   "discount": null,
+   "gross_amount": "1075.02",
+   "line_no": 1,
+   "net_amount": "874.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "19",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "46.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Siatka mesh do banerów",
+   "discount": null,
+   "gross_amount": "68.28",
+   "line_no": 2,
+   "net_amount": "55.51",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "55.51",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Płyta PVC spieniona 3 mm",
+   "discount": null,
+   "gross_amount": "168.40",
+   "line_no": 3,
+   "net_amount": "136.91",
+   "pkwiu_or_gtu": null,
+   "quantity": "1.5",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "91.27",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Kaseton reklamowy podświetlany LED",
+   "discount": null,
+   "gross_amount": "2597.16",
+   "line_no": 4,
+   "net_amount": "2111.51",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "2111.51",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Kampania reklamowa w internecie",
+   "discount": null,
+   "gross_amount": "17545.95",
+   "line_no": 5,
+   "net_amount": "14265.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "4755.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Torba bawełniana z nadrukiem",
+   "discount": null,
+   "gross_amount": "221.40",
+   "line_no": 6,
+   "net_amount": "180.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "9",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "20.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Catering na event firmowy",
+   "discount": null,
+   "gross_amount": "818.47",
+   "line_no": 7,
+   "net_amount": "757.84",
+   "pkwiu_or_gtu": null,
+   "quantity": "4",
+   "unit": "os.",
+   "unit_price_gross": null,
+   "unit_price_net": "189.46",
+   "vat_amount": null,
+   "vat_rate": "8"
+  }
+ ],
+ "number": "FA/0945/26",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "cash"
+ },
+ "recipient": null,
+ "sale_date": "2026-06-03",
+ "seller": {
+  "address": {
+   "building_no": "95",
+   "city": "Włocławek",
+   "country": null,
+   "postal_code": "66-138",
+   "street": "Podwale",
+   "unit_no": "79"
+  },
+  "krs": null,
+  "name": "Gabinety Brzęk-Kopytko Sp. z o.o.",
+  "nip": "0003633556",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "0.00",
+  "amount_in_words": "dwadzieścia dwa tysiące czterysta dziewięćdziesiąt cztery złote 68 gr",
+  "amount_paid": "22494.68",
+  "gross_amount": "22494.68",
+  "net_amount": "18380.77",
+  "vat_amount": "4113.91"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "21676.21",
+   "net_amount": "17622.93",
+   "vat_amount": "4053.28",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "818.47",
+   "net_amount": "757.84",
+   "vat_amount": "60.63",
+   "vat_rate": "8"
+  }
+ ]
+}

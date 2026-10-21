@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "PS.3368.83.2026.SA",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6 ust. 2 ustawy o petycjach",
+  "art. 6 ust. 1 ustawy o petycjach"
+ ],
+ "letter_date": "2026-03-26",
+ "letter_place": "Ostróda",
+ "letter_type": "information",
+ "recipient": {
+  "address": {
+   "building_no": "90",
+   "city": "Biłgoraj",
+   "country": null,
+   "postal_code": "97-118",
+   "street": "Kielecka",
+   "unit_no": "78"
+  },
+  "krs": null,
+  "name": "PPUH Ciesiółka S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "33",
+   "city": "Ostróda",
+   "country": null,
+   "postal_code": "82-426",
+   "street": "Częstochowska",
+   "unit_no": "10"
+  },
+  "authority_name": "Urząd Miasta Ostródy",
+  "epuap": "/UMOstroda/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Organizacyjny"
+ },
+ "signatory": {
+  "full_name": "Lidia Rusiniak",
+  "role": "Burmistrz"
+ },
+ "subject": "sposób załatwienia petycji złożonej w dniu 18-02-2026 o zagospodarowanie nieruchomości oznaczonej numerem działki 722/17"
+}

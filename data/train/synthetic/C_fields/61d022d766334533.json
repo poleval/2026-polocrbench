@@ -1,0 +1,54 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "BUD.7079.189.2026",
+ "deadline": {
+  "action": "uiścić zaległy podatek od środków transportowych wraz z odsetkami za zwłokę",
+  "date": "2026-02-08",
+  "days": null
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 15 § 1 ustawy o postępowaniu egzekucyjnym w administracji"
+ ],
+ "letter_date": "2026-01-17",
+ "letter_place": "Trzebinia",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "38",
+   "city": "Kraków",
+   "country": null,
+   "postal_code": "19-259",
+   "street": "Żabia",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Stanisław Opalach",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "137",
+   "city": "Trzebinia",
+   "country": null,
+   "postal_code": "08-135",
+   "street": "Jana III Sobieskiego",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Trzebini",
+  "epuap": "/UMTrzebinia/SkrytkaESP",
+  "nip": "0001326560",
+  "regon": "008984131",
+  "unit": "Wydział Podatków i Opłat"
+ },
+ "signatory": {
+  "full_name": "Julita Powierża",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "zapłata zaległego podatku od środków transportowych"
+}

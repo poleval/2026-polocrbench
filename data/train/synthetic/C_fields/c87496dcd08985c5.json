@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "FN.4612.50.2026.NM",
+ "deadline": {
+  "action": "złożenie deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi",
+  "date": "2026-08-24",
+  "days": null
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6m ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 64 § 2 k.p.a."
+ ],
+ "letter_date": "2026-08-01",
+ "letter_place": "Dąbrowa Tarnowska",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "125",
+   "city": "Gdańsk",
+   "country": null,
+   "postal_code": "84-171",
+   "street": "Konstytucji 3 Maja",
+   "unit_no": "19"
+  },
+  "krs": null,
+  "name": "Paprotny S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "110",
+   "city": "Dąbrowa Tarnowska",
+   "country": null,
+   "postal_code": "75-498",
+   "street": "Torowa",
+   "unit_no": "80"
+  },
+  "authority_name": "Burmistrz Miasta Dąbrowy Tarnowskiej",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Odpadami i Ochrony Środowiska"
+ },
+ "signatory": {
+  "full_name": "Bianka Meler",
+  "role": "Burmistrz"
+ },
+ "subject": "złożenia deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi"
+}

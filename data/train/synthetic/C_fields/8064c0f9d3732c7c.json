@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2025-05-18",
+ "conclusion_place": "Kościan",
+ "contract_type": "rental",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "7/05/2025",
+ "parties": [
+  {
+   "id_document": "YVV680058",
+   "party": {
+    "address": {
+     "building_no": "16",
+     "city": "Katowice",
+     "country": null,
+     "postal_code": "82-751",
+     "street": "Jabłoniowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Marcin Kukier",
+    "nip": null,
+    "pesel": "79201284454",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wynajmujący"
+  },
+  {
+   "id_document": "EDF288719",
+   "party": {
+    "address": {
+     "building_no": "31B",
+     "city": "Ruda Śląska",
+     "country": null,
+     "postal_code": "47-173",
+     "street": "Złota",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Ernest Juśkiewicz",
+    "nip": null,
+    "pesel": "58202405800",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Najemca"
+  }
+ ],
+ "payment_account": "PL03000000000314480665645242",
+ "remuneration": {
+  "amount": "9400.00",
+  "amount_in_words": "dziewięć tysięcy czterysta złotych 00 gr",
+  "basis": null,
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Wynajmujący oddaje Najemcy do używania lokal mieszkalny położony w ul. Jabłoniowa 16, 82-751 Katowice, wraz z wyposażeniem.",
+ "term": {
+  "end_date": "2025-09-17",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-05-28"
+ },
+ "title": "UMOWA NAJMU LOKALU 7/05/2025"
+}

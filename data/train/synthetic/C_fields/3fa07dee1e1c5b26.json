@@ -1,0 +1,62 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze we Włocławku": [
+   "Samorządowego Kolegium Odwoławczego we Włocławku"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze we Włocławku",
+ "attachments_count": null,
+ "case_ref": "FN.3558.101.2025",
+ "deadline": {
+  "action": "odwołanie do Samorządowego Kolegium Odwoławczego we Włocławku",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 5 ust. 2 ustawy o dostępie do informacji publicznej",
+  "art. 13 ust. 1 ustawy o dostępie do informacji publicznej",
+  "art. 16 ust. 1 ustawy o dostępie do informacji publicznej",
+  "art. 6 ust. 1 pkt 4 lit. a ustawy o dostępie do informacji publicznej"
+ ],
+ "letter_date": "2025-01-02",
+ "letter_place": "Koneck",
+ "letter_type": "reply",
+ "recipient": {
+  "address": {
+   "building_no": "156",
+   "city": "Zawiercie",
+   "country": null,
+   "postal_code": "07-568",
+   "street": "Źródlana",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Tomasz Wlazły",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "158C",
+   "city": "Koneck",
+   "country": null,
+   "postal_code": "63-472",
+   "street": "Tęczowa",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Gminy Koneck",
+  "epuap": "/UGKoneck/SkrytkaESP",
+  "nip": "0002119774",
+  "regon": "002200915",
+  "unit": "Referat Zamówień Publicznych"
+ },
+ "signatory": {
+  "full_name": "Kamila Paściak",
+  "role": "Wójt Gminy"
+ },
+ "subject": "udostępnienia informacji publicznej o zamówieniach publicznych"
+}

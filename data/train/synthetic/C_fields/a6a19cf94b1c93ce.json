@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "PS.4720.128.2026",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6k ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6x ustawy o utrzymaniu czystości i porządku w gminach"
+ ],
+ "letter_date": "2026-01-16",
+ "letter_place": "Zawichost",
+ "letter_type": "information",
+ "recipient": {
+  "address": {
+   "building_no": "49",
+   "city": "Bydgoszcz",
+   "country": null,
+   "postal_code": "20-461",
+   "street": "Glówna",
+   "unit_no": "83"
+  },
+  "krs": null,
+  "name": "Gabinety Fechner S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "150",
+   "city": "Zawichost",
+   "country": null,
+   "postal_code": "72-772",
+   "street": "Dworcowa",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Zawichostu",
+  "epuap": "/BMZawichost/SkrytkaESP",
+  "nip": "0002857070",
+  "regon": "003281092",
+  "unit": "Wydział Gospodarki Komunalnej i Ochrony Środowiska"
+ },
+ "signatory": {
+  "full_name": "Konrad Szykuła",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "wysokość opłaty za gospodarowanie odpadami komunalnymi dla nieruchomości położonej na działce ewidencyjnej nr 238/20"
+}

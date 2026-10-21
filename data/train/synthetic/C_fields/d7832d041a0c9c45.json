@@ -1,0 +1,58 @@
+{
+ "appeal_body": null,
+ "attachments_count": 2,
+ "case_ref": "GN.7643.120.2025.SR",
+ "deadline": {
+  "action": "do zapłaty zaległej opłaty za gospodarowanie odpadami komunalnymi należnej za nieruchomość położoną na terenie Gminy Sułoszowa, oznaczoną numerem działki ewidencyjnej 173/3, w łącznej kwocie 16.650,00 PLN, w terminie do dnia 2025-11-04",
+  "date": "2025-11-04",
+  "days": null
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6h ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6k ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6m ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6o ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6q ust. 1 ustawy o utrzymaniu czystości i porządku w gminach"
+ ],
+ "letter_date": "2025-10-24",
+ "letter_place": "Sułoszowa",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "92",
+   "city": "Oława",
+   "country": null,
+   "postal_code": "38-788",
+   "street": "Zielna",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "FPUH Dziewit-Męcik S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "31",
+   "city": "Sułoszowa",
+   "country": null,
+   "postal_code": "95-522",
+   "street": "Jasna",
+   "unit_no": null
+  },
+  "authority_name": "Wójt Gminy Sułoszowa",
+  "epuap": null,
+  "nip": null,
+  "regon": "008154168",
+  "unit": "Referat Finansów i Budżetu"
+ },
+ "signatory": {
+  "full_name": "Olga Stypa",
+  "role": "Wójt"
+ },
+ "subject": "zapłata zaległej opłaty za gospodarowanie odpadami komunalnymi"
+}

@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "BUD.7641.51.2026",
+ "deadline": {
+  "action": "zapłaty zaległości podatkowej wraz z odsetkami za zwłokę",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 140 ustawy – Ordynacja podatkowa",
+  "art. 51 § 1 ustawy – Ordynacja podatkowa"
+ ],
+ "letter_date": "2026-06-04",
+ "letter_place": "Józefów",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "139",
+   "city": "Nysa",
+   "country": null,
+   "postal_code": "30-985",
+   "street": "Hutnicza",
+   "unit_no": "33"
+  },
+  "krs": null,
+  "name": "Tadeusz Jaracz",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "28",
+   "city": "Józefów",
+   "country": null,
+   "postal_code": "61-576",
+   "street": "Cisowa",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Józefowa",
+  "epuap": "/BMJozefow/SkrytkaESP",
+  "nip": null,
+  "regon": "005835175",
+  "unit": "Wydział Podatków i Opłat"
+ },
+ "signatory": {
+  "full_name": "Emil Goral",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "zapłaty zaległości podatkowej w podatku od nieruchomości"
+}

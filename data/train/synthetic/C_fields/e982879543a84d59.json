@@ -1,0 +1,50 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "OŚ.3293.198.2025",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 10 § 1 k.p.a."
+ ],
+ "letter_date": "2025-08-18",
+ "letter_place": "Siemiatycze",
+ "letter_type": "notification",
+ "recipient": {
+  "address": {
+   "building_no": "53",
+   "city": "Legnica",
+   "country": null,
+   "postal_code": "95-982",
+   "street": "Korfantego",
+   "unit_no": "4"
+  },
+  "krs": null,
+  "name": "Hynek S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "105",
+   "city": "Siemiatycze",
+   "country": null,
+   "postal_code": "30-066",
+   "street": "Kazimierza Wielkiego",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Siemiatycz",
+  "epuap": null,
+  "nip": "0004203355",
+  "regon": null,
+  "unit": "Wydział Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Oskar Gaudyn",
+  "role": "Burmistrz"
+ },
+ "subject": "zakończenie zbierania materiału dowodowego – działka ewidencyjna nr 161/26"
+}

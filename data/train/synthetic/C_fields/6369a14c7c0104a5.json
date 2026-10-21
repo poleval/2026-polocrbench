@@ -1,0 +1,70 @@
+{
+ "conclusion_date": "2026-04-12",
+ "conclusion_place": "Mysłowice",
+ "contract_type": "nda",
+ "doc_type": "contract",
+ "governing_court": "Sąd Okręgowy w Warszawie",
+ "number": "47/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "151",
+     "city": "Kraśnik",
+     "country": null,
+     "postal_code": "80-199",
+     "street": "Sikorskiego",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Spółdzielnia Twardy-Korab",
+    "nip": "0006779332",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Marcin Wożniak",
+     "role": "Prezes zarządu"
+    }
+   ],
+   "role": "Strona Ujawniająca"
+  },
+  {
+   "id_document": "FVK441801",
+   "party": {
+    "address": {
+     "building_no": "132",
+     "city": "Mława",
+     "country": null,
+     "postal_code": "25-193",
+     "street": "Brzoskwiniowa",
+     "unit_no": "58"
+    },
+    "krs": null,
+    "name": "Jacek Działo",
+    "nip": null,
+    "pesel": "98152647752",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Strona Otrzymująca"
+  }
+ ],
+ "payment_account": null,
+ "remuneration": null,
+ "signatures_present": true,
+ "subject": "Strona Ujawniająca przekazuje Stronie Otrzymującej informacje poufne dotyczące planowanej współpracy gospodarczej w celu oceny możliwości jej nawiązania.",
+ "term": {
+  "end_date": "2026-12-30",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2026-04-16"
+ },
+ "title": "UMOWA O ZACHOWANIU POUFNOŚCI NR 47/2026"
+}

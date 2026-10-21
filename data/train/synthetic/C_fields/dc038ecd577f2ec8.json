@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2026-07-05",
+ "conclusion_place": "Gdańsk",
+ "contract_type": "rental",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "U/714/2026",
+ "parties": [
+  {
+   "id_document": "SBA680884",
+   "party": {
+    "address": {
+     "building_no": "83",
+     "city": "Świdnik",
+     "country": null,
+     "postal_code": "66-689",
+     "street": "Konarskiego",
+     "unit_no": "46"
+    },
+    "krs": null,
+    "name": "Liwia Walus",
+    "nip": null,
+    "pesel": "03201658841",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wynajmujący"
+  },
+  {
+   "id_document": "UDY845836",
+   "party": {
+    "address": {
+     "building_no": "49",
+     "city": "Brzeg",
+     "country": null,
+     "postal_code": "96-753",
+     "street": "Modrzewiowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Michał Mieloch",
+    "nip": null,
+    "pesel": "00190996091",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Najemca"
+  }
+ ],
+ "payment_account": "PL89000000000030049417447705",
+ "remuneration": {
+  "amount": "7500.00",
+  "amount_in_words": "siedem tysięcy pięćset złotych 00 gr",
+  "basis": null,
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Wynajmujący oddaje Najemcy do używania lokal mieszkalny położony w ul. Konarskiego 83 m. 46, 66-689 Świdnik, wraz z wyposażeniem.",
+ "term": {
+  "end_date": "2027-01-14",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2026-07-19"
+ },
+ "title": "UMOWA NAJMU LOKALU U/714/2026"
+}

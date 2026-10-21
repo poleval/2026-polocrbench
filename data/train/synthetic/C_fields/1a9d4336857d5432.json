@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2026-05-18",
+ "conclusion_place": "Kraśnik",
+ "contract_type": "loan",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "94/2026",
+ "parties": [
+  {
+   "id_document": "XWF776938",
+   "party": {
+    "address": {
+     "building_no": "116",
+     "city": "Grudziądz",
+     "country": null,
+     "postal_code": "36-156",
+     "street": "Lelewela",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Jerzy Nagórka",
+    "nip": null,
+    "pesel": "76130299469",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pożyczkodawca"
+  },
+  {
+   "id_document": "QXO080535",
+   "party": {
+    "address": {
+     "building_no": "156",
+     "city": "Wieluń",
+     "country": null,
+     "postal_code": "53-577",
+     "street": "Kazimierza Wielkiego",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Konrad Grymuza",
+    "nip": null,
+    "pesel": "43142581125",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pożyczkobiorca"
+  }
+ ],
+ "payment_account": "PL12000000003326237432198148",
+ "remuneration": {
+  "amount": "43250.00",
+  "amount_in_words": "czterdzieści trzy tysiące dwieście pięćdziesiąt zł 00/100",
+  "basis": null,
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Pożyczkodawca udziela Pożyczkobiorcy pożyczki w kwocie 43.250,00 zł (słownie: czterdzieści trzy tysiące dwieście pięćdziesiąt zł 00/100), zwanej dalej „Kwotą pożyczki”.",
+ "term": {
+  "end_date": "2026-12-05",
+  "indefinite": false,
+  "notice_period": null,
+  "start_date": "2026-06-01"
+ },
+ "title": "UMOWA POŻYCZKI NR 94/2026"
+}

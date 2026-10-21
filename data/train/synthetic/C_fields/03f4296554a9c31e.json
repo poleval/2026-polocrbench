@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2026-10-12",
+ "conclusion_place": "Wodzisław Śląski",
+ "contract_type": "sale",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy w Lublinie",
+ "number": "4/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "151",
+     "city": "Turek",
+     "country": null,
+     "postal_code": "25-997",
+     "street": "Tartaczna",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Wojtalewicz Sp. z o.o.",
+    "nip": "0003831109",
+    "pesel": null,
+    "regon": "000366675",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Janina Dziduch",
+     "role": "Prokurent"
+    }
+   ],
+   "role": "Sprzedający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "85",
+     "city": "Zamość",
+     "country": null,
+     "postal_code": "06-648",
+     "street": "Złota",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "FPUH Ksawery Pela",
+    "nip": "0004053097",
+    "pesel": null,
+    "regon": "009454300",
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Kupujący"
+  }
+ ],
+ "payment_account": "PL86000000005107580087469945",
+ "remuneration": {
+  "amount": "35500.00",
+  "amount_in_words": "trzydzieści pięć tysięcy pięćset złotych 00 gr",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Sprzedający sprzedaje Kupującemu, a Kupujący kupuje fabrycznie nowy agregat chłodniczy typu ACH-200 wraz z osprzętem i dokumentacją techniczną, zwany dalej Towarem.",
+ "term": {
+  "end_date": "2027-04-10",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2026-10-13"
+ },
+ "title": "UMOWA SPRZEDAŻY NR 4/2026"
+}

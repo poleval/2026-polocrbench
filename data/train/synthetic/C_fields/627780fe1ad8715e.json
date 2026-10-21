@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2025-10-05",
+ "conclusion_place": "Nowa Ruda",
+ "contract_type": "mandate",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla m.st. Warszawy w Warszawie",
+ "number": "15/10/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "71",
+     "city": "Kętrzyn",
+     "country": null,
+     "postal_code": "74-570",
+     "street": "Bukowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Karol Truchel",
+    "nip": null,
+    "pesel": "86201230712",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "74",
+     "city": "Mława",
+     "country": null,
+     "postal_code": "13-779",
+     "street": "Daleka",
+     "unit_no": "70"
+    },
+    "krs": null,
+    "name": "Dagmara Gregorek",
+    "nip": null,
+    "pesel": "68162399509",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL65000000007900241537506104",
+ "remuneration": {
+  "amount": "45400.00",
+  "amount_in_words": "czterdzieści pięć tysięcy czterysta złotych 00 gr",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": false,
+ "subject": "Zleceniobiorca zobowiązuje się do przygotowania materiałów szkoleniowych, przeprowadzenia szkolenia i sporządzenia sprawozdania, które łącznie stanowią „Usługę”.",
+ "term": {
+  "end_date": "2026-05-06",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-10-19"
+ },
+ "title": "UMOWA ZLECENIA NR 15/10/2025"
+}

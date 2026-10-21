@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2025-01-18",
+ "conclusion_place": "Dąbrowa Górnicza",
+ "contract_type": "sale",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy w Lublinie",
+ "number": "13/01/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "100",
+     "city": "Lublin",
+     "country": null,
+     "postal_code": "52-456",
+     "street": "Młyńska",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Fundacja Czerepak",
+    "nip": "0002775314",
+    "pesel": null,
+    "regon": "007534101",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Tadeusz Józefczak",
+     "role": "Członek zarządu"
+    }
+   ],
+   "role": "Sprzedający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "57",
+     "city": "Sieradz",
+     "country": null,
+     "postal_code": "31-819",
+     "street": "Kalinowa",
+     "unit_no": "55"
+    },
+    "krs": null,
+    "name": "FPUH Melania Burczak",
+    "nip": "0002807439",
+    "pesel": null,
+    "regon": "000736244",
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Kupujący"
+  }
+ ],
+ "payment_account": "PL53000000003852595948520008",
+ "remuneration": {
+  "amount": "45950.00",
+  "amount_in_words": "czterdzieści pięć tysięcy dziewięćset pięćdziesiąt zł 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Sprzedający sprzedaje Kupującemu, a Kupujący kupuje fabrycznie nowy agregat chłodniczy typu ACH-200 wraz z osprzętem i dokumentacją techniczną, zwany dalej Towarem.",
+ "term": {
+  "end_date": "2025-09-22",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-01-22"
+ },
+ "title": "UMOWA SPRZEDAŻY NR 13/01/2025"
+}

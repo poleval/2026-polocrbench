@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "OŚ.6297.237.2025.LZ",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 18 ust. 8 ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi",
+  "art. 50 k.p.a."
+ ],
+ "letter_date": "2025-04-13",
+ "letter_place": "Goleniów",
+ "letter_type": "request",
+ "recipient": {
+  "address": {
+   "building_no": "110",
+   "city": "Jarosław",
+   "country": null,
+   "postal_code": "08-380",
+   "street": "Drzymały",
+   "unit_no": "84"
+  },
+  "krs": null,
+  "name": "Krzysztoszek Sp. z o.o.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "141",
+   "city": "Goleniów",
+   "country": null,
+   "postal_code": "39-347",
+   "street": "Północna",
+   "unit_no": "24"
+  },
+  "authority_name": "Urząd Miasta Goleniowa",
+  "epuap": "/UMGoleniow/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Działalności Gospodarczej i Zezwoleń"
+ },
+ "signatory": {
+  "full_name": "Igor Patalas",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "kontroli zezwolenia na sprzedaż napojów alkoholowych"
+}

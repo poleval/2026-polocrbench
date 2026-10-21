@@ -1,0 +1,81 @@
+{
+ "conclusion_date": "2026-07-14",
+ "conclusion_place": "Zamość",
+ "contract_type": "services",
+ "doc_type": "contract",
+ "governing_court": "Sąd Okręgowy w Warszawie",
+ "number": "U/805/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "158",
+     "city": "Piastów",
+     "country": null,
+     "postal_code": "73-524",
+     "street": "Jeziorna",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Morgała-Kwinta Sp. z o.o.",
+    "nip": "0008543792",
+    "pesel": null,
+    "regon": "009121142",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Aleks Hetmańczyk",
+     "role": "Prezes zarządu"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "36",
+     "city": "Brodnica",
+     "country": null,
+     "postal_code": "14-227",
+     "street": "Wilcza",
+     "unit_no": "50"
+    },
+    "krs": "0099999999",
+    "name": "Stowarzyszenie Połom-Czupryna",
+    "nip": "0006755780",
+    "pesel": null,
+    "regon": "001198613",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Dorota Kostorz",
+     "role": "Wiceprezes zarządu"
+    }
+   ],
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL73000000001086801308734669",
+ "remuneration": {
+  "amount": "11400.00",
+  "amount_in_words": "jedenaście tysięcy czterysta złotych 00 gr",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Zleceniobiorca zobowiązuje się do świadczenia na rzecz Zleceniodawcy usług polegających na utrzymaniu i rozwoju systemu informatycznego Zleceniodawcy, zwanego dalej Systemem.",
+ "term": {
+  "end_date": "2027-05-29",
+  "indefinite": false,
+  "notice_period": "30 dni",
+  "start_date": "2026-07-24"
+ },
+ "title": "UMOWA O ŚWIADCZENIE USŁUG NR U/805/2026"
+}

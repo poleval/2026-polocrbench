@@ -1,0 +1,66 @@
+{
+ "conclusion_date": "2025-09-18",
+ "conclusion_place": "Tarnobrzeg",
+ "contract_type": "sale",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "44/09/2025",
+ "parties": [
+  {
+   "id_document": "JGT455539",
+   "party": {
+    "address": {
+     "building_no": "111",
+     "city": "Bydgoszcz",
+     "country": null,
+     "postal_code": "95-702",
+     "street": "Lisia",
+     "unit_no": "17"
+    },
+    "krs": null,
+    "name": "Maurycy Heleniak",
+    "nip": null,
+    "pesel": "50171879161",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Sprzedawca"
+  },
+  {
+   "id_document": "LXF832696",
+   "party": {
+    "address": {
+     "building_no": "97B",
+     "city": "Wałcz",
+     "country": null,
+     "postal_code": "25-439",
+     "street": "Stefana Batorego",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Adrian Swiątek",
+    "nip": null,
+    "pesel": "78181514162",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Kupujący"
+  }
+ ],
+ "payment_account": "PL12000000004080646939775769",
+ "remuneration": {
+  "amount": "3750.00",
+  "amount_in_words": "trzy tysiące siedemset pięćdziesiąt złotych 00/100",
+  "basis": null,
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Sprzedawca sprzedaje, a Kupujący kupuje rzecz ruchomą, której szczegółowy opis, stan techniczny i wyposażenie strony określają w załączniku nr 1 do umowy.",
+ "term": null,
+ "title": "UMOWA SPRZEDAŻY NR 44/09/2025"
+}

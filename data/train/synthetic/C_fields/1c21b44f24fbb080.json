@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2025-09-01",
+ "conclusion_place": "Nowy Sącz",
+ "contract_type": "specific_work",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "U/548/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "37",
+     "city": "Pszczyna",
+     "country": null,
+     "postal_code": "80-922",
+     "street": "Radosna",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Grębowiec Sp. z o.o.",
+    "nip": "0005427625",
+    "pesel": null,
+    "regon": "000470786",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Konstanty Budych",
+     "role": "Wiceprezes zarządu"
+    }
+   ],
+   "role": "Zamawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "20",
+     "city": "Krosno",
+     "country": null,
+     "postal_code": "46-806",
+     "street": "Wałowa",
+     "unit_no": "55"
+    },
+    "krs": null,
+    "name": "Aurelia Wota",
+    "nip": null,
+    "pesel": "25202060968",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wykonawca"
+  }
+ ],
+ "payment_account": "PL74000000009118593821638806",
+ "remuneration": {
+  "amount": "43350.00",
+  "amount_in_words": "czterdzieści trzy tysiące trzysta pięćdziesiąt złotych 00 gr",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": false,
+ "subject": "Zamawiający zamawia, a Wykonawca zobowiązuje się wykonać dzieło polegające na przygotowaniu projektu graficznego oraz tekstu broszury informacyjnej, zwane dalej „Dziełem”.",
+ "term": {
+  "end_date": "2026-06-26",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-09-15"
+ },
+ "title": "UMOWA O DZIEŁO NR U/548/2025"
+}

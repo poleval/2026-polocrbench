@@ -1,0 +1,70 @@
+{
+ "conclusion_date": "2026-07-31",
+ "conclusion_place": "Bolesławiec",
+ "contract_type": "nda",
+ "doc_type": "contract",
+ "governing_court": "Sąd Okręgowy w Warszawie",
+ "number": "24/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "114",
+     "city": "Kościan",
+     "country": null,
+     "postal_code": "16-918",
+     "street": "Daleka",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "FPUH Buszko S.A.",
+    "nip": "0008642459",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Kacper Koźlak",
+     "role": "Pełnomocnik"
+    }
+   ],
+   "role": "Strona Ujawniająca"
+  },
+  {
+   "id_document": "MMA017770",
+   "party": {
+    "address": {
+     "building_no": "22B",
+     "city": "Ostrów Wielkopolski",
+     "country": null,
+     "postal_code": "79-393",
+     "street": "Zdrojowa",
+     "unit_no": "20"
+    },
+    "krs": null,
+    "name": "Sandra Kycia",
+    "nip": null,
+    "pesel": "26140457014",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Strona Otrzymująca"
+  }
+ ],
+ "payment_account": null,
+ "remuneration": null,
+ "signatures_present": false,
+ "subject": "Strona Ujawniająca przekazuje Stronie Otrzymującej informacje poufne dotyczące planowanej współpracy gospodarczej w celu oceny możliwości jej nawiązania.",
+ "term": {
+  "end_date": "2027-07-28",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2026-08-04"
+ },
+ "title": "UMOWA O ZACHOWANIU POUFNOŚCI NR 24/2026"
+}

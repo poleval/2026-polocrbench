@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2025-04-18",
+ "conclusion_place": "Świebodzice",
+ "contract_type": "loan",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "94/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "120",
+     "city": "Racibórz",
+     "country": null,
+     "postal_code": "93-167",
+     "street": "Chabrowa",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "FPUH Drej-Lisik S.A.",
+    "nip": "0004022984",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Jacek Kubrak",
+     "role": "Likwidator"
+    }
+   ],
+   "role": "Pożyczkodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "98",
+     "city": "Częstochowa",
+     "country": null,
+     "postal_code": "09-481",
+     "street": "Ludowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Justyna Klisz",
+    "nip": null,
+    "pesel": "67171152051",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pożyczkobiorca"
+  }
+ ],
+ "payment_account": "PL11000000006585857106343911",
+ "remuneration": {
+  "amount": "12100.00",
+  "amount_in_words": "dwanaście tysięcy sto złotych 00 gr",
+  "basis": null,
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Pożyczkodawca udziela Pożyczkobiorcy pożyczki w kwocie 12 100,00 PLN (dwanaście tysięcy sto złotych 00 gr) na cele prywatne.",
+ "term": {
+  "end_date": "2025-11-06",
+  "indefinite": false,
+  "notice_period": "30 dni",
+  "start_date": "2025-04-18"
+ },
+ "title": "UMOWA POŻYCZKI NR 94/2025"
+}

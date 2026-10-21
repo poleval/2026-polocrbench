@@ -1,0 +1,50 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "PS.5382.115.2025.MD",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 10 § 1 k.p.a."
+ ],
+ "letter_date": "2025-01-17",
+ "letter_place": "Węgorzewo",
+ "letter_type": "notification",
+ "recipient": {
+  "address": {
+   "building_no": "54",
+   "city": "Skawina",
+   "country": null,
+   "postal_code": "32-236",
+   "street": "Jodłowa",
+   "unit_no": "14"
+  },
+  "krs": null,
+  "name": "Gaja Wujec",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "89",
+   "city": "Węgorzewo",
+   "country": null,
+   "postal_code": "85-624",
+   "street": "Przechodnia",
+   "unit_no": "84"
+  },
+  "authority_name": "Urząd Miasta Węgorzewa",
+  "epuap": "/UMWegorzewo/SkrytkaESP",
+  "nip": "0003392041",
+  "regon": "008600917",
+  "unit": "Wydział Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Kaja Maruszczyk",
+  "role": "Burmistrz"
+ },
+ "subject": "zakończenie zbierania materiału dowodowego – działka ewidencyjna nr 676/30"
+}

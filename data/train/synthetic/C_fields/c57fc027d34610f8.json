@@ -1,0 +1,62 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze w Legnicy": [
+   "Samorządowego Kolegium Odwoławczego w Legnicy"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Legnicy",
+ "attachments_count": null,
+ "case_ref": "GN.5136.241.2025.SY",
+ "deadline": {
+  "action": "odwołanie do Samorządowego Kolegium Odwoławczego w Legnicy",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 5 ust. 2 ustawy o dostępie do informacji publicznej",
+  "art. 13 ust. 1 ustawy o dostępie do informacji publicznej",
+  "art. 16 ust. 1 ustawy o dostępie do informacji publicznej",
+  "art. 6 ust. 1 pkt 4 lit. a ustawy o dostępie do informacji publicznej"
+ ],
+ "letter_date": "2025-05-31",
+ "letter_place": "Rudna",
+ "letter_type": "reply",
+ "recipient": {
+  "address": {
+   "building_no": "19",
+   "city": "Olkusz",
+   "country": null,
+   "postal_code": "76-955",
+   "street": "Morelowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Adrian Banak",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "152",
+   "city": "Rudna",
+   "country": null,
+   "postal_code": "29-999",
+   "street": "Lotnicza",
+   "unit_no": "36"
+  },
+  "authority_name": "Urząd Gminy Rudna",
+  "epuap": "/UGRudna/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Referat Zamówień Publicznych"
+ },
+ "signatory": {
+  "full_name": "Justyna Burczak",
+  "role": "Wójt Gminy"
+ },
+ "subject": "udostępnienia informacji publicznej o zamówieniach publicznych"
+}

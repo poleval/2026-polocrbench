@@ -1,0 +1,156 @@
+{
+ "annotations": [
+  "split_payment"
+ ],
+ "buyer": {
+  "address": {
+   "building_no": "87",
+   "city": "Łuków",
+   "country": null,
+   "postal_code": "85-041",
+   "street": "Harcerska",
+   "unit_no": "14"
+  },
+  "krs": null,
+  "name": "Mariusz Broszkiewicz",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-01-27",
+ "issue_place": "Kraków",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Zmywarka do naczyń 60 cm",
+   "discount": null,
+   "gross_amount": "12463.49",
+   "line_no": 1,
+   "net_amount": "10132.92",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "3377.64",
+   "vat_amount": "2330.57",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Ekspres ciśnieniowy do kawy",
+   "discount": null,
+   "gross_amount": "12342.50",
+   "line_no": 2,
+   "net_amount": "10034.55",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "3344.85",
+   "vat_amount": "2307.95",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Pralka automatyczna 8 kg",
+   "discount": null,
+   "gross_amount": "12186.30",
+   "line_no": 3,
+   "net_amount": "9907.56",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "3302.52",
+   "vat_amount": "2278.74",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Baterie AA 4 szt.",
+   "discount": null,
+   "gross_amount": "105.31",
+   "line_no": 4,
+   "net_amount": "85.62",
+   "pkwiu_or_gtu": null,
+   "quantity": "6",
+   "unit": "opak.",
+   "unit_price_gross": null,
+   "unit_price_net": "14.27",
+   "vat_amount": "19.69",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Montaż pralki u klienta",
+   "discount": null,
+   "gross_amount": "3468.60",
+   "line_no": 5,
+   "net_amount": "2820.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "12",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "235.00",
+   "vat_amount": "648.60",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Smartfon 128 GB",
+   "discount": null,
+   "gross_amount": "3889.26",
+   "line_no": 6,
+   "net_amount": "3162.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "3162.00",
+   "vat_amount": "727.26",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "927/01/2025",
+ "payment": {
+  "bank_account": "PL35000000004392567870634130",
+  "bank_name": "Spółdzielczy Bank Młyńskiego Wzgórza",
+  "due_date": "2025-02-10",
+  "due_days": null,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2025-01-17",
+ "seller": {
+  "address": {
+   "building_no": "150",
+   "city": "Kościan",
+   "country": null,
+   "postal_code": "83-821",
+   "street": "Nowa",
+   "unit_no": "33"
+  },
+  "krs": "0099999999",
+  "name": "Gabinety Kruszka Sp. z o.o.",
+  "nip": "0001067408",
+  "pesel": null,
+  "regon": "004779747",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "44455.46",
+  "amount_in_words": "czterdzieści cztery tysiące czterysta pięćdziesiąt pięć złotych 46/100",
+  "amount_paid": "0.00",
+  "gross_amount": "44455.46",
+  "net_amount": "36142.65",
+  "vat_amount": "8312.81"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "44455.46",
+   "net_amount": "36142.65",
+   "vat_amount": "8312.81",
+   "vat_rate": "23"
+  }
+ ]
+}

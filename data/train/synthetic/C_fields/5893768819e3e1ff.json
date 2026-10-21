@@ -1,0 +1,75 @@
+{
+ "conclusion_date": "2026-03-31",
+ "conclusion_place": "Zielona Góra",
+ "contract_type": "nda",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "U/478/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "97",
+     "city": "Olkusz",
+     "country": null,
+     "postal_code": "34-671",
+     "street": "Widok",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Szok Sp. z o.o.",
+    "nip": "0009142345",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Inga Jaremko",
+     "role": "Wiceprezes zarządu"
+    }
+   ],
+   "role": "Ujawniający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "101",
+     "city": "Nowa Sól",
+     "country": null,
+     "postal_code": "07-136",
+     "street": "Willowa",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Hawro S.A.",
+    "nip": "0008247757",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Łukasz Fiedoruk",
+     "role": "Prokurent łączny"
+    }
+   ],
+   "role": "Przyjmujący"
+  }
+ ],
+ "payment_account": null,
+ "remuneration": null,
+ "signatures_present": true,
+ "subject": "Na podstawie umowy strona 1 („Ujawniający”) przekazuje stronie 2 („Przyjmujący”) informacje poufne w celu prowadzenia rozmów o współpracy, a strona 2 zobowiązuje się do zachowania ich poufności.",
+ "term": {
+  "end_date": "2026-12-14",
+  "indefinite": false,
+  "notice_period": null,
+  "start_date": "2026-04-07"
+ },
+ "title": "UMOWA O ZACHOWANIU POUFNOŚCI NR U/478/2026"
+}

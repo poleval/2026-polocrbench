@@ -1,0 +1,57 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "GN.7771.167.2026",
+ "deadline": {
+  "action": "zawiadomić organ o przyczynie niemożności stawienia się",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 50 § 1 k.p.a.",
+  "art. 54 § 1 k.p.a.",
+  "art. 88 § 1 pkt 1 k.p.a.",
+  "art. 88 § 2 k.p.a."
+ ],
+ "letter_date": "2026-04-11",
+ "letter_place": "Jelenia Góra",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "38",
+   "city": "Bielsko-Biała",
+   "country": null,
+   "postal_code": "91-905",
+   "street": "Składowa",
+   "unit_no": "53"
+  },
+  "krs": null,
+  "name": "Agnieszka Bryda",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "147",
+   "city": "Jelenia Góra",
+   "country": null,
+   "postal_code": "93-322",
+   "street": "Jana",
+   "unit_no": "49"
+  },
+  "authority_name": "Urząd Miasta Jeleniej Góry",
+  "epuap": "/UMJeleniaGora/SkrytkaESP",
+  "nip": "0009976607",
+  "regon": null,
+  "unit": "Wydział Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Krystyna Berendt",
+  "role": "Naczelnik Wydziału Gospodarki Nieruchomościami"
+ },
+ "subject": "stawiennictwo w urzędzie w celu złożenia wyjaśnień i przedstawienia dokumentów odnoszących się do działki ewidencyjnej nr 557/28"
+}

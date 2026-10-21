@@ -1,0 +1,104 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "133",
+   "city": "Konin",
+   "country": null,
+   "postal_code": "18-386",
+   "street": "Irysowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Jan Loska",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-09-22",
+ "issue_place": "Starogard Gdański",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Bilet lotniczy międzynarodowy",
+   "discount": null,
+   "gross_amount": "5524.08",
+   "line_no": 1,
+   "net_amount": "5524.08",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "2762.04",
+   "vat_amount": null,
+   "vat_rate": "0"
+  },
+  {
+   "description": "Bandaż elastyczny 10 cm x 4 m",
+   "discount": null,
+   "gross_amount": "121.36",
+   "line_no": 2,
+   "net_amount": "112.37",
+   "pkwiu_or_gtu": null,
+   "quantity": "17",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "6.61",
+   "vat_amount": null,
+   "vat_rate": "8"
+  }
+ ],
+ "number": "314/09/2025",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "card"
+ },
+ "recipient": null,
+ "sale_date": "2025-09-18",
+ "seller": {
+  "address": {
+   "building_no": "11",
+   "city": "Świdnica",
+   "country": null,
+   "postal_code": "07-540",
+   "street": "Sowia",
+   "unit_no": "44"
+  },
+  "krs": "0099999999",
+  "name": "Łaskawiec Sp. z o.o.",
+  "nip": "0002725954",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "5645.44",
+  "amount_in_words": "pięć tysięcy sześćset czterdzieści pięć zł 44/100",
+  "amount_paid": null,
+  "gross_amount": "5645.44",
+  "net_amount": "5636.45",
+  "vat_amount": "8.99"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "121.36",
+   "net_amount": "112.37",
+   "vat_amount": "8.99",
+   "vat_rate": "8"
+  },
+  {
+   "gross_amount": "5524.08",
+   "net_amount": "5524.08",
+   "vat_amount": "0.00",
+   "vat_rate": "0"
+  }
+ ]
+}

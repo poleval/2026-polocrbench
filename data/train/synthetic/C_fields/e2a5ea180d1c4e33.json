@@ -1,0 +1,84 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "123",
+   "city": "Bielawa",
+   "country": null,
+   "postal_code": "35-463",
+   "street": "Jeziorna",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Hartman S.A.",
+  "nip": "0000713705",
+  "pesel": null,
+  "regon": "005706934",
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-06-20",
+ "issue_place": "Biłgoraj",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Przełącznik sieciowy 24 porty",
+   "discount": null,
+   "gross_amount": "6612.48",
+   "line_no": 1,
+   "net_amount": "5376.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "2688.00",
+   "vat_amount": "1236.48",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FA/0001/25",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "card"
+ },
+ "recipient": null,
+ "sale_date": "2025-06-14",
+ "seller": {
+  "address": {
+   "building_no": "149",
+   "city": "Mielec",
+   "country": null,
+   "postal_code": "20-480",
+   "street": "Szczęśliwa",
+   "unit_no": "26"
+  },
+  "krs": null,
+  "name": "Miękus Sp. z o.o.",
+  "nip": "0008557699",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "0.00",
+  "amount_in_words": "sześć tysięcy sześćset dwanaście zł 48/100",
+  "amount_paid": "6612.48",
+  "gross_amount": "6612.48",
+  "net_amount": "5376.00",
+  "vat_amount": "1236.48"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "6612.48",
+   "net_amount": "5376.00",
+   "vat_amount": "1236.48",
+   "vat_rate": "23"
+  }
+ ]
+}

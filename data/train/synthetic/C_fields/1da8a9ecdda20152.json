@@ -1,0 +1,58 @@
+{
+ "appeal_body": null,
+ "attachments_count": 2,
+ "case_ref": "GK.3417.189.2025",
+ "deadline": {
+  "action": "do zapłaty zaległej opłaty za gospodarowanie odpadami komunalnymi należnej za nieruchomość położoną na terenie Gminy Trzcianne, oznaczoną numerem działki ewidencyjnej 219/4, w łącznej kwocie 16 021,00 PLN, w terminie do dnia 11-05-2025",
+  "date": "2025-05-11",
+  "days": null
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6h ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6k ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6m ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6o ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6q ust. 1 ustawy o utrzymaniu czystości i porządku w gminach"
+ ],
+ "letter_date": "2025-05-04",
+ "letter_place": "Trzcianne",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "71",
+   "city": "Konin",
+   "country": null,
+   "postal_code": "71-412",
+   "street": "Kaszubska",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "FPUH Nurkiewicz S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "93",
+   "city": "Trzcianne",
+   "country": null,
+   "postal_code": "30-364",
+   "street": "Składowa",
+   "unit_no": null
+  },
+  "authority_name": "Wójt Gminy Trzcianne",
+  "epuap": "/WGTrzcianne/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Referat Finansów i Budżetu"
+ },
+ "signatory": {
+  "full_name": "Fryderyk Guźniczak",
+  "role": "Wójt"
+ },
+ "subject": "zapłata zaległej opłaty za gospodarowanie odpadami komunalnymi"
+}

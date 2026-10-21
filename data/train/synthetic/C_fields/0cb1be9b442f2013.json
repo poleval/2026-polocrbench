@@ -1,0 +1,54 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "OR.7223.234.2025",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 20 pkt 5 ustawy o drogach publicznych",
+  "art. 7 ust. 1 pkt 2 ustawy o samorządzie gminnym",
+  "art. 227 k.p.a.",
+  "art. 237 § 1 k.p.a.",
+  "art. 238 k.p.a."
+ ],
+ "letter_date": "2025-02-19",
+ "letter_place": "Hanna",
+ "letter_type": "reply",
+ "recipient": {
+  "address": {
+   "building_no": "144",
+   "city": "Kutno",
+   "country": null,
+   "postal_code": "02-083",
+   "street": "Kowalska",
+   "unit_no": "77"
+  },
+  "krs": null,
+  "name": "Gaja Chorążewicz",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "24",
+   "city": "Hanna",
+   "country": null,
+   "postal_code": "38-419",
+   "street": "Wiatraczna",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Gminy Hanna",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Referat Inwestycji i Gospodarki Komunalnej"
+ },
+ "signatory": {
+  "full_name": "Dagmara Prokopczyk",
+  "role": "Kierownik Referatu Inwestycji i Gospodarki Komunalnej"
+ },
+ "subject": "utrzymania drogi gminnej na działce ewidencyjnej nr 114/16"
+}

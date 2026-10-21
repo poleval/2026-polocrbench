@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "RO.3531.110.2026",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 306a ustawy – Ordynacja podatkowa",
+  "art. 306b ustawy – Ordynacja podatkowa"
+ ],
+ "letter_date": "2026-05-19",
+ "letter_place": "Sulechów",
+ "letter_type": "certificate",
+ "recipient": {
+  "address": {
+   "building_no": "72B",
+   "city": "Lubin",
+   "country": null,
+   "postal_code": "99-520",
+   "street": "Asnyka",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Ryszard Złotek",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "70",
+   "city": "Sulechów",
+   "country": null,
+   "postal_code": "24-168",
+   "street": "Chełmońskiego",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Sulechowa",
+  "epuap": null,
+  "nip": "0006762544",
+  "regon": "001035704",
+  "unit": "Wydział Finansów, Referat Podatków i Opłat Lokalnych"
+ },
+ "signatory": {
+  "full_name": "Róża Panicz",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "niezalegania w podatkach lokalnych"
+}

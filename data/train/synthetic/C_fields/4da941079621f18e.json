@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2026-04-28",
+ "conclusion_place": "Bielsko-Biała",
+ "contract_type": "b2b",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla m.st. Warszawy w Warszawie",
+ "number": "56/04/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "79",
+     "city": "Gorlice",
+     "country": null,
+     "postal_code": "78-562",
+     "street": "Jagodowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "FPUH Aniela Kliszcz",
+    "nip": "0005967853",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "16",
+     "city": "Zielona Góra",
+     "country": null,
+     "postal_code": "85-185",
+     "street": "Mostowa",
+     "unit_no": "69"
+    },
+    "krs": null,
+    "name": "PPUH Adrianna Dyka",
+    "nip": "0008208800",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL66000000003482369826692618",
+ "remuneration": {
+  "amount": "7400.00",
+  "amount_in_words": "siedem tysięcy czterysta złotych 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Zleceniodawca powierza, a Zleceniobiorca przyjmuje do wykonania usługi bieżącego wsparcia operacyjnego i marketingowego, obejmujące opracowywanie materiałów, analizę wyników i koordynację działań, zwane dalej Usługami.",
+ "term": {
+  "end_date": "2026-10-31",
+  "indefinite": false,
+  "notice_period": "jeden miesiąc",
+  "start_date": "2026-05-01"
+ },
+ "title": "UMOWA O WSPÓŁPRACY B2B NR 56/04/2026"
+}

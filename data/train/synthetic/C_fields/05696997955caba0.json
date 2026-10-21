@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2026-01-17",
+ "conclusion_place": "Gliwice",
+ "contract_type": "mandate",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla m.st. Warszawy w Warszawie",
+ "number": "U/936/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "49",
+     "city": "Wołomin",
+     "country": null,
+     "postal_code": "40-824",
+     "street": "Jasna",
+     "unit_no": "79"
+    },
+    "krs": null,
+    "name": "Anita Olearczyk",
+    "nip": null,
+    "pesel": "66141890876",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "116",
+     "city": "Brodnica",
+     "country": null,
+     "postal_code": "82-980",
+     "street": "Kielecka",
+     "unit_no": "89"
+    },
+    "krs": null,
+    "name": "Tola Nurek",
+    "nip": null,
+    "pesel": "73130902166",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL43000000003765468170253139",
+ "remuneration": {
+  "amount": "17150.00",
+  "amount_in_words": "siedemnaście tysięcy sto pięćdziesiąt zł 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Zleceniobiorca zobowiązuje się do przygotowania materiałów szkoleniowych, przeprowadzenia szkolenia i sporządzenia sprawozdania, które łącznie stanowią „Usługę”.",
+ "term": {
+  "end_date": "2026-07-26",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2026-01-29"
+ },
+ "title": "UMOWA ZLECENIA NR U/936/2026"
+}

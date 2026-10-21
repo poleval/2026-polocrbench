@@ -1,0 +1,81 @@
+{
+ "conclusion_date": "2025-11-25",
+ "conclusion_place": "Turek",
+ "contract_type": "lease",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "47/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "25",
+     "city": "Szczytno",
+     "country": null,
+     "postal_code": "86-587",
+     "street": "Krasickiego",
+     "unit_no": "54"
+    },
+    "krs": "0099999999",
+    "name": "Pleskot S.A.",
+    "nip": null,
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Rozalia Gierach",
+     "role": "Prokurent łączny"
+    }
+   ],
+   "role": "Wydzierżawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "18",
+     "city": "Mysłowice",
+     "country": null,
+     "postal_code": "12-652",
+     "street": "Wiosenna",
+     "unit_no": "5"
+    },
+    "krs": "0099999999",
+    "name": "Gabinety Gemza S.A.",
+    "nip": null,
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Bianka Słoka",
+     "role": "Prokurent łączny"
+    }
+   ],
+   "role": "Dzierżawca"
+  }
+ ],
+ "payment_account": "PL57000000006745755937290797",
+ "remuneration": {
+  "amount": "4700.00",
+  "amount_in_words": "cztery tysiące siedemset zł 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Wydzierżawiający oddaje Dzierżawcy do używania i pobierania pożytków nieruchomość gruntową położoną w miejscowości Przykładowo przy ul. Leśnej 7, działka nr 123/4, z budynkiem magazynowym, zwaną dalej Przedmiotem Dzierżawy.",
+ "term": {
+  "end_date": "2026-02-05",
+  "indefinite": false,
+  "notice_period": "30 dni",
+  "start_date": "2025-12-05"
+ },
+ "title": "UMOWA DZIERŻAWY NR 47/2025"
+}

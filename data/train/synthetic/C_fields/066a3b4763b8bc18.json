@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2026-10-01",
+ "conclusion_place": "Pruszków",
+ "contract_type": "mandate",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla m.st. Warszawy w Warszawie",
+ "number": "U/297/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "104",
+     "city": "Warszawa",
+     "country": null,
+     "postal_code": "01-385",
+     "street": "Lazurowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Angelika Niedośpiał",
+    "nip": null,
+    "pesel": "80172892289",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "121",
+     "city": "Stargard Szczeciński",
+     "country": null,
+     "postal_code": "78-725",
+     "street": "Robotnicza",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Kazimierz Prokopczyk",
+    "nip": null,
+    "pesel": "53182146338",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL13000000000808170277066168",
+ "remuneration": {
+  "amount": "21800.00",
+  "amount_in_words": "dwadzieścia jeden tysięcy osiemset złotych 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": false,
+ "subject": "Zleceniobiorca zobowiązuje się do przygotowania materiałów szkoleniowych, przeprowadzenia szkolenia i sporządzenia sprawozdania, które łącznie stanowią „Usługę”.",
+ "term": {
+  "end_date": "2027-03-21",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2026-10-10"
+ },
+ "title": "UMOWA ZLECENIA NR U/297/2026"
+}

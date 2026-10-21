@@ -1,0 +1,66 @@
+{
+ "conclusion_date": "2026-02-23",
+ "conclusion_place": "Zduńska Wola",
+ "contract_type": "sale",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "48/2026",
+ "parties": [
+  {
+   "id_document": "CBO167908",
+   "party": {
+    "address": {
+     "building_no": "119",
+     "city": "Ząbki",
+     "country": null,
+     "postal_code": "25-069",
+     "street": "Tuwima",
+     "unit_no": "51"
+    },
+    "krs": null,
+    "name": "Agnieszka Moździerz",
+    "nip": null,
+    "pesel": "67162661551",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Sprzedawca"
+  },
+  {
+   "id_document": "CSK974336",
+   "party": {
+    "address": {
+     "building_no": "19",
+     "city": "Świnoujście",
+     "country": null,
+     "postal_code": "08-593",
+     "street": "Orla",
+     "unit_no": "40"
+    },
+    "krs": null,
+    "name": "Marika Wiertelak",
+    "nip": null,
+    "pesel": "73140868515",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Kupujący"
+  }
+ ],
+ "payment_account": "PL77000000006355050668380358",
+ "remuneration": {
+  "amount": "19550.00",
+  "amount_in_words": "dziewiętnaście tysięcy pięćset pięćdziesiąt zł 00/100",
+  "basis": null,
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": false,
+ "subject": "Sprzedawca sprzedaje, a Kupujący kupuje rzecz ruchomą, której szczegółowy opis, stan techniczny i wyposażenie strony określają w załączniku nr 1 do umowy.",
+ "term": null,
+ "title": "UMOWA SPRZEDAŻY NR 48/2026"
+}

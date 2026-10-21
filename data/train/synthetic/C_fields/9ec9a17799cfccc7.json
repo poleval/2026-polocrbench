@@ -1,0 +1,62 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze w Radomiu": [
+   "Samorządowego Kolegium Odwoławczego w Radomiu"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Radomiu",
+ "attachments_count": null,
+ "case_ref": "GN.4451.90.2025.AZ",
+ "deadline": {
+  "action": "wniesienia zażalenia",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": "Zawiesza się postępowanie administracyjne w sprawie dotyczącej nieruchomości oznaczonej numerem działki 773/29, wszczętej na wniosek strony: Jakub Kwak, do czasu rozstrzygnięcia zagadnienia wstępnego przez organ administracji publicznej właściwy do ustalenia stanu prawnego nieruchomości.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 97 § 1 pkt 2 k.p.a.",
+  "art. 97 § 2 k.p.a.",
+  "art. 141 § 1 k.p.a.",
+  "art. 141 § 2 k.p.a."
+ ],
+ "letter_date": "2025-06-06",
+ "letter_place": "Kazanów",
+ "letter_type": "order",
+ "recipient": {
+  "address": {
+   "building_no": "153",
+   "city": "Gliwice",
+   "country": null,
+   "postal_code": "02-133",
+   "street": "Korczaka",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Jakub Kwak",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "71",
+   "city": "Kazanów",
+   "country": null,
+   "postal_code": "77-870",
+   "street": "Dębowa",
+   "unit_no": null
+  },
+  "authority_name": "Wójt Gminy Kazanów",
+  "epuap": "/WGKazanow/SkrytkaESP",
+  "nip": "0001039671",
+  "regon": "004531556",
+  "unit": "Referat Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Grzegorz Czupryn",
+  "role": "Wójt Gminy"
+ },
+ "subject": "zawieszenie postępowania administracyjnego w przedmiocie nieruchomości o numerze działki 773/29"
+}

@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "FN.4890.28.2026",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 217 § 1 k.p.a.",
+  "art. 4 ust. 1 ustawy o planowaniu i zagospodarowaniu przestrzennym",
+  "art. 20 ust. 1 ustawy o planowaniu i zagospodarowaniu przestrzennym",
+  "art. 217 § 2 k.p.a.",
+  "art. 220 k.p.a.",
+  "art. 219 k.p.a."
+ ],
+ "letter_date": "2026-05-29",
+ "letter_place": "Krasnobród",
+ "letter_type": "certificate",
+ "recipient": {
+  "address": {
+   "building_no": "34",
+   "city": "Piaseczno",
+   "country": null,
+   "postal_code": "05-315",
+   "street": "Narcyzowa",
+   "unit_no": "49"
+  },
+  "krs": null,
+  "name": "Olgierd Banak",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "153",
+   "city": "Krasnobród",
+   "country": null,
+   "postal_code": "85-686",
+   "street": "Sokola",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Krasnobrodu",
+  "epuap": "/BMKrasnobrod/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Architektury i Planowania Przestrzennego"
+ },
+ "signatory": {
+  "full_name": "Karina Jasionek",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "przeznaczenia działki ewidencyjnej nr 498/10 w miejscowym planie zagospodarowania przestrzennego"
+}

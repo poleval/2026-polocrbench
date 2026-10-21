@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "OŚ.7408.172.2025.DY",
+ "deadline": {
+  "action": "usunięcia wskazanych braków",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 64 § 1 k.p.a.",
+  "art. 64 § 2 k.p.a."
+ ],
+ "letter_date": "2025-04-06",
+ "letter_place": "Stęszew",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "141B",
+   "city": "Tomaszów Mazowiecki",
+   "country": null,
+   "postal_code": "44-617",
+   "street": "Łąkowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "FPUH Synak S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "139",
+   "city": "Stęszew",
+   "country": null,
+   "postal_code": "01-090",
+   "street": "Kamienna",
+   "unit_no": "78"
+  },
+  "authority_name": "Urząd Miasta Stęszewa",
+  "epuap": null,
+  "nip": null,
+  "regon": "005888616",
+  "unit": "Wydział Spraw Administracyjnych"
+ },
+ "signatory": {
+  "full_name": "Marianna Samol",
+  "role": "Kierownik Wydziału Spraw Administracyjnych"
+ },
+ "subject": "uzupełnienie braków formalnych wniosku z dnia 2025-03-13 o wydanie decyzji administracyjnej dla działki nr 755/3"
+}

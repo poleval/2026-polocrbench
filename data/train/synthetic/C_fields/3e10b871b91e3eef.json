@@ -1,0 +1,66 @@
+{
+ "conclusion_date": "2025-10-12",
+ "conclusion_place": "Nysa",
+ "contract_type": "sale",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "33/10/2025",
+ "parties": [
+  {
+   "id_document": "WHN690146",
+   "party": {
+    "address": {
+     "building_no": "80",
+     "city": "Bochnia",
+     "country": null,
+     "postal_code": "95-869",
+     "street": "Kopernika",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Patryk Chaba",
+    "nip": null,
+    "pesel": "06202373872",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Sprzedawca"
+  },
+  {
+   "id_document": "LEN812929",
+   "party": {
+    "address": {
+     "building_no": "114",
+     "city": "Wieluń",
+     "country": null,
+     "postal_code": "37-285",
+     "street": "Okulickiego",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Radosław Niewiara",
+    "nip": null,
+    "pesel": "90181697168",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Kupujący"
+  }
+ ],
+ "payment_account": "PL62000000003781026857640453",
+ "remuneration": {
+  "amount": "48500.00",
+  "amount_in_words": "czterdzieści osiem tysięcy pięćset złotych 00 gr",
+  "basis": null,
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Sprzedawca sprzedaje, a Kupujący kupuje rzecz ruchomą, której szczegółowy opis, stan techniczny i wyposażenie strony określają w załączniku nr 1 do umowy.",
+ "term": null,
+ "title": "UMOWA SPRZEDAŻY NR 33/10/2025"
+}

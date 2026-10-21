@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "GK.3811.206.2025",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 18 ust. 8 ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi",
+  "art. 50 k.p.a."
+ ],
+ "letter_date": "2025-09-09",
+ "letter_place": "Siedliszcze",
+ "letter_type": "request",
+ "recipient": {
+  "address": {
+   "building_no": "79",
+   "city": "Mielec",
+   "country": null,
+   "postal_code": "72-647",
+   "street": "Jałowcowa",
+   "unit_no": "80"
+  },
+  "krs": null,
+  "name": "Oliwier Cymer",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "40C",
+   "city": "Siedliszcze",
+   "country": null,
+   "postal_code": "53-233",
+   "street": "Słowackiego",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Siedliszcza",
+  "epuap": "/UMSiedliszcze/SkrytkaESP",
+  "nip": null,
+  "regon": "007058244",
+  "unit": "Wydział Działalności Gospodarczej i Zezwoleń"
+ },
+ "signatory": {
+  "full_name": "Tobiasz Wiekiera",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "kontroli zezwolenia na sprzedaż napojów alkoholowych"
+}

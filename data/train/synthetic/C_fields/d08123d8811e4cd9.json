@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2026-03-21",
+ "conclusion_place": "Łomża",
+ "contract_type": "sale",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy w Lublinie",
+ "number": "52/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "133",
+     "city": "Zduńska Wola",
+     "country": null,
+     "postal_code": "39-712",
+     "street": "Okrzei",
+     "unit_no": "45"
+    },
+    "krs": "0099999999",
+    "name": "Gabinety Rejmak Sp. z o.o.",
+    "nip": "0005949849",
+    "pesel": null,
+    "regon": "003060847",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Inga Pajdak",
+     "role": "Kierownik jednostki organizacyjnej"
+    }
+   ],
+   "role": "Sprzedający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "33",
+     "city": "Piekary Śląskie",
+     "country": null,
+     "postal_code": "43-213",
+     "street": "Majowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "FPUH Klara Kenig",
+    "nip": "0009408777",
+    "pesel": null,
+    "regon": "006363904",
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Kupujący"
+  }
+ ],
+ "payment_account": "PL97000000003264449393818728",
+ "remuneration": {
+  "amount": "26550.00",
+  "amount_in_words": "dwadzieścia sześć tysięcy pięćset pięćdziesiąt złotych 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": false,
+ "subject": "Sprzedający sprzedaje Kupującemu, a Kupujący kupuje fabrycznie nowy agregat chłodniczy typu ACH-200 wraz z osprzętem i dokumentacją techniczną, zwany dalej Towarem.",
+ "term": {
+  "end_date": "2026-08-06",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2026-03-27"
+ },
+ "title": "UMOWA SPRZEDAŻY NR 52/2026"
+}

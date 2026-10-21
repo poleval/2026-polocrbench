@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2026-07-02",
+ "conclusion_place": "Radom",
+ "contract_type": "loan",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "3/07/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "43",
+     "city": "Bolesławiec",
+     "country": null,
+     "postal_code": "25-851",
+     "street": "Żwirowa",
+     "unit_no": "62"
+    },
+    "krs": "0099999999",
+    "name": "Mikusek Sp. z o.o.",
+    "nip": "0008208533",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Melania Ambrozik",
+     "role": "Prokurent łączny"
+    }
+   ],
+   "role": "Pożyczkodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "53B",
+     "city": "Olsztyn",
+     "country": null,
+     "postal_code": "80-768",
+     "street": "Głowackiego",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Kaja Michel",
+    "nip": null,
+    "pesel": "85202230004",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pożyczkobiorca"
+  }
+ ],
+ "payment_account": "PL65000000003127427475324556",
+ "remuneration": {
+  "amount": "47450.00",
+  "amount_in_words": "czterdzieści siedem tysięcy czterysta pięćdziesiąt zł 00/100",
+  "basis": null,
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Pożyczkodawca udziela Pożyczkobiorcy pożyczki w kwocie 47.450,00 zł (czterdzieści siedem tysięcy czterysta pięćdziesiąt zł 00/100) na cele prywatne.",
+ "term": {
+  "end_date": "2026-12-29",
+  "indefinite": false,
+  "notice_period": "30 dni",
+  "start_date": "2026-07-09"
+ },
+ "title": "UMOWA POŻYCZKI NR 3/07/2026"
+}

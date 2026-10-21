@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2026-09-02",
+ "conclusion_place": "Kraśnik",
+ "contract_type": "lease",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "U/716/2026",
+ "parties": [
+  {
+   "id_document": "UQR334241",
+   "party": {
+    "address": {
+     "building_no": "19",
+     "city": "Piekary Śląskie",
+     "country": null,
+     "postal_code": "97-631",
+     "street": "Witosa",
+     "unit_no": "74"
+    },
+    "krs": null,
+    "name": "Filip Zgoła",
+    "nip": null,
+    "pesel": "93141898146",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wydzierżawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "105",
+     "city": "Sanok",
+     "country": null,
+     "postal_code": "55-633",
+     "street": "Słonecznikowa",
+     "unit_no": "75"
+    },
+    "krs": null,
+    "name": "PPUH Ada Calik",
+    "nip": "0005635476",
+    "pesel": null,
+    "regon": "005135970",
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Dzierżawca"
+  }
+ ],
+ "payment_account": "PL16000000004879310765290246",
+ "remuneration": {
+  "amount": "4800.00",
+  "amount_in_words": "cztery tysiące osiemset zł 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Wydzierżawiający oddaje Dzierżawcy do używania i pobierania pożytków nieruchomość gruntową wraz z zabudowaniami, zwaną dalej „Przedmiotem dzierżawy”, opisaną w protokole zdawczo-odbiorczym stanowiącym załącznik nr 1 do umowy.",
+ "term": {
+  "end_date": "2027-06-27",
+  "indefinite": false,
+  "notice_period": "1 miesiąca",
+  "start_date": "2026-09-06"
+ },
+ "title": "UMOWA DZIERŻAWY NR U/716/2026"
+}

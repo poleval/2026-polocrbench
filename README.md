@@ -61,7 +61,20 @@ The intended data license is **CC BY 4.0**; evaluation scripts are intended to u
 
 ### Release status
 
-This repository currently publishes the task description. The split sizes above are targets. Dataset links, evaluation scripts, submission schemas, and baseline results will be added with their releases.
+Training data is available in [`data/train/`](data/train/), with 2,610 image–reference pairs. Each page image is stored alongside its reference annotation with the same identifier. See [`data/README.md`](data/README.md) for the file formats, metadata columns, and annotation conventions.
+
+| Directory | Pages | Reference format |
+| --- | ---: | --- |
+| [`real/`](data/train/real/) | 910 | Markdown |
+| [`real_degraded/`](data/train/real_degraded/) | 300 | Markdown; degraded versions of real pages |
+| [`real_handwritten/`](data/train/real_handwritten/) | 20 | Markdown |
+| [`synthetic/A_markdown/`](data/train/synthetic/A_markdown/) | 500 | Markdown |
+| [`synthetic/B_tables/`](data/train/synthetic/B_tables/) | 400 | HTML |
+| [`synthetic/C_fields/`](data/train/synthetic/C_fields/) | 480 | JSON |
+
+Each directory includes `metadata.csv`, including source and license information. The data was imported from `slayerlabs/PolEvalDS` at commit `d698988d6eda96be0f77717f8ddc129160f5e5a7`; the source repository is private. File integrity can be checked from the repository root with `cd data && shasum -a 256 -c SHA256SUMS`.
+
+The released page counts describe image–reference pairs, including degraded variants, rather than unique source documents. The split sizes above remain planning targets. Test A and Test B, evaluation scripts, submission schemas, and baseline results are not included in this training-data release.
 
 ## Evaluation
 

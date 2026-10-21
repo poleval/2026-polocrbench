@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "PS.6101.17.2026.DF",
+ "deadline": {
+  "action": "zapłaty zaległości podatkowej wraz z odsetkami za zwłokę",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 140 ustawy – Ordynacja podatkowa",
+  "art. 51 § 1 ustawy – Ordynacja podatkowa"
+ ],
+ "letter_date": "2026-06-09",
+ "letter_place": "Końskie",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "119",
+   "city": "Kwidzyn",
+   "country": null,
+   "postal_code": "57-889",
+   "street": "Witosa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Olga Hołota",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "3",
+   "city": "Końskie",
+   "country": null,
+   "postal_code": "38-262",
+   "street": "Słowicza",
+   "unit_no": "65"
+  },
+  "authority_name": "Burmistrz Miasta Końskich",
+  "epuap": "/BMKonskie/SkrytkaESP",
+  "nip": "0004651705",
+  "regon": null,
+  "unit": "Wydział Podatków i Opłat"
+ },
+ "signatory": {
+  "full_name": "Kaja Zybura",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "zapłaty zaległości podatkowej w podatku od nieruchomości"
+}

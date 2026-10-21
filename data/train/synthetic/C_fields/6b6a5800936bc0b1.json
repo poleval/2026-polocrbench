@@ -1,0 +1,57 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "OR.6528.47.2025",
+ "deadline": {
+  "action": "zawiadomić organ o przyczynie niemożności stawienia się",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 50 § 1 k.p.a.",
+  "art. 54 § 1 k.p.a.",
+  "art. 88 § 1 pkt 1 k.p.a.",
+  "art. 88 § 2 k.p.a."
+ ],
+ "letter_date": "2025-01-03",
+ "letter_place": "Słupsk",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "158",
+   "city": "Reda",
+   "country": null,
+   "postal_code": "97-488",
+   "street": "Gajowa",
+   "unit_no": "83"
+  },
+  "krs": null,
+  "name": "Błażej Kusek",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "139",
+   "city": "Słupsk",
+   "country": null,
+   "postal_code": "63-502",
+   "street": "Popiełuszki",
+   "unit_no": "17"
+  },
+  "authority_name": "Urząd Miasta Słupska",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Jacek Durlej",
+  "role": "Naczelnik Wydziału Gospodarki Nieruchomościami"
+ },
+ "subject": "stawiennictwo w urzędzie w celu złożenia wyjaśnień i przedstawienia dokumentów odnoszących się do działki ewidencyjnej nr 518/11"
+}

@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2025-07-15",
+ "conclusion_place": "Marki",
+ "contract_type": "mandate",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "U/410/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "38",
+     "city": "Wejherowo",
+     "country": null,
+     "postal_code": "18-205",
+     "street": "Wspólna",
+     "unit_no": "4"
+    },
+    "krs": "0099999999",
+    "name": "Gabinety Ziemak Sp. z o.o.",
+    "nip": "0002393050",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Eliza Wojtaszak",
+     "role": "Członek zarządu"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": "NPS522381",
+   "party": {
+    "address": {
+     "building_no": "67",
+     "city": "Olkusz",
+     "country": null,
+     "postal_code": "75-295",
+     "street": "Borowa",
+     "unit_no": "53"
+    },
+    "krs": null,
+    "name": "Leon Gregorek",
+    "nip": null,
+    "pesel": "80140375174",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL38000000001893748441283723",
+ "remuneration": {
+  "amount": "16400.00",
+  "amount_in_words": "szesnaście tysięcy czterysta złotych 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Zleceniodawca zleca Zleceniobiorcy wykonanie czynności polegających na prowadzeniu obsługi administracyjno-biurowej, w tym przyjmowaniu i rejestrowaniu korespondencji, przygotowywaniu dokumentów, prowadzeniu ewidencji oraz wykonywaniu innych poleceń Zleceniodawcy związanych z bieżącą działalnością, a Zleceniobiorca zobowiązuje się do ich wykonania z należytą starannością.",
+ "term": {
+  "end_date": "2026-02-04",
+  "indefinite": false,
+  "notice_period": "14 dni",
+  "start_date": "2025-07-19"
+ },
+ "title": "UMOWA ZLECENIA NR U/410/2025"
+}

@@ -1,0 +1,98 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "37A",
+   "city": "Krosno",
+   "country": null,
+   "postal_code": "63-882",
+   "street": "Słowianska",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Witold Osojca",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-04-08",
+ "issue_place": null,
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Dysk SSD 1 TB",
+   "discount": null,
+   "gross_amount": "981.54",
+   "line_no": 1,
+   "net_amount": "798.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "399.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Suszarka do włosów 2200 W",
+   "discount": null,
+   "gross_amount": "539.61",
+   "line_no": 2,
+   "net_amount": "438.71",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "438.71",
+   "vat_amount": null,
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FA/0662/26",
+ "payment": {
+  "bank_account": "PL31000000005796984693528607",
+  "bank_name": null,
+  "due_date": null,
+  "due_days": 14,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": null,
+ "seller": {
+  "address": {
+   "building_no": "19",
+   "city": "Pruszków",
+   "country": null,
+   "postal_code": "22-784",
+   "street": "Wolności",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Gabinety Artur Burchardt",
+  "nip": "0006912311",
+  "pesel": null,
+  "regon": "006581630",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "1521.15",
+  "amount_in_words": "tysiąc pięćset dwadzieścia jeden złotych 15 gr",
+  "amount_paid": null,
+  "gross_amount": "1521.15",
+  "net_amount": "1236.71",
+  "vat_amount": "284.44"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "1521.15",
+   "net_amount": "1236.71",
+   "vat_amount": "284.44",
+   "vat_rate": "23"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2025-02-21",
+ "conclusion_place": "Puławy",
+ "contract_type": "loan",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "44/02/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "142",
+     "city": "Żywiec",
+     "country": null,
+     "postal_code": "32-500",
+     "street": "Rubinowa",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Superson Sp. z o.o.",
+    "nip": "0009238269",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Ada Kazberuk",
+     "role": "Dyrektor generalny"
+    }
+   ],
+   "role": "Pożyczkodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "56",
+     "city": "Grodzisk Mazowiecki",
+     "country": null,
+     "postal_code": "11-349",
+     "street": "Wolności",
+     "unit_no": "45"
+    },
+    "krs": null,
+    "name": "Błażej Kinal",
+    "nip": null,
+    "pesel": "14201249113",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pożyczkobiorca"
+  }
+ ],
+ "payment_account": "PL90000000009375287309450270",
+ "remuneration": {
+  "amount": "16200.00",
+  "amount_in_words": "szesnaście tysięcy dwieście zł 00/100",
+  "basis": null,
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": false,
+ "subject": "Pożyczkodawca udziela Pożyczkobiorcy pożyczki w kwocie 16200,00 PLN (szesnaście tysięcy dwieście zł 00/100) na cele prywatne.",
+ "term": {
+  "end_date": "2026-01-14",
+  "indefinite": false,
+  "notice_period": "30 dni",
+  "start_date": "2025-03-04"
+ },
+ "title": "UMOWA POŻYCZKI NR 44/02/2025"
+}

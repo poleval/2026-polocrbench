@@ -1,0 +1,57 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "GN.3432.247.2025",
+ "deadline": {
+  "action": "zawiadomić organ o przyczynie niemożności stawienia się",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 50 § 1 k.p.a.",
+  "art. 54 § 1 k.p.a.",
+  "art. 88 § 1 pkt 1 k.p.a.",
+  "art. 88 § 2 k.p.a."
+ ],
+ "letter_date": "2025-06-23",
+ "letter_place": "Tarnów",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "153A",
+   "city": "Piotrków Trybunalski",
+   "country": null,
+   "postal_code": "52-160",
+   "street": "Sybiraków",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Sara Rejmak",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "138",
+   "city": "Tarnów",
+   "country": null,
+   "postal_code": "90-244",
+   "street": "Jeżynowa",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Tarnowa",
+  "epuap": null,
+  "nip": "0002323888",
+  "regon": null,
+  "unit": "Wydział Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Kaja Wojtoń",
+  "role": "Naczelnik Wydziału Gospodarki Nieruchomościami"
+ },
+ "subject": "stawiennictwo w urzędzie w celu złożenia wyjaśnień i przedstawienia dokumentów odnoszących się do działki ewidencyjnej nr 815/7"
+}

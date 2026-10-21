@@ -1,0 +1,62 @@
+{
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Katowicach",
+ "attachments_count": null,
+ "case_ref": "SO.4010.216.2025",
+ "deadline": {
+  "action": "wniesienia odwołania",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": "ustala, że wysokość podatku od nieruchomości za 2026 r. dla strony: Spółdzielnia Pindral wynosi 16.785,00 zł i podatek jest płatny w terminie do dnia 2025-06-27.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 207 § 1 Ordynacji podatkowej",
+  "art. 210 § 1 Ordynacji podatkowej",
+  "art. 211 Ordynacji podatkowej",
+  "art. 2 ust. 1 pkt 1 ustawy o podatkach i opłatach lokalnych",
+  "art. 2 ust. 1 pkt 2 ustawy o podatkach i opłatach lokalnych",
+  "art. 3 ust. 1 ustawy o podatkach i opłatach lokalnych",
+  "art. 4 ust. 1 ustawy o podatkach i opłatach lokalnych",
+  "art. 5 ust. 1 ustawy o podatkach i opłatach lokalnych",
+  "art. 6 ust. 1 ustawy o podatkach i opłatach lokalnych"
+ ],
+ "letter_date": "2025-06-06",
+ "letter_place": "Siewierz",
+ "letter_type": "decision",
+ "recipient": {
+  "address": {
+   "building_no": "87",
+   "city": "Wołomin",
+   "country": null,
+   "postal_code": "92-530",
+   "street": "Azaliowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Spółdzielnia Pindral",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "23",
+   "city": "Siewierz",
+   "country": null,
+   "postal_code": "26-229",
+   "street": "Wiślana",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Siewierza",
+  "epuap": null,
+  "nip": "0003944339",
+  "regon": null,
+  "unit": "Wydział Podatków i Opłat Lokalnych"
+ },
+ "signatory": {
+  "full_name": "Wojciech Roj",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "wymiar podatku od nieruchomości za 2026 r."
+}

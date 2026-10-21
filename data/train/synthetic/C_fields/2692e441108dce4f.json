@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2025-08-11",
+ "conclusion_place": "Bolesławiec",
+ "contract_type": "lease",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "84/2025",
+ "parties": [
+  {
+   "id_document": "XID703259",
+   "party": {
+    "address": {
+     "building_no": "66",
+     "city": "Świdnica",
+     "country": null,
+     "postal_code": "26-473",
+     "street": "Chełmońskiego",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Konstanty Glegoła",
+    "nip": null,
+    "pesel": "83131410245",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wydzierżawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "112",
+     "city": "Swarzędz",
+     "country": null,
+     "postal_code": "55-182",
+     "street": "Zacisze",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "FPUH Ernest Matyszczak",
+    "nip": "0005761181",
+    "pesel": null,
+    "regon": "002245639",
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Dzierżawca"
+  }
+ ],
+ "payment_account": "PL42000000001366459735933077",
+ "remuneration": {
+  "amount": "10000.00",
+  "amount_in_words": "dziesięć tysięcy zł 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Wydzierżawiający oddaje Dzierżawcy do używania i pobierania pożytków nieruchomość gruntową wraz z zabudowaniami, zwaną dalej „Przedmiotem dzierżawy”, opisaną w protokole zdawczo-odbiorczym stanowiącym załącznik nr 1 do umowy.",
+ "term": {
+  "end_date": "2026-03-30",
+  "indefinite": false,
+  "notice_period": "1 miesiąca",
+  "start_date": "2025-08-21"
+ },
+ "title": "UMOWA DZIERŻAWY NR 84/2025"
+}

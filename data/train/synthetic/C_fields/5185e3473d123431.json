@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2025-09-21",
+ "conclusion_place": "Świdnik",
+ "contract_type": "mandate",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "69/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "146",
+     "city": "Bielsk Podlaski",
+     "country": null,
+     "postal_code": "69-492",
+     "street": "Skrajna",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "FPUH Skutnik Sp. z o.o.",
+    "nip": "0004737654",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Apolonia Szałas",
+     "role": "Prokurent"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": "WRD983395",
+   "party": {
+    "address": {
+     "building_no": "30",
+     "city": "Katowice",
+     "country": null,
+     "postal_code": "62-702",
+     "street": "Działkowa",
+     "unit_no": "75"
+    },
+    "krs": null,
+    "name": "Paweł Wosiek",
+    "nip": null,
+    "pesel": "73191955862",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL31000000008342301999689710",
+ "remuneration": {
+  "amount": "31350.00",
+  "amount_in_words": "trzydzieści jeden tysięcy trzysta pięćdziesiąt złotych 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": false,
+ "subject": "Zleceniodawca zleca Zleceniobiorcy wykonanie czynności polegających na prowadzeniu obsługi administracyjno-biurowej, w tym przyjmowaniu i rejestrowaniu korespondencji, przygotowywaniu dokumentów, prowadzeniu ewidencji oraz wykonywaniu innych poleceń Zleceniodawcy związanych z bieżącą działalnością, a Zleceniobiorca zobowiązuje się do ich wykonania z należytą starannością.",
+ "term": {
+  "end_date": "2026-03-10",
+  "indefinite": false,
+  "notice_period": "14 dni",
+  "start_date": "2025-09-30"
+ },
+ "title": "UMOWA ZLECENIA NR 69/2025"
+}

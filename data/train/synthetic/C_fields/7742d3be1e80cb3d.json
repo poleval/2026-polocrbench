@@ -1,0 +1,75 @@
+{
+ "conclusion_date": "2025-03-05",
+ "conclusion_place": "Piotrków Trybunalski",
+ "contract_type": "nda",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "9/03/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "33",
+     "city": "Sieradz",
+     "country": null,
+     "postal_code": "49-508",
+     "street": "Willowa",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "FPUH Mesjasz S.A.",
+    "nip": "0007324384",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Melania Leśna",
+     "role": "Dyrektor generalny"
+    }
+   ],
+   "role": "Ujawniający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "87",
+     "city": "Myszków",
+     "country": null,
+     "postal_code": "18-851",
+     "street": "Harcerska",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "PPUH Budner S.A.",
+    "nip": "0007255430",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Inga Kochel",
+     "role": "Wiceprezes zarządu"
+    }
+   ],
+   "role": "Przyjmujący"
+  }
+ ],
+ "payment_account": null,
+ "remuneration": null,
+ "signatures_present": true,
+ "subject": "Na podstawie umowy strona 1 („Ujawniający”) przekazuje stronie 2 („Przyjmujący”) informacje poufne w celu prowadzenia rozmów o współpracy, a strona 2 zobowiązuje się do zachowania ich poufności.",
+ "term": {
+  "end_date": "2026-01-25",
+  "indefinite": false,
+  "notice_period": null,
+  "start_date": "2025-03-12"
+ },
+ "title": "UMOWA O ZACHOWANIU POUFNOŚCI NR 9/03/2025"
+}

@@ -1,0 +1,62 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze w Gdańsku": [
+   "Samorządowego Kolegium Odwoławczego w Gdańsku"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Gdańsku",
+ "attachments_count": null,
+ "case_ref": "SO.3726.232.2026.DQ",
+ "deadline": {
+  "action": "wniesienia zażalenia",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": "odmówić wszczęcia postępowania administracyjnego.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 61a § 1 k.p.a.",
+  "art. 61a § 2 k.p.a.",
+  "art. 61a § 3 k.p.a.",
+  "art. 141 § 2 k.p.a."
+ ],
+ "letter_date": "2026-05-19",
+ "letter_place": "Cedry Wielkie",
+ "letter_type": "order",
+ "recipient": {
+  "address": {
+   "building_no": "45",
+   "city": "Nowy Sącz",
+   "country": null,
+   "postal_code": "81-279",
+   "street": "Staszica",
+   "unit_no": "71"
+  },
+  "krs": null,
+  "name": "PPUH Strama S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "112",
+   "city": "Cedry Wielkie",
+   "country": null,
+   "postal_code": "24-986",
+   "street": "Dąbrowskiego",
+   "unit_no": "38"
+  },
+  "authority_name": "Wójt Gminy Cedry Wielkie",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Referat Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Dorota Ciuba",
+  "role": "Wójt Gminy"
+ },
+ "subject": "odmowa wszczęcia postępowania administracyjnego o stwierdzenie nieważności umowy sprzedaży działki ewidencyjnej nr 100/10"
+}

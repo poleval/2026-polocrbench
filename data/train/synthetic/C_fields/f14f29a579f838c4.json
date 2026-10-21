@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2025-10-07",
+ "conclusion_place": "Piaseczno",
+ "contract_type": "services",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "U/936/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "157",
+     "city": "Bydgoszcz",
+     "country": null,
+     "postal_code": "96-841",
+     "street": "Wojciecha",
+     "unit_no": "52"
+    },
+    "krs": "0099999999",
+    "name": "PPUH Łabno Sp. z o.o.",
+    "nip": "0000403117",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Róża Grzesiek",
+     "role": "Prokurent łączny"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "143",
+     "city": "Puławy",
+     "country": null,
+     "postal_code": "24-646",
+     "street": "Liliowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "FPUH Tymon Roj",
+    "nip": "0008871214",
+    "pesel": null,
+    "regon": "008182147",
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL88000000006053540125489873",
+ "remuneration": {
+  "amount": "10450.00",
+  "amount_in_words": "dziesięć tysięcy czterysta pięćdziesiąt zł 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": false,
+ "subject": "Zleceniobiorca zobowiązuje się do świadczenia na rzecz Zleceniodawcy usług informatycznych polegających na administracji infrastrukturą serwerową, utrzymaniu kopii zapasowych oraz bieżącym wsparciu użytkowników.",
+ "term": {
+  "end_date": "2026-05-07",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-10-07"
+ },
+ "title": "UMOWA O ŚWIADCZENIE USŁUG NR U/936/2025"
+}

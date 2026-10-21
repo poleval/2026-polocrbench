@@ -1,0 +1,54 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "PS.3217.122.2026.KG",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 20 pkt 5 ustawy o drogach publicznych",
+  "art. 7 ust. 1 pkt 2 ustawy o samorządzie gminnym",
+  "art. 227 k.p.a.",
+  "art. 237 § 1 k.p.a.",
+  "art. 238 k.p.a."
+ ],
+ "letter_date": "2026-06-06",
+ "letter_place": "Bledzew",
+ "letter_type": "reply",
+ "recipient": {
+  "address": {
+   "building_no": "139",
+   "city": "Kłodzko",
+   "country": null,
+   "postal_code": "70-406",
+   "street": "Staszica",
+   "unit_no": "86"
+  },
+  "krs": null,
+  "name": "Paweł Fojt",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "146",
+   "city": "Bledzew",
+   "country": null,
+   "postal_code": "25-649",
+   "street": "Wyszyńskiego",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Gminy Bledzew",
+  "epuap": "/UGBledzew/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Referat Inwestycji i Gospodarki Komunalnej"
+ },
+ "signatory": {
+  "full_name": "Malwina Zbrożek",
+  "role": "Kierownik Referatu Inwestycji i Gospodarki Komunalnej"
+ },
+ "subject": "utrzymania drogi gminnej na działce ewidencyjnej nr 460/19"
+}

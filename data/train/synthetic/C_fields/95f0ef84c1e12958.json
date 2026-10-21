@@ -1,0 +1,126 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "93",
+   "city": "Żyrardów",
+   "country": null,
+   "postal_code": "85-759",
+   "street": "Poprzeczna",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Kaja Siemieniec",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-01-19",
+ "issue_place": "Suwałki",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Przewód elektryczny YDY 3x2,5 mm2",
+   "discount": null,
+   "gross_amount": "52.83",
+   "line_no": 1,
+   "net_amount": "42.95",
+   "pkwiu_or_gtu": null,
+   "quantity": "5",
+   "unit": "mb",
+   "unit_price_gross": null,
+   "unit_price_net": "8.59",
+   "vat_amount": "9.88",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Inwerter fotowoltaiczny 10 kW",
+   "discount": null,
+   "gross_amount": "23571.72",
+   "line_no": 2,
+   "net_amount": "19164.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "9582.00",
+   "vat_amount": "4407.72",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Kosiarka spalinowa do trawy",
+   "discount": null,
+   "gross_amount": "2040.64",
+   "line_no": 3,
+   "net_amount": "1659.06",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "1659.06",
+   "vat_amount": "381.58",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Komplet połączeń szafy sterowniczej",
+   "discount": null,
+   "gross_amount": "4077.45",
+   "line_no": 4,
+   "net_amount": "3315.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "kpl.",
+   "unit_price_gross": null,
+   "unit_price_net": "3315.00",
+   "vat_amount": "762.45",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "620/01/2025",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "card"
+ },
+ "recipient": null,
+ "sale_date": null,
+ "seller": {
+  "address": {
+   "building_no": "72",
+   "city": "Zawiercie",
+   "country": null,
+   "postal_code": "61-029",
+   "street": "Poziomkowa",
+   "unit_no": "82"
+  },
+  "krs": null,
+  "name": "FPUH Kozar S.A.",
+  "nip": "0001618446",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "0.00",
+  "amount_in_words": "dwadzieścia dziewięć tysięcy siedemset czterdzieści dwa złote 64/100",
+  "amount_paid": "29742.64",
+  "gross_amount": "29742.64",
+  "net_amount": "24181.01",
+  "vat_amount": "5561.63"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "29742.64",
+   "net_amount": "24181.01",
+   "vat_amount": "5561.63",
+   "vat_rate": "23"
+  }
+ ]
+}

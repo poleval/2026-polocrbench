@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2025-09-15",
+ "conclusion_place": "Piotrków Trybunalski",
+ "contract_type": "rental",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "77/09/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "155",
+     "city": "Piaseczno",
+     "country": null,
+     "postal_code": "11-918",
+     "street": "Szczęśliwa",
+     "unit_no": "43"
+    },
+    "krs": "0099999999",
+    "name": "PPUH Doliwa Sp. z o.o.",
+    "nip": "0001819104",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Przemysław Mikosz",
+     "role": "Członek zarządu"
+    }
+   ],
+   "role": "Wynajmujący"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "75",
+     "city": "Augustów",
+     "country": null,
+     "postal_code": "74-231",
+     "street": "Wybickiego",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Gabinety Maurycy Dub",
+    "nip": "0000908403",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Najemca"
+  }
+ ],
+ "payment_account": "PL83000000009443787294733429",
+ "remuneration": {
+  "amount": "4500.00",
+  "amount_in_words": "cztery tysiące pięćset złotych 00 gr",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": false,
+ "subject": "Wynajmujący oddaje Najemcy do używania lokal użytkowy nr 4 o powierzchni 78 m², położony w budynku przy ul. Szczęśliwa 155 lok. 43, 11-918 Piaseczno, wraz z miejscem parkingowym (Lokal).",
+ "term": {
+  "end_date": "2026-07-15",
+  "indefinite": false,
+  "notice_period": "trzy miesiące",
+  "start_date": "2025-09-15"
+ },
+ "title": "UMOWA NAJMU LOKALU UŻYTKOWEGO NR 77/09/2025"
+}

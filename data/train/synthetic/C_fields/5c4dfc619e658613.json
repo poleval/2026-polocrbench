@@ -1,0 +1,81 @@
+{
+ "conclusion_date": "2026-06-19",
+ "conclusion_place": "Rumia",
+ "contract_type": "services",
+ "doc_type": "contract",
+ "governing_court": "Sąd Okręgowy w Warszawie",
+ "number": "U/086/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "37",
+     "city": "Tarnów",
+     "country": null,
+     "postal_code": "14-030",
+     "street": "Jesionowa",
+     "unit_no": "47"
+    },
+    "krs": "0099999999",
+    "name": "Fundacja Bobryk-Szałkiewicz",
+    "nip": "0002834413",
+    "pesel": null,
+    "regon": "007062151",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Anastazja Bluszcz",
+     "role": "Dyrektor generalny"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "48",
+     "city": "Sopot",
+     "country": null,
+     "postal_code": "56-795",
+     "street": "Lawendowa",
+     "unit_no": "73"
+    },
+    "krs": "0099999999",
+    "name": "Fundacja Sieczko",
+    "nip": "0001600877",
+    "pesel": null,
+    "regon": "007905796",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Oliwier Bogusiewicz",
+     "role": "Prokurent samoistny"
+    }
+   ],
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL38000000005168544297211404",
+ "remuneration": {
+  "amount": "6600.00",
+  "amount_in_words": "sześć tysięcy sześćset zł 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": false,
+ "subject": "Zleceniobiorca zobowiązuje się do świadczenia na rzecz Zleceniodawcy usług polegających na utrzymaniu i rozwoju systemu informatycznego Zleceniodawcy, zwanego dalej Systemem.",
+ "term": {
+  "end_date": "2027-05-02",
+  "indefinite": false,
+  "notice_period": "30 dni",
+  "start_date": "2026-07-02"
+ },
+ "title": "UMOWA O ŚWIADCZENIE USŁUG NR U/086/2026"
+}

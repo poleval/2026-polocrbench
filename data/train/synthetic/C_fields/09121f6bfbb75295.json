@@ -1,0 +1,98 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "34",
+   "city": "Kluczbork",
+   "country": null,
+   "postal_code": "14-978",
+   "street": "Lubelska",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "FPUH Alex Wiertel",
+  "nip": "0000527575",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-05-16",
+ "issue_place": "Kalisz",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Przygotowanie projektu umowy",
+   "discount": null,
+   "gross_amount": "3350.08",
+   "line_no": 1,
+   "net_amount": "2723.64",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "907.88",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Reprezentacja klienta przed sądem",
+   "discount": null,
+   "gross_amount": "386.31",
+   "line_no": 2,
+   "net_amount": "314.07",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "h",
+   "unit_price_gross": null,
+   "unit_price_net": "314.07",
+   "vat_amount": null,
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FA/0066/25",
+ "payment": {
+  "bank_account": "PL02000000004971255949662652",
+  "bank_name": "Bank Nadmorskiej Bryzy",
+  "due_date": null,
+  "due_days": 7,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": null,
+ "seller": {
+  "address": {
+   "building_no": "157",
+   "city": "Chełm",
+   "country": null,
+   "postal_code": "63-380",
+   "street": "Łąkowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Gabinety Gaja Prokopczuk",
+  "nip": "0005732417",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "3736.39",
+  "amount_in_words": null,
+  "amount_paid": null,
+  "gross_amount": "3736.39",
+  "net_amount": "3037.71",
+  "vat_amount": "698.68"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "3736.39",
+   "net_amount": "3037.71",
+   "vat_amount": "698.68",
+   "vat_rate": "23"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2026-02-10",
+ "conclusion_place": "Ostrów Mazowiecka",
+ "contract_type": "specific_work",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "70/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "133",
+     "city": "Biała Podlaska",
+     "country": null,
+     "postal_code": "70-460",
+     "street": "Majowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Gabinety Przemysław Kaszkowiak",
+    "nip": "0008525914",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zamawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "151",
+     "city": "Sieradz",
+     "country": null,
+     "postal_code": "44-110",
+     "street": "Chopina",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Julita Szoka",
+    "nip": null,
+    "pesel": "16141361557",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wykonawca"
+  }
+ ],
+ "payment_account": "PL23000000000776485547382395",
+ "remuneration": {
+  "amount": "23800.00",
+  "amount_in_words": "dwadzieścia trzy tysiące osiemset złotych 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Wykonawca zobowiązuje się do wykonania na rzecz Zamawiającego dzieła polegającego na opracowaniu i przekazaniu dokumentacji projektowej, zwanego dalej „Dziełem”, zgodnie z opisem i wytycznymi Zamawiającego.",
+ "term": {
+  "end_date": "2026-05-07",
+  "indefinite": false,
+  "notice_period": "14 dni",
+  "start_date": "2026-02-17"
+ },
+ "title": "UMOWA O DZIEŁO NR 70/2026"
+}

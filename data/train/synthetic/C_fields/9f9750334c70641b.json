@@ -1,0 +1,66 @@
+{
+ "conclusion_date": "2026-07-13",
+ "conclusion_place": "Koło",
+ "contract_type": "sale",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "U/007/2026",
+ "parties": [
+  {
+   "id_document": "IMN355515",
+   "party": {
+    "address": {
+     "building_no": "77",
+     "city": "Oświęcim",
+     "country": null,
+     "postal_code": "86-838",
+     "street": "Pułaskiego",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Konrad Mzyk",
+    "nip": null,
+    "pesel": "55201996650",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Sprzedawca"
+  },
+  {
+   "id_document": "CNO635743",
+   "party": {
+    "address": {
+     "building_no": "143",
+     "city": "Olsztyn",
+     "country": null,
+     "postal_code": "24-175",
+     "street": "Górna",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Marcelina Wawrzynek",
+    "nip": null,
+    "pesel": "91151044940",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Kupujący"
+  }
+ ],
+ "payment_account": "PL09000000001663483259111207",
+ "remuneration": {
+  "amount": "49000.00",
+  "amount_in_words": "czterdzieści dziewięć tysięcy złotych 00 gr",
+  "basis": null,
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": false,
+ "subject": "Sprzedawca sprzedaje, a Kupujący kupuje rzecz ruchomą, której szczegółowy opis, stan techniczny i wyposażenie strony określają w załączniku nr 1 do umowy.",
+ "term": null,
+ "title": "UMOWA SPRZEDAŻY NR U/007/2026"
+}

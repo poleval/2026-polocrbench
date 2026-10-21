@@ -1,0 +1,98 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "146",
+   "city": "Piła",
+   "country": null,
+   "postal_code": "83-216",
+   "street": "Wiklinowa",
+   "unit_no": "67"
+  },
+  "krs": null,
+  "name": "Cuch Sp. z o.o.",
+  "nip": "0007057285",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "proforma",
+ "issue_date": "2025-05-16",
+ "issue_place": "Wołomin",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Ekspres ciśnieniowy do kawy",
+   "discount": null,
+   "gross_amount": "8038.54",
+   "line_no": 1,
+   "net_amount": "6535.40",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "3267.70",
+   "vat_amount": "1503.14",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Zmywarka do naczyń 60 cm",
+   "discount": null,
+   "gross_amount": "6660.45",
+   "line_no": 2,
+   "net_amount": "5415.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "1805.00",
+   "vat_amount": "1245.45",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "PF/2025/0548",
+ "payment": {
+  "bank_account": "PL63000000009987602997362740",
+  "bank_name": "Bank Starego Rynku",
+  "due_date": null,
+  "due_days": 14,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2025-05-09",
+ "seller": {
+  "address": {
+   "building_no": "74",
+   "city": "Knurów",
+   "country": null,
+   "postal_code": "11-085",
+   "street": "Szafirowa",
+   "unit_no": "35"
+  },
+  "krs": null,
+  "name": "FPUH Ryszard Rusiniak",
+  "nip": "0006592823",
+  "pesel": null,
+  "regon": "004501940",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": null,
+  "amount_in_words": "czternaście tysięcy sześćset dziewięćdziesiąt osiem złotych 99 gr",
+  "amount_paid": null,
+  "gross_amount": "14698.99",
+  "net_amount": "11950.40",
+  "vat_amount": "2748.59"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "14698.99",
+   "net_amount": "11950.40",
+   "vat_amount": "2748.59",
+   "vat_rate": "23"
+  }
+ ]
+}

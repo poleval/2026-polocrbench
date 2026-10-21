@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "GN.4826.24.2025.RL",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6 ust. 2 ustawy o petycjach",
+  "art. 6 ust. 1 ustawy o petycjach"
+ ],
+ "letter_date": "2025-02-05",
+ "letter_place": "Iłża",
+ "letter_type": "information",
+ "recipient": {
+  "address": {
+   "building_no": "5",
+   "city": "Będzin",
+   "country": null,
+   "postal_code": "04-714",
+   "street": "Zielona",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Gabinety Organiściak S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "43A",
+   "city": "Iłża",
+   "country": null,
+   "postal_code": "77-839",
+   "street": "Stawowa",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Iłży",
+  "epuap": null,
+  "nip": "0000395458",
+  "regon": "001516295",
+  "unit": "Wydział Organizacyjny"
+ },
+ "signatory": {
+  "full_name": "Olga Kośka",
+  "role": "Burmistrz"
+ },
+ "subject": "sposób załatwienia petycji złożonej w dniu 28.12.2024 o zagospodarowanie nieruchomości oznaczonej numerem działki 514/19"
+}

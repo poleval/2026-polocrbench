@@ -1,0 +1,62 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze w Lublinie": [
+   "Samorządowego Kolegium Odwoławczego w Lublinie"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Lublinie",
+ "attachments_count": null,
+ "case_ref": "GN.4041.148.2025.KU",
+ "deadline": {
+  "action": "wniesienia zażalenia",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": "odmówić wszczęcia postępowania administracyjnego.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 61a § 1 k.p.a.",
+  "art. 61a § 2 k.p.a.",
+  "art. 61a § 3 k.p.a.",
+  "art. 141 § 2 k.p.a."
+ ],
+ "letter_date": "2025-04-29",
+ "letter_place": "Szastarka",
+ "letter_type": "order",
+ "recipient": {
+  "address": {
+   "building_no": "147",
+   "city": "Ciechanów",
+   "country": null,
+   "postal_code": "73-312",
+   "street": "Promienna",
+   "unit_no": "89"
+  },
+  "krs": null,
+  "name": "Fundacja Roskosz",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "27",
+   "city": "Szastarka",
+   "country": null,
+   "postal_code": "71-554",
+   "street": "Waryńskiego",
+   "unit_no": null
+  },
+  "authority_name": "Wójt Gminy Szastarka",
+  "epuap": "/WGSzastarka/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Referat Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Róża Tadla",
+  "role": "Wójt Gminy"
+ },
+ "subject": "odmowa wszczęcia postępowania administracyjnego o stwierdzenie nieważności umowy sprzedaży działki ewidencyjnej nr 909/18"
+}

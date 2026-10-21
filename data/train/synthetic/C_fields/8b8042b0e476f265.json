@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "BUD.7633.212.2026.NJ",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6k ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6x ustawy o utrzymaniu czystości i porządku w gminach"
+ ],
+ "letter_date": "2026-06-18",
+ "letter_place": "Milicz",
+ "letter_type": "information",
+ "recipient": {
+  "address": {
+   "building_no": "120",
+   "city": "Kościan",
+   "country": null,
+   "postal_code": "21-537",
+   "street": "Floriana",
+   "unit_no": "37"
+  },
+  "krs": null,
+  "name": "Dorota Krzyśków",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "25",
+   "city": "Milicz",
+   "country": null,
+   "postal_code": "40-198",
+   "street": "Kwiatowa",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Milicza",
+  "epuap": "/BMMilicz/SkrytkaESP",
+  "nip": "0001157910",
+  "regon": null,
+  "unit": "Wydział Gospodarki Komunalnej i Ochrony Środowiska"
+ },
+ "signatory": {
+  "full_name": "Ksawery Raba",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "wysokość opłaty za gospodarowanie odpadami komunalnymi dla nieruchomości położonej na działce ewidencyjnej nr 830/16"
+}

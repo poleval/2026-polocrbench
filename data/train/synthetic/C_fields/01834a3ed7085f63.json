@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "BUD.4769.6.2026",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 217 § 1 k.p.a.",
+  "art. 4 ust. 1 ustawy o planowaniu i zagospodarowaniu przestrzennym",
+  "art. 20 ust. 1 ustawy o planowaniu i zagospodarowaniu przestrzennym",
+  "art. 217 § 2 k.p.a.",
+  "art. 220 k.p.a.",
+  "art. 219 k.p.a."
+ ],
+ "letter_date": "2026-05-24",
+ "letter_place": "Młynary",
+ "letter_type": "certificate",
+ "recipient": {
+  "address": {
+   "building_no": "139",
+   "city": "Mikołów",
+   "country": null,
+   "postal_code": "27-250",
+   "street": "Tartaczna",
+   "unit_no": "43"
+  },
+  "krs": null,
+  "name": "Alex Duszczak",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "160",
+   "city": "Młynary",
+   "country": null,
+   "postal_code": "95-966",
+   "street": "Bolesława Krzywoustego",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Młynar",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Architektury i Planowania Przestrzennego"
+ },
+ "signatory": {
+  "full_name": "Janina Ceran",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "przeznaczenia działki ewidencyjnej nr 824/30 w miejscowym planie zagospodarowania przestrzennego"
+}

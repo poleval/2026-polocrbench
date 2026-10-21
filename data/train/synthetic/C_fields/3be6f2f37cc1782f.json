@@ -1,0 +1,84 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "8",
+   "city": "Iława",
+   "country": null,
+   "postal_code": "23-494",
+   "street": "Zakole",
+   "unit_no": "83"
+  },
+  "krs": null,
+  "name": "Bojczuk Sp. z o.o.",
+  "nip": "0006518614",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-05-24",
+ "issue_place": "Warszawa",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Doradztwo podatkowe",
+   "discount": null,
+   "gross_amount": "762.60",
+   "line_no": 1,
+   "net_amount": "620.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "h",
+   "unit_price_gross": null,
+   "unit_price_net": "310.00",
+   "vat_amount": "142.60",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "634/05/2025",
+ "payment": {
+  "bank_account": "PL92000000001314082163655452",
+  "bank_name": null,
+  "due_date": "2025-06-14",
+  "due_days": null,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2025-05-21",
+ "seller": {
+  "address": {
+   "building_no": "159",
+   "city": "Ostrów Mazowiecka",
+   "country": null,
+   "postal_code": "51-050",
+   "street": "Żeromskiego",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Gabinety Dorota Tylus",
+  "nip": "0008383897",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": null,
+  "amount_in_words": "siedemset sześćdziesiąt dwa złote 60/100",
+  "amount_paid": null,
+  "gross_amount": "762.60",
+  "net_amount": "620.00",
+  "vat_amount": "142.60"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "762.60",
+   "net_amount": "620.00",
+   "vat_amount": "142.60",
+   "vat_rate": "23"
+  }
+ ]
+}

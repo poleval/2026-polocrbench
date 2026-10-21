@@ -1,0 +1,132 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "159",
+   "city": "Szczecinek",
+   "country": null,
+   "postal_code": "91-423",
+   "street": "Wróblewskiego",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Ośko S.A.",
+  "nip": "0008995471",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-07-09",
+ "issue_place": null,
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Wypożyczenie sprzętu narciarskiego",
+   "discount": null,
+   "gross_amount": "62.73",
+   "line_no": 1,
+   "net_amount": "51.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "kpl.",
+   "unit_price_gross": null,
+   "unit_price_net": "51.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Szampon przeciwłupieżowy 200 ml",
+   "discount": null,
+   "gross_amount": "258.73",
+   "line_no": 2,
+   "net_amount": "210.35",
+   "pkwiu_or_gtu": null,
+   "quantity": "7",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "30.05",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Blender ręczny 800 W",
+   "discount": null,
+   "gross_amount": "608.85",
+   "line_no": 3,
+   "net_amount": "495.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "165.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Usługa orki pola",
+   "discount": null,
+   "gross_amount": "871.56",
+   "line_no": 4,
+   "net_amount": "807.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "h",
+   "unit_price_gross": null,
+   "unit_price_net": "269.00",
+   "vat_amount": null,
+   "vat_rate": "8"
+  }
+ ],
+ "number": "FV/2025/07/0666",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "cash"
+ },
+ "recipient": null,
+ "sale_date": "2025-07-03",
+ "seller": {
+  "address": {
+   "building_no": "54",
+   "city": "Starachowice",
+   "country": null,
+   "postal_code": "96-490",
+   "street": "Willowa",
+   "unit_no": "3"
+  },
+  "krs": null,
+  "name": "Stowarzyszenie Lukas",
+  "nip": "0006831794",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "0.00",
+  "amount_in_words": "tysiąc osiemset jeden zł 87/100",
+  "amount_paid": "1801.87",
+  "gross_amount": "1801.87",
+  "net_amount": "1563.35",
+  "vat_amount": "238.52"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "930.31",
+   "net_amount": "756.35",
+   "vat_amount": "173.96",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "871.56",
+   "net_amount": "807.00",
+   "vat_amount": "64.56",
+   "vat_rate": "8"
+  }
+ ]
+}

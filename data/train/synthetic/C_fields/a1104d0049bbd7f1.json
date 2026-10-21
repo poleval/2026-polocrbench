@@ -1,0 +1,126 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "95",
+   "city": "Brzeg",
+   "country": null,
+   "postal_code": "69-722",
+   "street": "Wiklinowa",
+   "unit_no": "37"
+  },
+  "krs": null,
+  "name": "Kempka-Nitkiewicz S.A.",
+  "nip": "0007642061",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-06-15",
+ "issue_place": "Krosno",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Skład i łamanie publikacji",
+   "discount": null,
+   "gross_amount": "535.05",
+   "line_no": 1,
+   "net_amount": "435.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "435.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Projekt graficzny logo",
+   "discount": null,
+   "gross_amount": "703.40",
+   "line_no": 2,
+   "net_amount": "571.87",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "571.87",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Naklejka samoprzylepna wycinana",
+   "discount": null,
+   "gross_amount": "41.82",
+   "line_no": 3,
+   "net_amount": "34.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "0.5",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "68.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Fototapeta ścienna z nadrukiem UV",
+   "discount": null,
+   "gross_amount": "496.92",
+   "line_no": 4,
+   "net_amount": "404.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "202.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FV/2026/06/0404",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "card"
+ },
+ "recipient": null,
+ "sale_date": "2026-06-07",
+ "seller": {
+  "address": {
+   "building_no": "26",
+   "city": "Ostróda",
+   "country": null,
+   "postal_code": "30-008",
+   "street": "Szewska",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Gabinety Jama S.A.",
+  "nip": "0006244513",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "0.00",
+  "amount_in_words": "tysiąc siedemset siedemdziesiąt siedem złotych 19 gr",
+  "amount_paid": "1777.19",
+  "gross_amount": "1777.19",
+  "net_amount": "1444.87",
+  "vat_amount": "332.32"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "1777.19",
+   "net_amount": "1444.87",
+   "vat_amount": "332.32",
+   "vat_rate": "23"
+  }
+ ]
+}

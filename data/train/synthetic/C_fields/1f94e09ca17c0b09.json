@@ -1,0 +1,166 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "117",
+   "city": "Wałbrzych",
+   "country": null,
+   "postal_code": "33-408",
+   "street": "Wiatraczna",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Gabinety Elżbieta Białasik",
+  "nip": "0003938557",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-04-02",
+ "issue_place": "Opole",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Transport płodów rolnych",
+   "discount": null,
+   "gross_amount": "57.20",
+   "line_no": 1,
+   "net_amount": "46.50",
+   "pkwiu_or_gtu": null,
+   "quantity": "12.5",
+   "unit": "km",
+   "unit_price_gross": null,
+   "unit_price_net": "3.72",
+   "vat_amount": "10.70",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Skrzynka plastikowa na owoce",
+   "discount": null,
+   "gross_amount": "38.13",
+   "line_no": 2,
+   "net_amount": "31.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "31.00",
+   "vat_amount": "7.13",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Podłoże torfowe do upraw",
+   "discount": null,
+   "gross_amount": "2123.06",
+   "line_no": 3,
+   "net_amount": "1965.80",
+   "pkwiu_or_gtu": null,
+   "quantity": "5",
+   "unit": "m3",
+   "unit_price_gross": null,
+   "unit_price_net": "393.16",
+   "vat_amount": "157.26",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Ziemniaki jadalne luz",
+   "discount": null,
+   "gross_amount": "24.15",
+   "line_no": 4,
+   "net_amount": "23.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "10",
+   "unit": "kg",
+   "unit_price_gross": null,
+   "unit_price_net": "2.30",
+   "vat_amount": "1.15",
+   "vat_rate": "5"
+  },
+  {
+   "description": "Nasiona pszenicy ozimej kwalifikowane",
+   "discount": null,
+   "gross_amount": "14.26",
+   "line_no": 5,
+   "net_amount": "13.20",
+   "pkwiu_or_gtu": null,
+   "quantity": "5",
+   "unit": "kg",
+   "unit_price_gross": null,
+   "unit_price_net": "2.64",
+   "vat_amount": "1.06",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Kwiaty cięte szklarniowe",
+   "discount": null,
+   "gross_amount": "3.03",
+   "line_no": 6,
+   "net_amount": "2.81",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "2.81",
+   "vat_amount": "0.22",
+   "vat_rate": "8"
+  }
+ ],
+ "number": "FA/0106/26",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "cash"
+ },
+ "recipient": null,
+ "sale_date": "2026-03-29",
+ "seller": {
+  "address": {
+   "building_no": "108",
+   "city": "Kwidzyn",
+   "country": null,
+   "postal_code": "08-762",
+   "street": "Prusa",
+   "unit_no": "10"
+  },
+  "krs": null,
+  "name": "Bicz-Nurek Sp. z o.o.",
+  "nip": "0006362247",
+  "pesel": null,
+  "regon": "000787566",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "2259.83",
+  "amount_in_words": "dwa tysiące dwieście pięćdziesiąt dziewięć złotych 83 gr",
+  "amount_paid": null,
+  "gross_amount": "2259.83",
+  "net_amount": "2082.31",
+  "vat_amount": "177.52"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "95.33",
+   "net_amount": "77.50",
+   "vat_amount": "17.83",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "2140.35",
+   "net_amount": "1981.81",
+   "vat_amount": "158.54",
+   "vat_rate": "8"
+  },
+  {
+   "gross_amount": "24.15",
+   "net_amount": "23.00",
+   "vat_amount": "1.15",
+   "vat_rate": "5"
+  }
+ ]
+}

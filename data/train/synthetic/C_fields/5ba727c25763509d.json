@@ -1,0 +1,55 @@
+{
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Elblągu",
+ "attachments_count": null,
+ "case_ref": "SO.6595.91.2025.BV",
+ "deadline": {
+  "action": "wniesienie odwołania",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": "Strona Groth-Kościk S.A. podlega wymeldowaniu z pobytu stałego.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 35 ust. 1 ustawy o ewidencji ludności",
+  "art. 104 k.p.a."
+ ],
+ "letter_date": "2025-01-26",
+ "letter_place": "Elbląg",
+ "letter_type": "decision",
+ "recipient": {
+  "address": {
+   "building_no": "94",
+   "city": "Lublin",
+   "country": null,
+   "postal_code": "86-498",
+   "street": "Bolesława Chrobrego",
+   "unit_no": "18"
+  },
+  "krs": null,
+  "name": "Groth-Kościk S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "146",
+   "city": "Elbląg",
+   "country": null,
+   "postal_code": "79-639",
+   "street": "Glówna",
+   "unit_no": "2"
+  },
+  "authority_name": "Prezydent Miasta Elbląga",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Spraw Obywatelskich i Ewidencji Ludności"
+ },
+ "signatory": {
+  "full_name": "Natasza Merchel",
+  "role": "Prezydent Miasta"
+ },
+ "subject": "wymeldowanie z pobytu stałego"
+}

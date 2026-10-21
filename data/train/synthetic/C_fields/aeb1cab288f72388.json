@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "BUD.5131.81.2026.GJ",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 306a ustawy – Ordynacja podatkowa",
+  "art. 306b ustawy – Ordynacja podatkowa"
+ ],
+ "letter_date": "2026-06-21",
+ "letter_place": "Mielno",
+ "letter_type": "certificate",
+ "recipient": {
+  "address": {
+   "building_no": "122",
+   "city": "Luboń",
+   "country": null,
+   "postal_code": "80-177",
+   "street": "Wojciecha",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Dominik Zaranek",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "139",
+   "city": "Mielno",
+   "country": null,
+   "postal_code": "88-978",
+   "street": "Władysława Łokietka",
+   "unit_no": "35"
+  },
+  "authority_name": "Burmistrz Miasta Mielna",
+  "epuap": "/BMMielno/SkrytkaESP",
+  "nip": null,
+  "regon": "006542794",
+  "unit": "Wydział Finansów, Referat Podatków i Opłat Lokalnych"
+ },
+ "signatory": {
+  "full_name": "Oskar Job",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "niezalegania w podatkach lokalnych"
+}

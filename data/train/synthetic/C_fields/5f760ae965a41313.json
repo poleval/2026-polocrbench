@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "GN.7343.77.2026",
+ "deadline": {
+  "action": "usunięcia wskazanych braków",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 64 § 1 k.p.a.",
+  "art. 64 § 2 k.p.a."
+ ],
+ "letter_date": "2026-07-27",
+ "letter_place": "Bystrzyca Kłodzka",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "123B",
+   "city": "Skarżysko-Kamienna",
+   "country": null,
+   "postal_code": "04-862",
+   "street": "Kielecka",
+   "unit_no": "75"
+  },
+  "krs": null,
+  "name": "Jan Ropiak",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "132",
+   "city": "Bystrzyca Kłodzka",
+   "country": null,
+   "postal_code": "15-916",
+   "street": "Zakole",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Bystrzycy Kłodzkiej",
+  "epuap": "/UMBystrzycaKlodzka/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Spraw Administracyjnych"
+ },
+ "signatory": {
+  "full_name": "Nikodem Ryszkiewicz",
+  "role": "Kierownik Wydziału Spraw Administracyjnych"
+ },
+ "subject": "uzupełnienie braków formalnych wniosku z dnia 23.07.2026 o wydanie decyzji administracyjnej dla działki nr 231/14"
+}

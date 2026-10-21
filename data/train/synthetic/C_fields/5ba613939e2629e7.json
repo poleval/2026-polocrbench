@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2025-05-26",
+ "conclusion_place": "Lublin",
+ "contract_type": "employment",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Warszawy-Mokotowa w Warszawie",
+ "number": "47/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "69",
+     "city": "Olsztyn",
+     "country": null,
+     "postal_code": "09-898",
+     "street": "Andersa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Gabinety Sara Fiedorczuk",
+    "nip": "0009131815",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Pracodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "28",
+     "city": "Ruda Śląska",
+     "country": null,
+     "postal_code": "05-052",
+     "street": "Korczaka",
+     "unit_no": "15"
+    },
+    "krs": null,
+    "name": "Ewelina Dłubak",
+    "nip": null,
+    "pesel": "88131558469",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pracownik"
+  }
+ ],
+ "payment_account": "PL37000000006909837331188570",
+ "remuneration": {
+  "amount": "8200.00",
+  "amount_in_words": "osiem tysięcy dwieście złotych 00 gr",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Pracodawca zatrudnia Pracownika na stanowisku pracownika biurowego, w pełnym wymiarze czasu pracy, na czas określony.",
+ "term": {
+  "end_date": "2025-09-27",
+  "indefinite": false,
+  "notice_period": "dwa tygodnie",
+  "start_date": "2025-05-30"
+ },
+ "title": "UMOWA O PRACĘ NR 47/2025"
+}

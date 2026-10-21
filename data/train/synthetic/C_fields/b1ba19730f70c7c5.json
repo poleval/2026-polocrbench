@@ -1,0 +1,53 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "OR.3510.94.2025.JS",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 61 § 1 i 4 k.p.a.",
+  "art. 10 § 1 k.p.a.",
+  "art. 73 § 1 k.p.a.",
+  "art. 41 § 1 k.p.a."
+ ],
+ "letter_date": "2025-05-17",
+ "letter_place": "Serock",
+ "letter_type": "notification",
+ "recipient": {
+  "address": {
+   "building_no": "20",
+   "city": "Głogów",
+   "country": null,
+   "postal_code": "46-353",
+   "street": "Młyńska",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Fabian Kyc",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "98",
+   "city": "Serock",
+   "country": null,
+   "postal_code": "51-534",
+   "street": "Krasickiego",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Serocka",
+  "epuap": "/BMSerock/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Przestrzennej i Architektury"
+ },
+ "signatory": {
+  "full_name": "Ignacy Nesterowicz",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "wszczęcie postępowania administracyjnego dotyczącego wydania decyzji o warunkach zabudowy"
+}

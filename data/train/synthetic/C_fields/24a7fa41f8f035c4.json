@@ -1,0 +1,154 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "146B",
+   "city": "Sieradz",
+   "country": null,
+   "postal_code": "72-178",
+   "street": "Niepodległości",
+   "unit_no": "60"
+  },
+  "krs": null,
+  "name": "FPUH Olgierd Plaskota",
+  "nip": "0009966543",
+  "pesel": null,
+  "regon": "004654282",
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-01-18",
+ "issue_place": "Mińsk Mazowiecki",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Przegląd serwisowy okresowy",
+   "discount": null,
+   "gross_amount": "1850.04",
+   "line_no": 1,
+   "net_amount": "1504.10",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "752.05",
+   "vat_amount": "345.94",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Filtr powietrza silnika",
+   "discount": null,
+   "gross_amount": "341.94",
+   "line_no": 2,
+   "net_amount": "278.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "139.00",
+   "vat_amount": "63.94",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Płyn hamulcowy DOT-4",
+   "discount": null,
+   "gross_amount": "118.57",
+   "line_no": 3,
+   "net_amount": "96.40",
+   "pkwiu_or_gtu": null,
+   "quantity": "2.5",
+   "unit": "l",
+   "unit_price_gross": null,
+   "unit_price_net": "38.56",
+   "vat_amount": "22.17",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Końcówka drążka kierowniczego",
+   "discount": null,
+   "gross_amount": "787.00",
+   "line_no": 4,
+   "net_amount": "639.84",
+   "pkwiu_or_gtu": null,
+   "quantity": "6",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "106.64",
+   "vat_amount": "147.16",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Diagnostyka komputerowa pojazdu",
+   "discount": null,
+   "gross_amount": "254.41",
+   "line_no": 5,
+   "net_amount": "206.84",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "206.84",
+   "vat_amount": "47.57",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Klocki hamulcowe przednie",
+   "discount": null,
+   "gross_amount": "1217.70",
+   "line_no": 6,
+   "net_amount": "990.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "kpl.",
+   "unit_price_gross": null,
+   "unit_price_net": "330.00",
+   "vat_amount": "227.70",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FV/2026/01/0811",
+ "payment": {
+  "bank_account": "PL26000000005637217284102833",
+  "bank_name": "Bank Nadmorskiej Bryzy",
+  "due_date": null,
+  "due_days": 30,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2026-01-10",
+ "seller": {
+  "address": {
+   "building_no": "22",
+   "city": "Ruda Śląska",
+   "country": null,
+   "postal_code": "38-181",
+   "street": "Reja",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Gabinety Blanka Klamka",
+  "nip": "0009775211",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "4569.66",
+  "amount_in_words": "cztery tysiące pięćset sześćdziesiąt dziewięć złotych 66/100",
+  "amount_paid": null,
+  "gross_amount": "4569.66",
+  "net_amount": "3715.18",
+  "vat_amount": "854.48"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "4569.66",
+   "net_amount": "3715.18",
+   "vat_amount": "854.48",
+   "vat_rate": "23"
+  }
+ ]
+}

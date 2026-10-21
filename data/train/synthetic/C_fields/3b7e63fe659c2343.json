@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2025-10-19",
+ "conclusion_place": "Ostrów Wielkopolski",
+ "contract_type": "b2b",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "U/999/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "26C",
+     "city": "Swarzędz",
+     "country": null,
+     "postal_code": "76-871",
+     "street": "Lisia",
+     "unit_no": "27"
+    },
+    "krs": "0099999999",
+    "name": "Kolonko Sp. z o.o.",
+    "nip": "0009303771",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Filip Linka",
+     "role": "Wiceprezes zarządu"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "5",
+     "city": "Łomża",
+     "country": null,
+     "postal_code": "40-508",
+     "street": "Kolejowa",
+     "unit_no": "27"
+    },
+    "krs": null,
+    "name": "PPUH Robert Hermanowicz",
+    "nip": "0002003273",
+    "pesel": null,
+    "regon": "003205010",
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Wykonawca"
+  }
+ ],
+ "payment_account": "PL49000000003707774060196699",
+ "remuneration": {
+  "amount": "6400.00",
+  "amount_in_words": "sześć tysięcy czterysta złotych 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Zleceniodawca powierza, a Wykonawca przyjmuje do wykonania, w ramach prowadzonej działalności gospodarczej, usługi doradcze i wdrożeniowe w zakresie wskazanym w załączniku nr 1 do Umowy.",
+ "term": {
+  "end_date": "2025-12-02",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-11-01"
+ },
+ "title": "UMOWA O WSPÓŁPRACY B2B NR U/999/2025"
+}

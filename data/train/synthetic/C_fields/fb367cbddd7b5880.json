@@ -1,0 +1,57 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "PS.6895.152.2025.JP",
+ "deadline": {
+  "action": "zawiadomić organ o przyczynie niemożności stawienia się",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 50 § 1 k.p.a.",
+  "art. 54 § 1 k.p.a.",
+  "art. 88 § 1 pkt 1 k.p.a.",
+  "art. 88 § 2 k.p.a."
+ ],
+ "letter_date": "2025-04-27",
+ "letter_place": "Gorzów Wielkopolski",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "148",
+   "city": "Piastów",
+   "country": null,
+   "postal_code": "75-368",
+   "street": "Rzeczna",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Barszczak Sp. z o.o.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "8",
+   "city": "Gorzów Wielkopolski",
+   "country": null,
+   "postal_code": "33-334",
+   "street": "Szeroka",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Gorzowa Wielkopolskiego",
+  "epuap": null,
+  "nip": null,
+  "regon": "004620863",
+  "unit": "Wydział Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Cyprian Babij",
+  "role": "Naczelnik Wydziału Gospodarki Nieruchomościami"
+ },
+ "subject": "stawiennictwo w urzędzie w celu złożenia wyjaśnień i przedstawienia dokumentów odnoszących się do działki ewidencyjnej nr 552/30"
+}

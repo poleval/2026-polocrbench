@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "OŚ.4826.49.2026.BL",
+ "deadline": {
+  "action": "usunięcia wskazanych braków",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 64 § 1 k.p.a.",
+  "art. 64 § 2 k.p.a."
+ ],
+ "letter_date": "2026-08-26",
+ "letter_place": "Kielce",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "47",
+   "city": "Śrem",
+   "country": null,
+   "postal_code": "41-927",
+   "street": "Baczynskiego",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Grosz-Jankowicz S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "141",
+   "city": "Kielce",
+   "country": null,
+   "postal_code": "32-127",
+   "street": "Dolna",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Kielc",
+  "epuap": "/UMKielce/SkrytkaESP",
+  "nip": null,
+  "regon": "005379211",
+  "unit": "Wydział Spraw Administracyjnych"
+ },
+ "signatory": {
+  "full_name": "Sebastian Sito",
+  "role": "Kierownik Wydziału Spraw Administracyjnych"
+ },
+ "subject": "uzupełnienie braków formalnych wniosku z dnia 2026-07-17 o wydanie decyzji administracyjnej dla działki nr 850/2"
+}

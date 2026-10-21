@@ -1,0 +1,54 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "OR.5080.96.2025.NS",
+ "deadline": {
+  "action": "uiścić zaległy podatek od środków transportowych wraz z odsetkami za zwłokę",
+  "date": "2025-07-14",
+  "days": null
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 15 § 1 ustawy o postępowaniu egzekucyjnym w administracji"
+ ],
+ "letter_date": "2025-06-26",
+ "letter_place": "Kazimierz Dolny",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "18B",
+   "city": "Ruda Śląska",
+   "country": null,
+   "postal_code": "80-895",
+   "street": "Zamkowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Ada Cudzich",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "109",
+   "city": "Kazimierz Dolny",
+   "country": null,
+   "postal_code": "30-533",
+   "street": "Mickiewicza",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Kazimierza Dolnego",
+  "epuap": "/UMKazimierzDolny/SkrytkaESP",
+  "nip": "0005014053",
+  "regon": null,
+  "unit": "Wydział Podatków i Opłat"
+ },
+ "signatory": {
+  "full_name": "Klara Skonieczka",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "zapłata zaległego podatku od środków transportowych"
+}

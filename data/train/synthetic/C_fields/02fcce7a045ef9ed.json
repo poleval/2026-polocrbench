@@ -1,0 +1,84 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "134",
+   "city": "Turek",
+   "country": null,
+   "postal_code": "39-992",
+   "street": "Lotnicza",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "FPUH Dorota Siudek",
+  "nip": "0007489412",
+  "pesel": null,
+  "regon": "002975935",
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-04-29",
+ "issue_place": "Łowicz",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Szkolenie z cyberbezpieczeństwa dla pracowników",
+   "discount": null,
+   "gross_amount": "1045.44",
+   "line_no": 1,
+   "net_amount": "849.95",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "849.95",
+   "vat_amount": null,
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FV/2026/04/0941",
+ "payment": {
+  "bank_account": "PL97000000005499010449387391",
+  "bank_name": null,
+  "due_date": null,
+  "due_days": 7,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2026-04-28",
+ "seller": {
+  "address": {
+   "building_no": "32",
+   "city": "Śrem",
+   "country": null,
+   "postal_code": "43-703",
+   "street": "Odrzańska",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "FPUH Sandra Janasik",
+  "nip": "0003965471",
+  "pesel": null,
+  "regon": "002861640",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "1045.44",
+  "amount_in_words": null,
+  "amount_paid": null,
+  "gross_amount": "1045.44",
+  "net_amount": "849.95",
+  "vat_amount": "195.49"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "1045.44",
+   "net_amount": "849.95",
+   "vat_amount": "195.49",
+   "vat_rate": "23"
+  }
+ ]
+}

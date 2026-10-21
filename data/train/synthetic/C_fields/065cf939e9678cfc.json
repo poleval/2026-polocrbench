@@ -1,0 +1,98 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "123",
+   "city": "Zabrze",
+   "country": null,
+   "postal_code": "70-381",
+   "street": "Żeglarska",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "PPUH Koczy S.A.",
+  "nip": "0007245495",
+  "pesel": null,
+  "regon": "001429076",
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "proforma",
+ "issue_date": "2025-09-28",
+ "issue_place": "Ciechanów",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Telewizor 55 cali 4K",
+   "discount": null,
+   "gross_amount": "3762.63",
+   "line_no": 1,
+   "net_amount": "3059.05",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "3059.05",
+   "vat_amount": "703.58",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Pralka automatyczna 8 kg",
+   "discount": null,
+   "gross_amount": "3721.98",
+   "line_no": 2,
+   "net_amount": "3026.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "3026.00",
+   "vat_amount": "695.98",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "PRO/18/2025",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "card"
+ },
+ "recipient": null,
+ "sale_date": null,
+ "seller": {
+  "address": {
+   "building_no": "73",
+   "city": "Gdańsk",
+   "country": null,
+   "postal_code": "22-003",
+   "street": "Brzechwy",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Siatka S.A.",
+  "nip": "0003147672",
+  "pesel": null,
+  "regon": "005543538",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "0.00",
+  "amount_in_words": "siedem tysięcy czterysta osiemdziesiąt cztery złote 61/100",
+  "amount_paid": "7484.61",
+  "gross_amount": "7484.61",
+  "net_amount": "6085.05",
+  "vat_amount": "1399.56"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "7484.61",
+   "net_amount": "6085.05",
+   "vat_amount": "1399.56",
+   "vat_rate": "23"
+  }
+ ]
+}

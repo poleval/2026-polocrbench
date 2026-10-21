@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "PS.3525.51.2025",
+ "deadline": {
+  "action": "złożenie deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi",
+  "date": "2025-05-20",
+  "days": null
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6m ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 64 § 2 k.p.a."
+ ],
+ "letter_date": "2025-05-11",
+ "letter_place": "Lębork",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "16",
+   "city": "Wrocław",
+   "country": null,
+   "postal_code": "30-097",
+   "street": "Szmaragdowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Anna Maria Leszczuk",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "83",
+   "city": "Lębork",
+   "country": null,
+   "postal_code": "93-706",
+   "street": "Kalinowa",
+   "unit_no": "9"
+  },
+  "authority_name": "Burmistrz Miasta Lęborka",
+  "epuap": "/BMLebork/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Odpadami i Ochrony Środowiska"
+ },
+ "signatory": {
+  "full_name": "Mikołaj Franas",
+  "role": "Burmistrz"
+ },
+ "subject": "złożenia deklaracji o wysokości opłaty za gospodarowanie odpadami komunalnymi"
+}

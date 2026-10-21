@@ -1,0 +1,56 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "BUD.4158.249.2025",
+ "deadline": {
+  "action": "uzupełnić braki formalne wniosku",
+  "date": "2025-02-14",
+  "days": null
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 64 § 2 k.p.a.",
+  "art. 83a ust. 2 ustawy o ochronie przyrody",
+  "art. 83a ust. 3 ustawy o ochronie przyrody"
+ ],
+ "letter_date": "2025-01-25",
+ "letter_place": "Ciechanowiec",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "157",
+   "city": "Bydgoszcz",
+   "country": null,
+   "postal_code": "50-437",
+   "street": "Ludowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Fundacja Kliber-Doroz",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "142",
+   "city": "Ciechanowiec",
+   "country": null,
+   "postal_code": "33-856",
+   "street": "Słowianska",
+   "unit_no": "12"
+  },
+  "authority_name": "Urząd Miasta Ciechanowca",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Ochrony Środowiska i Gospodarki Komunalnej"
+ },
+ "signatory": {
+  "full_name": "Kamil Hankiewicz",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "uzupełnienia braków formalnych wniosku o wydanie zezwolenia na usunięcie drzew"
+}

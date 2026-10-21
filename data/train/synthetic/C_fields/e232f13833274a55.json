@@ -1,0 +1,50 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "FN.7149.194.2025.DZ",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 10 § 1 k.p.a."
+ ],
+ "letter_date": "2025-10-20",
+ "letter_place": "Pruszcz Gdański",
+ "letter_type": "notification",
+ "recipient": {
+  "address": {
+   "building_no": "120A",
+   "city": "Sopot",
+   "country": null,
+   "postal_code": "94-954",
+   "street": "Grzybowa",
+   "unit_no": "16"
+  },
+  "krs": null,
+  "name": "Eryk Szatko",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "138",
+   "city": "Pruszcz Gdański",
+   "country": null,
+   "postal_code": "48-779",
+   "street": "Sienkiewicza",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Pruszcza Gdańskiego",
+  "epuap": null,
+  "nip": "0001488038",
+  "regon": null,
+  "unit": "Wydział Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Kornelia Hermanowicz",
+  "role": "Burmistrz"
+ },
+ "subject": "zakończenie zbierania materiału dowodowego – działka ewidencyjna nr 139/23"
+}

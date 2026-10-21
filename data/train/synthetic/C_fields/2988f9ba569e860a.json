@@ -1,0 +1,62 @@
+{
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Kielcach",
+ "attachments_count": null,
+ "case_ref": "OR.3673.73.2025",
+ "deadline": {
+  "action": "wniesienia odwołania",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": "ustala, że wysokość podatku od nieruchomości za 2026 r. dla strony: Oliwier Frankowicz wynosi 16523,00 zł i podatek jest płatny w terminie do dnia 27.08.2025.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 207 § 1 Ordynacji podatkowej",
+  "art. 210 § 1 Ordynacji podatkowej",
+  "art. 211 Ordynacji podatkowej",
+  "art. 2 ust. 1 pkt 1 ustawy o podatkach i opłatach lokalnych",
+  "art. 2 ust. 1 pkt 2 ustawy o podatkach i opłatach lokalnych",
+  "art. 3 ust. 1 ustawy o podatkach i opłatach lokalnych",
+  "art. 4 ust. 1 ustawy o podatkach i opłatach lokalnych",
+  "art. 5 ust. 1 ustawy o podatkach i opłatach lokalnych",
+  "art. 6 ust. 1 ustawy o podatkach i opłatach lokalnych"
+ ],
+ "letter_date": "2025-08-07",
+ "letter_place": "Jędrzejów",
+ "letter_type": "decision",
+ "recipient": {
+  "address": {
+   "building_no": "81",
+   "city": "Starogard Gdański",
+   "country": null,
+   "postal_code": "04-364",
+   "street": "Kalinowa",
+   "unit_no": "37"
+  },
+  "krs": null,
+  "name": "Oliwier Frankowicz",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "55",
+   "city": "Jędrzejów",
+   "country": null,
+   "postal_code": "43-814",
+   "street": "Sawickiej",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Jędrzejowa",
+  "epuap": "/BMJedrzejow/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Podatków i Opłat Lokalnych"
+ },
+ "signatory": {
+  "full_name": "Bianka Materek",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "wymiar podatku od nieruchomości za 2026 r."
+}

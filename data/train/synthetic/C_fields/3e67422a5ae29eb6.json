@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "RO.6487.199.2026",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6 ust. 2 ustawy o petycjach",
+  "art. 6 ust. 1 ustawy o petycjach"
+ ],
+ "letter_date": "2026-09-02",
+ "letter_place": "Tarnowskie Góry",
+ "letter_type": "information",
+ "recipient": {
+  "address": {
+   "building_no": "52",
+   "city": "Mińsk Mazowiecki",
+   "country": null,
+   "postal_code": "94-446",
+   "street": "Zapolskiej",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Eliza Karyś",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "34A",
+   "city": "Tarnowskie Góry",
+   "country": null,
+   "postal_code": "88-046",
+   "street": "Żeglarska",
+   "unit_no": "61"
+  },
+  "authority_name": "Urząd Miasta Tarnowskich Gór",
+  "epuap": "/UMTarnowskieGory/SkrytkaESP",
+  "nip": "0007394143",
+  "regon": null,
+  "unit": "Wydział Organizacyjny"
+ },
+ "signatory": {
+  "full_name": "Melania Domurad",
+  "role": "Burmistrz"
+ },
+ "subject": "sposób załatwienia petycji złożonej w dniu 21-07-2026 o zagospodarowanie nieruchomości oznaczonej numerem działki 52/29"
+}

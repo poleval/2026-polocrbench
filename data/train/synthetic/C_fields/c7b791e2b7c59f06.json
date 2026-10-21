@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2025-04-24",
+ "conclusion_place": "Konin",
+ "contract_type": "loan",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "20/04/2025",
+ "parties": [
+  {
+   "id_document": "GOX572871",
+   "party": {
+    "address": {
+     "building_no": "53",
+     "city": "Chojnice",
+     "country": null,
+     "postal_code": "33-266",
+     "street": "Kalinowa",
+     "unit_no": "20"
+    },
+    "krs": null,
+    "name": "Przemysław Roszko",
+    "nip": null,
+    "pesel": "53192127037",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pożyczkodawca"
+  },
+  {
+   "id_document": "QOY230519",
+   "party": {
+    "address": {
+     "building_no": "145",
+     "city": "Siedlce",
+     "country": null,
+     "postal_code": "84-811",
+     "street": "Krańcowa",
+     "unit_no": "14"
+    },
+    "krs": null,
+    "name": "Urszula Ziegler",
+    "nip": null,
+    "pesel": "99141956004",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Pożyczkobiorca"
+  }
+ ],
+ "payment_account": "PL49000000000352122162797665",
+ "remuneration": {
+  "amount": "2800.00",
+  "amount_in_words": "dwa tysiące osiemset złotych 00 gr",
+  "basis": null,
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Pożyczkodawca udziela Pożyczkobiorcy pożyczki w kwocie 2 800,00 zł (słownie: dwa tysiące osiemset złotych 00 gr), zwanej dalej „Kwotą pożyczki”.",
+ "term": {
+  "end_date": "2025-06-13",
+  "indefinite": false,
+  "notice_period": null,
+  "start_date": "2025-05-07"
+ },
+ "title": "UMOWA POŻYCZKI NR 20/04/2025"
+}

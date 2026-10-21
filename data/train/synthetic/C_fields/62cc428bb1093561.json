@@ -1,0 +1,62 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze w Ciechanowie": [
+   "Samorządowego Kolegium Odwoławczego w Ciechanowie"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Ciechanowie",
+ "attachments_count": null,
+ "case_ref": "SO.7250.65.2025",
+ "deadline": {
+  "action": "wniesienia zażalenia",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": "odmówić wszczęcia postępowania administracyjnego.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 61a § 1 k.p.a.",
+  "art. 61a § 2 k.p.a.",
+  "art. 61a § 3 k.p.a.",
+  "art. 141 § 2 k.p.a."
+ ],
+ "letter_date": "2025-04-19",
+ "letter_place": "Ojrzeń",
+ "letter_type": "order",
+ "recipient": {
+  "address": {
+   "building_no": "7",
+   "city": "Czeladź",
+   "country": null,
+   "postal_code": "49-451",
+   "street": "Krzywa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Kawula-Nagel Sp. z o.o.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "4",
+   "city": "Ojrzeń",
+   "country": null,
+   "postal_code": "96-861",
+   "street": "Wyzwolenia",
+   "unit_no": null
+  },
+  "authority_name": "Wójt Gminy Ojrzeń",
+  "epuap": "/WGOjrzen/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Referat Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Arkadiusz Pietrusiewicz",
+  "role": "Wójt Gminy"
+ },
+ "subject": "odmowa wszczęcia postępowania administracyjnego o stwierdzenie nieważności umowy sprzedaży działki ewidencyjnej nr 662/7"
+}

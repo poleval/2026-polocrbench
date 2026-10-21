@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2025-04-26",
+ "conclusion_place": "Kutno",
+ "contract_type": "specific_work",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "64/04/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "67",
+     "city": "Sochaczew",
+     "country": null,
+     "postal_code": "09-297",
+     "street": "Kwiatowa",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Spółdzielnia Koczy",
+    "nip": "0004676036",
+    "pesel": null,
+    "regon": "004680813",
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Julita Szłapa",
+     "role": "Prokurent"
+    }
+   ],
+   "role": "Zamawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "92",
+     "city": "Świecie",
+     "country": null,
+     "postal_code": "53-446",
+     "street": "Prusa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Ksawery Borak",
+    "nip": null,
+    "pesel": "14152341113",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wykonawca"
+  }
+ ],
+ "payment_account": "PL43000000002939621558662978",
+ "remuneration": {
+  "amount": "33000.00",
+  "amount_in_words": "trzydzieści trzy tysiące zł 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": false,
+ "subject": "Zamawiający zamawia, a Wykonawca zobowiązuje się wykonać dzieło polegające na przygotowaniu projektu graficznego oraz tekstu broszury informacyjnej, zwane dalej „Dziełem”.",
+ "term": {
+  "end_date": "2026-02-08",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-05-04"
+ },
+ "title": "UMOWA O DZIEŁO NR 64/04/2025"
+}

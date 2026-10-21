@@ -1,0 +1,57 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "PS.7916.109.2025.KB",
+ "deadline": {
+  "action": "zawiadomić organ o przyczynie niemożności stawienia się",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 50 § 1 k.p.a.",
+  "art. 54 § 1 k.p.a.",
+  "art. 88 § 1 pkt 1 k.p.a.",
+  "art. 88 § 2 k.p.a."
+ ],
+ "letter_date": "2025-05-08",
+ "letter_place": "Włocławek",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "130B",
+   "city": "Jawor",
+   "country": null,
+   "postal_code": "30-429",
+   "street": "Cisowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Oskar Godzwon",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "66A",
+   "city": "Włocławek",
+   "country": null,
+   "postal_code": "34-088",
+   "street": "Turystyczna",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Włocławka",
+  "epuap": "/UMWloclawek/SkrytkaESP",
+  "nip": "0009048557",
+  "regon": null,
+  "unit": "Wydział Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Lidia Lesner",
+  "role": "Naczelnik Wydziału Gospodarki Nieruchomościami"
+ },
+ "subject": "stawiennictwo w urzędzie w celu złożenia wyjaśnień i przedstawienia dokumentów odnoszących się do działki ewidencyjnej nr 361/22"
+}

@@ -1,0 +1,118 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "109",
+   "city": "Żywiec",
+   "country": null,
+   "postal_code": "35-627",
+   "street": "Kruczkowskiego",
+   "unit_no": null
+  },
+  "krs": "0099999999",
+  "name": "PPUH Handzel S.A.",
+  "nip": "0007310927",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-05-12",
+ "issue_place": "Zgierz",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Wymiana baterii umywalkowej",
+   "discount": null,
+   "gross_amount": "4212.00",
+   "line_no": 1,
+   "net_amount": "3900.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "15",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "260.00",
+   "vat_amount": "312.00",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Okno PVC dwuskrzydłowe z montażem",
+   "discount": null,
+   "gross_amount": "4788.72",
+   "line_no": 2,
+   "net_amount": "4434.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "1478.00",
+   "vat_amount": "354.72",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Grunt głęboko penetrujący 5 l",
+   "discount": null,
+   "gross_amount": "1479.94",
+   "line_no": 3,
+   "net_amount": "1203.20",
+   "pkwiu_or_gtu": null,
+   "quantity": "20",
+   "unit": "opak.",
+   "unit_price_gross": null,
+   "unit_price_net": "60.16",
+   "vat_amount": "276.74",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FA/0100/26",
+ "payment": {
+  "bank_account": null,
+  "bank_name": null,
+  "due_date": null,
+  "due_days": null,
+  "method": "card"
+ },
+ "recipient": null,
+ "sale_date": "2026-05-03",
+ "seller": {
+  "address": {
+   "building_no": "119",
+   "city": "Skarżysko-Kamienna",
+   "country": null,
+   "postal_code": "31-270",
+   "street": "Perłowa",
+   "unit_no": "12"
+  },
+  "krs": null,
+  "name": "PPUH Emil Surdyk",
+  "nip": "0002880407",
+  "pesel": null,
+  "regon": "007948050",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "0.00",
+  "amount_in_words": "dziesięć tysięcy czterysta osiemdziesiąt zł 66/100",
+  "amount_paid": "10480.66",
+  "gross_amount": "10480.66",
+  "net_amount": "9537.20",
+  "vat_amount": "943.46"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "1479.94",
+   "net_amount": "1203.20",
+   "vat_amount": "276.74",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "9000.72",
+   "net_amount": "8334.00",
+   "vat_amount": "666.72",
+   "vat_rate": "8"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2026-02-12",
+ "conclusion_place": "Starogard Gdański",
+ "contract_type": "mandate",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "65/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "78",
+     "city": "Police",
+     "country": null,
+     "postal_code": "29-609",
+     "street": "Kreta",
+     "unit_no": "18"
+    },
+    "krs": "0099999999",
+    "name": "Gabinety Mazik-Buława Sp. z o.o.",
+    "nip": "0003935889",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Radosław Kuziora",
+     "role": "Pełnomocnik"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": "HQW502180",
+   "party": {
+    "address": {
+     "building_no": "75",
+     "city": "Nowy Dwór Mazowiecki",
+     "country": null,
+     "postal_code": "42-710",
+     "street": "Orla",
+     "unit_no": "78"
+    },
+    "krs": null,
+    "name": "Róża Szajna",
+    "nip": null,
+    "pesel": "29191506003",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL22000000001957543139880748",
+ "remuneration": {
+  "amount": "47900.00",
+  "amount_in_words": "czterdzieści siedem tysięcy dziewięćset złotych 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": false,
+ "subject": "Zleceniodawca zleca Zleceniobiorcy wykonanie czynności polegających na prowadzeniu obsługi administracyjno-biurowej, w tym przyjmowaniu i rejestrowaniu korespondencji, przygotowywaniu dokumentów, prowadzeniu ewidencji oraz wykonywaniu innych poleceń Zleceniodawcy związanych z bieżącą działalnością, a Zleceniobiorca zobowiązuje się do ich wykonania z należytą starannością.",
+ "term": {
+  "end_date": "2026-06-08",
+  "indefinite": false,
+  "notice_period": "14 dni",
+  "start_date": "2026-02-12"
+ },
+ "title": "UMOWA ZLECENIA NR 65/2026"
+}

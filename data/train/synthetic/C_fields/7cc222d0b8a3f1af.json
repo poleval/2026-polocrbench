@@ -1,0 +1,81 @@
+{
+ "conclusion_date": "2026-03-08",
+ "conclusion_place": "Kalisz",
+ "contract_type": "lease",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "64/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "151",
+     "city": "Łomża",
+     "country": null,
+     "postal_code": "29-226",
+     "street": "Dąbrowskiej",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Migoń-Puc S.A.",
+    "nip": null,
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Ksawery Bujas",
+     "role": "Prokurent"
+    }
+   ],
+   "role": "Wydzierżawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "134A",
+     "city": "Żory",
+     "country": null,
+     "postal_code": "50-146",
+     "street": "Bolesława Chrobrego",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Powierża-Stark S.A.",
+    "nip": null,
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Eryk Komsta",
+     "role": "Dyrektor generalny"
+    }
+   ],
+   "role": "Dzierżawca"
+  }
+ ],
+ "payment_account": "PL86000000006693289710492649",
+ "remuneration": {
+  "amount": "12200.00",
+  "amount_in_words": "dwanaście tysięcy dwieście zł 00/100",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": false,
+ "subject": "Wydzierżawiający oddaje Dzierżawcy do używania i pobierania pożytków nieruchomość gruntową położoną w miejscowości Przykładowo przy ul. Leśnej 7, działka nr 123/4, z budynkiem magazynowym, zwaną dalej Przedmiotem Dzierżawy.",
+ "term": {
+  "end_date": "2026-07-07",
+  "indefinite": false,
+  "notice_period": "30 dni",
+  "start_date": "2026-03-10"
+ },
+ "title": "UMOWA DZIERŻAWY NR 64/2026"
+}

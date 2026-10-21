@@ -1,0 +1,62 @@
+{
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Olsztynie",
+ "attachments_count": null,
+ "case_ref": "OŚ.7551.7.2026",
+ "deadline": {
+  "action": "wniesienia odwołania",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": "ustala, że wysokość podatku od nieruchomości za 2026 r. dla strony: Róża Nieścioruk wynosi 19 161,00 zł i podatek jest płatny w terminie do dnia 2026-03-16.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 207 § 1 Ordynacji podatkowej",
+  "art. 210 § 1 Ordynacji podatkowej",
+  "art. 211 Ordynacji podatkowej",
+  "art. 2 ust. 1 pkt 1 ustawy o podatkach i opłatach lokalnych",
+  "art. 2 ust. 1 pkt 2 ustawy o podatkach i opłatach lokalnych",
+  "art. 3 ust. 1 ustawy o podatkach i opłatach lokalnych",
+  "art. 4 ust. 1 ustawy o podatkach i opłatach lokalnych",
+  "art. 5 ust. 1 ustawy o podatkach i opłatach lokalnych",
+  "art. 6 ust. 1 ustawy o podatkach i opłatach lokalnych"
+ ],
+ "letter_date": "2026-03-03",
+ "letter_place": "Dobre Miasto",
+ "letter_type": "decision",
+ "recipient": {
+  "address": {
+   "building_no": "120",
+   "city": "Nowy Sącz",
+   "country": null,
+   "postal_code": "46-651",
+   "street": "Gajowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Róża Nieścioruk",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "10",
+   "city": "Dobre Miasto",
+   "country": null,
+   "postal_code": "71-027",
+   "street": "Poprzeczna",
+   "unit_no": "30"
+  },
+  "authority_name": "Burmistrz Miasta Dobrego Miasta",
+  "epuap": "/BMDobreMiasto/SkrytkaESP",
+  "nip": "0008686787",
+  "regon": null,
+  "unit": "Wydział Podatków i Opłat Lokalnych"
+ },
+ "signatory": {
+  "full_name": "Michał Strojna",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "wymiar podatku od nieruchomości za 2026 r."
+}

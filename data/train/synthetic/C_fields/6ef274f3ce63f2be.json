@@ -1,0 +1,75 @@
+{
+ "conclusion_date": "2026-10-05",
+ "conclusion_place": "Bolesławiec",
+ "contract_type": "nda",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "29/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "48",
+     "city": "Oława",
+     "country": null,
+     "postal_code": "35-815",
+     "street": "Piwna",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "PPUH Jambor S.A.",
+    "nip": "0008674057",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Blanka Władyka",
+     "role": "Członek zarządu"
+    }
+   ],
+   "role": "Ujawniający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "87",
+     "city": "Starogard Gdański",
+     "country": null,
+     "postal_code": "81-828",
+     "street": "Magnoliowa",
+     "unit_no": "73"
+    },
+    "krs": "0099999999",
+    "name": "FPUH Milcarz Sp. z o.o.",
+    "nip": "0007219055",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Konstanty Kawula",
+     "role": "Kierownik jednostki organizacyjnej"
+    }
+   ],
+   "role": "Przyjmujący"
+  }
+ ],
+ "payment_account": null,
+ "remuneration": null,
+ "signatures_present": true,
+ "subject": "Na podstawie umowy strona 1 („Ujawniający”) przekazuje stronie 2 („Przyjmujący”) informacje poufne w celu prowadzenia rozmów o współpracy, a strona 2 zobowiązuje się do zachowania ich poufności.",
+ "term": {
+  "end_date": "2027-01-28",
+  "indefinite": false,
+  "notice_period": null,
+  "start_date": "2026-10-06"
+ },
+ "title": "UMOWA O ZACHOWANIU POUFNOŚCI NR 29/2026"
+}

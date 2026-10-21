@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2025-05-30",
+ "conclusion_place": "Stargard Szczeciński",
+ "contract_type": "b2b",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla m.st. Warszawy w Warszawie",
+ "number": "57/05/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "18",
+     "city": "Pruszcz Gdański",
+     "country": null,
+     "postal_code": "17-831",
+     "street": "Daszyńskiego",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "FPUH Justyna Paw",
+    "nip": "0004152907",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "56",
+     "city": "Tomaszów Mazowiecki",
+     "country": null,
+     "postal_code": "52-971",
+     "street": "Cisowa",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "FPUH Michał Bok",
+    "nip": "0002780019",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL54000000005868167823910186",
+ "remuneration": {
+  "amount": "9200.00",
+  "amount_in_words": "dziewięć tysięcy dwieście zł 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Zleceniodawca powierza, a Zleceniobiorca przyjmuje do wykonania usługi bieżącego wsparcia operacyjnego i marketingowego, obejmujące opracowywanie materiałów, analizę wyników i koordynację działań, zwane dalej Usługami.",
+ "term": {
+  "end_date": "2025-10-02",
+  "indefinite": false,
+  "notice_period": "jeden miesiąc",
+  "start_date": "2025-06-01"
+ },
+ "title": "UMOWA O WSPÓŁPRACY B2B NR 57/05/2025"
+}

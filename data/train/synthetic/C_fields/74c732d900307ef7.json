@@ -1,0 +1,62 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze w Sieradzu": [
+   "Samorządowego Kolegium Odwoławczego w Sieradzu"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Sieradzu",
+ "attachments_count": null,
+ "case_ref": "OR.5186.240.2025",
+ "deadline": {
+  "action": "odwołanie do Samorządowego Kolegium Odwoławczego w Sieradzu",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 5 ust. 2 ustawy o dostępie do informacji publicznej",
+  "art. 13 ust. 1 ustawy o dostępie do informacji publicznej",
+  "art. 16 ust. 1 ustawy o dostępie do informacji publicznej",
+  "art. 6 ust. 1 pkt 4 lit. a ustawy o dostępie do informacji publicznej"
+ ],
+ "letter_date": "2025-07-29",
+ "letter_place": "Skomlin",
+ "letter_type": "reply",
+ "recipient": {
+  "address": {
+   "building_no": "96",
+   "city": "Ruda Śląska",
+   "country": null,
+   "postal_code": "78-246",
+   "street": "Strzelecka",
+   "unit_no": "75"
+  },
+  "krs": null,
+  "name": "Spółdzielnia Goj",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "112",
+   "city": "Skomlin",
+   "country": null,
+   "postal_code": "16-342",
+   "street": "Sikorskiego",
+   "unit_no": "50"
+  },
+  "authority_name": "Urząd Gminy Skomlin",
+  "epuap": null,
+  "nip": null,
+  "regon": "003316241",
+  "unit": "Referat Zamówień Publicznych"
+ },
+ "signatory": {
+  "full_name": "Malwina Jośko",
+  "role": "Wójt Gminy"
+ },
+ "subject": "udostępnienia informacji publicznej o zamówieniach publicznych"
+}

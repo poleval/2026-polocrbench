@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "RO.5311.135.2026.SQ",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6k ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6x ustawy o utrzymaniu czystości i porządku w gminach"
+ ],
+ "letter_date": "2026-03-27",
+ "letter_place": "Jarosław",
+ "letter_type": "information",
+ "recipient": {
+  "address": {
+   "building_no": "81",
+   "city": "Ełk",
+   "country": null,
+   "postal_code": "16-151",
+   "street": "Miarki",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Dorota Urynowicz",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "93B",
+   "city": "Jarosław",
+   "country": null,
+   "postal_code": "06-062",
+   "street": "Mokra",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Jarosławia",
+  "epuap": null,
+  "nip": "0004681712",
+  "regon": null,
+  "unit": "Wydział Gospodarki Komunalnej i Ochrony Środowiska"
+ },
+ "signatory": {
+  "full_name": "Julita Szczepan",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "wysokość opłaty za gospodarowanie odpadami komunalnymi dla nieruchomości położonej na działce ewidencyjnej nr 597/26"
+}

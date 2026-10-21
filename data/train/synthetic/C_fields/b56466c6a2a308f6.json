@@ -1,0 +1,154 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "123B",
+   "city": "Jawor",
+   "country": null,
+   "postal_code": "27-150",
+   "street": "Rubinowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Spółdzielnia Tonder-Bobak",
+  "nip": "0009865262",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-04-14",
+ "issue_place": "Kluczbork",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Przygotowanie projektu umowy",
+   "discount": null,
+   "gross_amount": "1619.01",
+   "line_no": 1,
+   "net_amount": "1316.27",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "1316.27",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Przygotowanie wniosku o wpis do CEIDG",
+   "discount": null,
+   "gross_amount": "369.92",
+   "line_no": 2,
+   "net_amount": "300.75",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "300.75",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Webinar podatkowy",
+   "discount": null,
+   "gross_amount": "611.31",
+   "line_no": 3,
+   "net_amount": "497.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "os.",
+   "unit_price_gross": null,
+   "unit_price_net": "497.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Audyt prawny spółki",
+   "discount": null,
+   "gross_amount": "20308.92",
+   "line_no": 4,
+   "net_amount": "16511.32",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "8255.66",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Reprezentacja klienta przed sądem",
+   "discount": null,
+   "gross_amount": "5726.20",
+   "line_no": 5,
+   "net_amount": "4655.45",
+   "pkwiu_or_gtu": null,
+   "quantity": "5",
+   "unit": "h",
+   "unit_price_gross": null,
+   "unit_price_net": "931.09",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Licencja oprogramowania księgowego",
+   "discount": null,
+   "gross_amount": "7243.47",
+   "line_no": 6,
+   "net_amount": "5889.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "1963.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FA/0494/25",
+ "payment": {
+  "bank_account": "PL52000000003778042670677298",
+  "bank_name": "Bank Starego Rynku",
+  "due_date": "2025-04-21",
+  "due_days": null,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2025-04-05",
+ "seller": {
+  "address": {
+   "building_no": "105",
+   "city": "Nysa",
+   "country": null,
+   "postal_code": "70-295",
+   "street": "Odrzańska",
+   "unit_no": null
+  },
+  "krs": "0099999999",
+  "name": "PPUH Czajor Sp. z o.o.",
+  "nip": "0005452563",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": null,
+  "amount_in_words": "trzydzieści pięć tysięcy osiemset siedemdziesiąt osiem złotych 83 gr",
+  "amount_paid": null,
+  "gross_amount": "35878.83",
+  "net_amount": "29169.79",
+  "vat_amount": "6709.04"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "35878.83",
+   "net_amount": "29169.79",
+   "vat_amount": "6709.04",
+   "vat_rate": "23"
+  }
+ ]
+}

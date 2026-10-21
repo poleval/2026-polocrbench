@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "PS.4794.27.2025.TX",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6 ust. 2 ustawy o petycjach",
+  "art. 6 ust. 1 ustawy o petycjach"
+ ],
+ "letter_date": "2025-07-17",
+ "letter_place": "Koźmin Wielkopolski",
+ "letter_type": "information",
+ "recipient": {
+  "address": {
+   "building_no": "31",
+   "city": "Mielec",
+   "country": null,
+   "postal_code": "77-352",
+   "street": "Bydgoska",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Dagmara Kolarczyk",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "144",
+   "city": "Koźmin Wielkopolski",
+   "country": null,
+   "postal_code": "65-075",
+   "street": "Konstytucji 3 Maja",
+   "unit_no": "20"
+  },
+  "authority_name": "Urząd Miasta Koźmina Wielkopolskiego",
+  "epuap": "/UMKozminWielkopolski/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Organizacyjny"
+ },
+ "signatory": {
+  "full_name": "Kamila Cywka",
+  "role": "Burmistrz"
+ },
+ "subject": "sposób załatwienia petycji złożonej w dniu 18-05-2025 o zagospodarowanie nieruchomości oznaczonej numerem działki 534/7"
+}

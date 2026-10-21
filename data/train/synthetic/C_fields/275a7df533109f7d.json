@@ -1,0 +1,71 @@
+{
+ "conclusion_date": "2025-02-15",
+ "conclusion_place": "Piastów",
+ "contract_type": "specific_work",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "70/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "47",
+     "city": "Brzeg",
+     "country": null,
+     "postal_code": "67-371",
+     "street": "Mickiewicza",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "PPUH Bruno Kupś",
+    "nip": "0007844959",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zamawiający"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "57B",
+     "city": "Legionowo",
+     "country": null,
+     "postal_code": "90-958",
+     "street": "Akacjowa",
+     "unit_no": "12"
+    },
+    "krs": null,
+    "name": "Piotr Wiercigroch",
+    "nip": null,
+    "pesel": "71190313894",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Wykonawca"
+  }
+ ],
+ "payment_account": "PL44000000001743840014157120",
+ "remuneration": {
+  "amount": "44550.00",
+  "amount_in_words": "czterdzieści cztery tysiące pięćset pięćdziesiąt złotych 00 gr",
+  "basis": "gross",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Wykonawca zobowiązuje się do wykonania na rzecz Zamawiającego dzieła polegającego na opracowaniu i przekazaniu dokumentacji projektowej, zwanego dalej „Dziełem”, zgodnie z opisem i wytycznymi Zamawiającego.",
+ "term": {
+  "end_date": "2025-05-05",
+  "indefinite": false,
+  "notice_period": "14 dni",
+  "start_date": "2025-02-24"
+ },
+ "title": "UMOWA O DZIEŁO NR 70/2025"
+}

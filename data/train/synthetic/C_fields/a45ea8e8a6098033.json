@@ -1,0 +1,98 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "120",
+   "city": "Nowy Targ",
+   "country": null,
+   "postal_code": "52-855",
+   "street": "Sienkiewicza",
+   "unit_no": "81"
+  },
+  "krs": "0099999999",
+  "name": "Spółdzielnia Sus",
+  "nip": "0001762723",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-01-28",
+ "issue_place": "Mińsk Mazowiecki",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Smartfon 128 GB",
+   "discount": null,
+   "gross_amount": "1666.29",
+   "line_no": 1,
+   "net_amount": "1354.71",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "1354.71",
+   "vat_amount": "311.58",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Lodówka dwukomorowa 300 l",
+   "discount": null,
+   "gross_amount": "3818.42",
+   "line_no": 2,
+   "net_amount": "3104.41",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "3104.41",
+   "vat_amount": "714.01",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FA/0154/25",
+ "payment": {
+  "bank_account": "PL11000000009713570774955330",
+  "bank_name": "Bank Wierzbowego Gaju",
+  "due_date": "2025-02-11",
+  "due_days": null,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2025-01-21",
+ "seller": {
+  "address": {
+   "building_no": "92",
+   "city": "Kraków",
+   "country": null,
+   "postal_code": "13-884",
+   "street": "Lawendowa",
+   "unit_no": "79"
+  },
+  "krs": null,
+  "name": "Gabinety Fryderyk Wywiał",
+  "nip": "0005045639",
+  "pesel": null,
+  "regon": "009992115",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "5484.71",
+  "amount_in_words": "pięć tysięcy czterysta osiemdziesiąt cztery złote 71 gr",
+  "amount_paid": "0.00",
+  "gross_amount": "5484.71",
+  "net_amount": "4459.12",
+  "vat_amount": "1025.59"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "5484.71",
+   "net_amount": "4459.12",
+   "vat_amount": "1025.59",
+   "vat_rate": "23"
+  }
+ ]
+}

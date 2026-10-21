@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "GN.7348.120.2026.DL",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6 ust. 2 ustawy o petycjach",
+  "art. 6 ust. 1 ustawy o petycjach"
+ ],
+ "letter_date": "2026-03-29",
+ "letter_place": "Opole Lubelskie",
+ "letter_type": "information",
+ "recipient": {
+  "address": {
+   "building_no": "22",
+   "city": "Włocławek",
+   "country": null,
+   "postal_code": "63-052",
+   "street": "Skargi",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Wężyk S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "71",
+   "city": "Opole Lubelskie",
+   "country": null,
+   "postal_code": "16-189",
+   "street": "Żwirowa",
+   "unit_no": "71"
+  },
+  "authority_name": "Urząd Miasta Opola Lubelskiego",
+  "epuap": "/UMOpoleLubelskie/SkrytkaESP",
+  "nip": "0006593923",
+  "regon": null,
+  "unit": "Wydział Organizacyjny"
+ },
+ "signatory": {
+  "full_name": "Jędrzej Kandziora",
+  "role": "Burmistrz"
+ },
+ "subject": "sposób załatwienia petycji złożonej w dniu 11.03.2026 o zagospodarowanie nieruchomości oznaczonej numerem działki 824/14"
+}

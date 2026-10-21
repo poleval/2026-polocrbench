@@ -1,0 +1,53 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "PS.5563.144.2025.OC",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 61 § 1 i 4 k.p.a.",
+  "art. 10 § 1 k.p.a.",
+  "art. 73 § 1 k.p.a.",
+  "art. 41 § 1 k.p.a."
+ ],
+ "letter_date": "2025-12-05",
+ "letter_place": "Nowy Korczyn",
+ "letter_type": "notification",
+ "recipient": {
+  "address": {
+   "building_no": "44C",
+   "city": "Rzeszów",
+   "country": null,
+   "postal_code": "13-783",
+   "street": "Krucza",
+   "unit_no": "47"
+  },
+  "krs": null,
+  "name": "Grzegorz Wasążnik",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "153",
+   "city": "Nowy Korczyn",
+   "country": null,
+   "postal_code": "76-095",
+   "street": "Azaliowa",
+   "unit_no": "45"
+  },
+  "authority_name": "Burmistrz Miasta Nowego Korczyna",
+  "epuap": "/BMNowyKorczyn/SkrytkaESP",
+  "nip": null,
+  "regon": "004727058",
+  "unit": "Wydział Gospodarki Przestrzennej i Architektury"
+ },
+ "signatory": {
+  "full_name": "Leon Perczak",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "wszczęcie postępowania administracyjnego dotyczącego wydania decyzji o warunkach zabudowy"
+}

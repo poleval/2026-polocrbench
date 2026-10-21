@@ -1,0 +1,50 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "PS.6400.175.2026.AL",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 10 § 1 k.p.a."
+ ],
+ "letter_date": "2026-01-23",
+ "letter_place": "Maszewo",
+ "letter_type": "notification",
+ "recipient": {
+  "address": {
+   "building_no": "5",
+   "city": "Gdańsk",
+   "country": null,
+   "postal_code": "55-313",
+   "street": "Letniskowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "PPUH Bembenek S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "51",
+   "city": "Maszewo",
+   "country": null,
+   "postal_code": "02-269",
+   "street": "Kraszewskiego",
+   "unit_no": "8"
+  },
+  "authority_name": "Urząd Miasta Maszewa",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Natasza Cisoń",
+  "role": "Burmistrz"
+ },
+ "subject": "zakończenie zbierania materiału dowodowego – działka ewidencyjna nr 773/25"
+}

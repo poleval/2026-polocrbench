@@ -1,0 +1,98 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "31",
+   "city": "Turek",
+   "country": null,
+   "postal_code": "26-889",
+   "street": "Wyszyńskiego",
+   "unit_no": "86"
+  },
+  "krs": null,
+  "name": "FPUH Sonia Orkisz",
+  "nip": "0000469547",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-08-04",
+ "issue_place": "Krosno",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Usługa noclegowa w pokoju dwuosobowym ze śniadaniem",
+   "discount": null,
+   "gross_amount": "801.81",
+   "line_no": 1,
+   "net_amount": "742.42",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "742.42",
+   "vat_amount": "59.39",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Dodatkowe sprzątanie pokoju",
+   "discount": null,
+   "gross_amount": "1853.28",
+   "line_no": 2,
+   "net_amount": "1716.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "12",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "143.00",
+   "vat_amount": "137.28",
+   "vat_rate": "8"
+  }
+ ],
+ "number": "FV/2026/08/0977",
+ "payment": {
+  "bank_account": "PL74000000001956953249931919",
+  "bank_name": null,
+  "due_date": "2026-08-25",
+  "due_days": null,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2026-07-29",
+ "seller": {
+  "address": {
+   "building_no": "133",
+   "city": "Nowy Dwór Mazowiecki",
+   "country": null,
+   "postal_code": "97-883",
+   "street": "Lubelska",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "PPUH Jakub Zmarzły",
+  "nip": "0002018754",
+  "pesel": null,
+  "regon": "004395780",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "2655.09",
+  "amount_in_words": "dwa tysiące sześćset pięćdziesiąt pięć złotych 09 gr",
+  "amount_paid": null,
+  "gross_amount": "2655.09",
+  "net_amount": "2458.42",
+  "vat_amount": "196.67"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "2655.09",
+   "net_amount": "2458.42",
+   "vat_amount": "196.67",
+   "vat_rate": "8"
+  }
+ ]
+}

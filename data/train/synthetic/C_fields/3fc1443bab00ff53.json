@@ -1,0 +1,174 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "101",
+   "city": "Nysa",
+   "country": null,
+   "postal_code": "28-048",
+   "street": "Powstańców",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Antoni Zioła",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-03-10",
+ "issue_place": "Świebodzice",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Montaż grzejnika płytowego z zaworami",
+   "discount": null,
+   "gross_amount": "548.14",
+   "line_no": 1,
+   "net_amount": "507.54",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "253.77",
+   "vat_amount": "40.60",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Rura kanalizacyjna PVC 110 mm",
+   "discount": null,
+   "gross_amount": "16.61",
+   "line_no": 2,
+   "net_amount": "13.50",
+   "pkwiu_or_gtu": null,
+   "quantity": "0.5",
+   "unit": "mb",
+   "unit_price_gross": null,
+   "unit_price_net": "27.00",
+   "vat_amount": "3.11",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Demontaż starej wylewki betonowej",
+   "discount": null,
+   "gross_amount": "153.58",
+   "line_no": 3,
+   "net_amount": "142.20",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "71.10",
+   "vat_amount": "11.38",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Wykonanie instalacji elektrycznej w mieszkaniu",
+   "discount": null,
+   "gross_amount": "3948.43",
+   "line_no": 4,
+   "net_amount": "3655.95",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "kpl.",
+   "unit_price_gross": null,
+   "unit_price_net": "3655.95",
+   "vat_amount": "292.48",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Panele podłogowe laminowane 8 mm",
+   "discount": null,
+   "gross_amount": "68.34",
+   "line_no": 5,
+   "net_amount": "55.56",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "55.56",
+   "vat_amount": "12.78",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Montaż gniazda lub wyłącznika",
+   "discount": null,
+   "gross_amount": "696.92",
+   "line_no": 6,
+   "net_amount": "645.30",
+   "pkwiu_or_gtu": null,
+   "quantity": "9",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "71.70",
+   "vat_amount": "51.62",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Wykonanie tynków gipsowych maszynowych",
+   "discount": null,
+   "gross_amount": "302.40",
+   "line_no": 7,
+   "net_amount": "280.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "10",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "28.00",
+   "vat_amount": "22.40",
+   "vat_rate": "8"
+  }
+ ],
+ "number": "611/03/2025",
+ "payment": {
+  "bank_account": "PL87000000009113685378422227",
+  "bank_name": "Bank Nadmorskiej Bryzy",
+  "due_date": "2025-03-31",
+  "due_days": null,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2025-03-03",
+ "seller": {
+  "address": {
+   "building_no": "16",
+   "city": "Rybnik",
+   "country": null,
+   "postal_code": "20-086",
+   "street": "Zakątek",
+   "unit_no": "90"
+  },
+  "krs": null,
+  "name": "PPUH Wiktor Fąferek",
+  "nip": "0008786520",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "5734.42",
+  "amount_in_words": "pięć tysięcy siedemset trzydzieści cztery złote 42 gr",
+  "amount_paid": "0.00",
+  "gross_amount": "5734.42",
+  "net_amount": "5300.05",
+  "vat_amount": "434.37"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "84.95",
+   "net_amount": "69.06",
+   "vat_amount": "15.89",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "5649.47",
+   "net_amount": "5230.99",
+   "vat_amount": "418.48",
+   "vat_rate": "8"
+  }
+ ]
+}

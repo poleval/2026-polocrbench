@@ -1,0 +1,53 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "GN.6716.63.2025.AT",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 61 § 1 i 4 k.p.a.",
+  "art. 10 § 1 k.p.a.",
+  "art. 73 § 1 k.p.a.",
+  "art. 41 § 1 k.p.a."
+ ],
+ "letter_date": "2025-05-16",
+ "letter_place": "Złoczew",
+ "letter_type": "notification",
+ "recipient": {
+  "address": {
+   "building_no": "44",
+   "city": "Wałcz",
+   "country": null,
+   "postal_code": "13-289",
+   "street": "Bolesława Krzywoustego",
+   "unit_no": "27"
+  },
+  "krs": null,
+  "name": "Paweł Ostasz",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "54",
+   "city": "Złoczew",
+   "country": null,
+   "postal_code": "96-218",
+   "street": "Cicha",
+   "unit_no": "8"
+  },
+  "authority_name": "Burmistrz Miasta Złoczewa",
+  "epuap": "/BMZloczew/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Gospodarki Przestrzennej i Architektury"
+ },
+ "signatory": {
+  "full_name": "Natasza Wojtach",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "wszczęcie postępowania administracyjnego dotyczącego wydania decyzji o warunkach zabudowy"
+}

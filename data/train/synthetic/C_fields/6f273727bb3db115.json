@@ -1,0 +1,104 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "104",
+   "city": "Brzeg",
+   "country": null,
+   "postal_code": "18-020",
+   "street": "Andersa",
+   "unit_no": "64"
+  },
+  "krs": null,
+  "name": "Stowarzyszenie Borejko-Chwedczuk",
+  "nip": "0004046401",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-04-13",
+ "issue_place": "Legionowo",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Plaster opatrunkowy 20 szt",
+   "discount": null,
+   "gross_amount": "18.36",
+   "line_no": 1,
+   "net_amount": "17.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "opak.",
+   "unit_price_gross": null,
+   "unit_price_net": "17.00",
+   "vat_amount": "1.36",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Abonament oprogramowania antywirusowego",
+   "discount": null,
+   "gross_amount": "223.86",
+   "line_no": 2,
+   "net_amount": "182.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "13",
+   "unit": "m-c",
+   "unit_price_gross": null,
+   "unit_price_net": "14.00",
+   "vat_amount": "41.86",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FA/0408/26",
+ "payment": {
+  "bank_account": "PL34000000005432425512598970",
+  "bank_name": null,
+  "due_date": null,
+  "due_days": 14,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": null,
+ "seller": {
+  "address": {
+   "building_no": "9",
+   "city": "Zduńska Wola",
+   "country": null,
+   "postal_code": "10-854",
+   "street": "Wiosenna",
+   "unit_no": "90"
+  },
+  "krs": null,
+  "name": "Gabinety Radosław Bik",
+  "nip": "0007526863",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": null,
+  "amount_in_words": "dwieście czterdzieści dwa złote 22 gr",
+  "amount_paid": null,
+  "gross_amount": "242.22",
+  "net_amount": "199.00",
+  "vat_amount": "43.22"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "223.86",
+   "net_amount": "182.00",
+   "vat_amount": "41.86",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "18.36",
+   "net_amount": "17.00",
+   "vat_amount": "1.36",
+   "vat_rate": "8"
+  }
+ ]
+}

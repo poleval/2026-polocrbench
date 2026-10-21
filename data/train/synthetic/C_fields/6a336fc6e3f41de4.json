@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2026-03-22",
+ "conclusion_place": "Białystok",
+ "contract_type": "rental",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "73/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "91",
+     "city": "Tychy",
+     "country": null,
+     "postal_code": "87-559",
+     "street": "Żytnia",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Stowarzyszenie Szczepan",
+    "nip": "0007291437",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Marcel Kałwak",
+     "role": "Członek zarządu"
+    }
+   ],
+   "role": "Wynajmujący"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "40",
+     "city": "Piaseczno",
+     "country": null,
+     "postal_code": "50-219",
+     "street": "Krańcowa",
+     "unit_no": "74"
+    },
+    "krs": null,
+    "name": "PPUH Rozalia Opas",
+    "nip": "0002628518",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Najemca"
+  }
+ ],
+ "payment_account": "PL34000000001245256011437265",
+ "remuneration": {
+  "amount": "4000.00",
+  "amount_in_words": "cztery tysiące zł 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": false,
+ "subject": "Wynajmujący oddaje Najemcy do używania lokal użytkowy nr 4 o powierzchni 78 m², położony w budynku przy ul. Żytnia 91, 87-559 Tychy, wraz z miejscem parkingowym (Lokal).",
+ "term": {
+  "end_date": "2026-04-27",
+  "indefinite": false,
+  "notice_period": "trzy miesiące",
+  "start_date": "2026-03-22"
+ },
+ "title": "UMOWA NAJMU LOKALU UŻYTKOWEGO NR 73/2026"
+}

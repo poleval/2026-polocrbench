@@ -1,0 +1,70 @@
+{
+ "conclusion_date": "2025-04-27",
+ "conclusion_place": "Września",
+ "contract_type": "nda",
+ "doc_type": "contract",
+ "governing_court": "Sąd Okręgowy w Warszawie",
+ "number": "U/740/2025",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "9",
+     "city": "Chełm",
+     "country": null,
+     "postal_code": "91-423",
+     "street": "Majowa",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "PPUH Maćków-Mydlarz Sp. z o.o.",
+    "nip": "0008527474",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Szymon Warych",
+     "role": "Prokurent"
+    }
+   ],
+   "role": "Strona Ujawniająca"
+  },
+  {
+   "id_document": "RYD863612",
+   "party": {
+    "address": {
+     "building_no": "72",
+     "city": "Bochnia",
+     "country": null,
+     "postal_code": "65-034",
+     "street": "Wesoła",
+     "unit_no": "39"
+    },
+    "krs": null,
+    "name": "Marcin Dumała",
+    "nip": null,
+    "pesel": "81172828595",
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "natural_person",
+   "representatives": null,
+   "role": "Strona Otrzymująca"
+  }
+ ],
+ "payment_account": null,
+ "remuneration": null,
+ "signatures_present": true,
+ "subject": "Strona Ujawniająca przekazuje Stronie Otrzymującej informacje poufne dotyczące planowanej współpracy gospodarczej w celu oceny możliwości jej nawiązania.",
+ "term": {
+  "end_date": "2026-02-04",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2025-05-07"
+ },
+ "title": "UMOWA O ZACHOWANIU POUFNOŚCI NR U/740/2025"
+}

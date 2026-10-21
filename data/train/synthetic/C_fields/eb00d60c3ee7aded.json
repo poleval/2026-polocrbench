@@ -1,0 +1,58 @@
+{
+ "appeal_body": null,
+ "attachments_count": 2,
+ "case_ref": "FN.5526.218.2026.IU",
+ "deadline": {
+  "action": "do zapłaty zaległej opłaty za gospodarowanie odpadami komunalnymi należnej za nieruchomość położoną na terenie Gminy Sadlinki, oznaczoną numerem działki ewidencyjnej 35/8, w łącznej kwocie 1344,00 zł, w terminie do dnia 20-09-2026",
+  "date": "2026-09-20",
+  "days": null
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6h ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6k ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6m ust. 1 ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6o ustawy o utrzymaniu czystości i porządku w gminach",
+  "art. 6q ust. 1 ustawy o utrzymaniu czystości i porządku w gminach"
+ ],
+ "letter_date": "2026-08-31",
+ "letter_place": "Sadlinki",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "84",
+   "city": "Olsztyn",
+   "country": null,
+   "postal_code": "24-010",
+   "street": "Prusa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Gabinety Magryta-Skocz Sp. z o.o.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "159",
+   "city": "Sadlinki",
+   "country": null,
+   "postal_code": "90-158",
+   "street": "Dworcowa",
+   "unit_no": null
+  },
+  "authority_name": "Wójt Gminy Sadlinki",
+  "epuap": null,
+  "nip": null,
+  "regon": "002469646",
+  "unit": "Referat Finansów i Budżetu"
+ },
+ "signatory": {
+  "full_name": "Ewa Michnowicz",
+  "role": "Wójt"
+ },
+ "subject": "zapłata zaległej opłaty za gospodarowanie odpadami komunalnymi"
+}

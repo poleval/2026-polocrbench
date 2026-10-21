@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2026-05-13",
+ "conclusion_place": "Nowa Ruda",
+ "contract_type": "services",
+ "doc_type": "contract",
+ "governing_court": null,
+ "number": "14/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "104",
+     "city": "Ostrów Wielkopolski",
+     "country": null,
+     "postal_code": "25-788",
+     "street": "Borówkowa",
+     "unit_no": "90"
+    },
+    "krs": "0099999999",
+    "name": "Stowarzyszenie Dziób",
+    "nip": "0005093992",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Marianna Grzejszczak",
+     "role": "Pełnomocnik"
+    }
+   ],
+   "role": "Zleceniodawca"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "106",
+     "city": "Czechowice-Dziedzice",
+     "country": null,
+     "postal_code": "19-432",
+     "street": "Gałczynskiego",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Gabinety Apolonia Szłapka",
+    "nip": "0007858594",
+    "pesel": null,
+    "regon": "001851881",
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Zleceniobiorca"
+  }
+ ],
+ "payment_account": "PL53000000000349813355958382",
+ "remuneration": {
+  "amount": "48250.00",
+  "amount_in_words": "czterdzieści osiem tysięcy dwieście pięćdziesiąt zł 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "one_off"
+ },
+ "signatures_present": true,
+ "subject": "Zleceniobiorca zobowiązuje się do świadczenia na rzecz Zleceniodawcy usług informatycznych polegających na administracji infrastrukturą serwerową, utrzymaniu kopii zapasowych oraz bieżącym wsparciu użytkowników.",
+ "term": {
+  "end_date": "2027-03-04",
+  "indefinite": false,
+  "notice_period": "jednego miesiąca",
+  "start_date": "2026-05-16"
+ },
+ "title": "UMOWA O ŚWIADCZENIE USŁUG NR 14/2026"
+}

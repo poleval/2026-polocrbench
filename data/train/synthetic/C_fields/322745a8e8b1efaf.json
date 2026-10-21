@@ -1,0 +1,76 @@
+{
+ "conclusion_date": "2026-08-14",
+ "conclusion_place": "Gorlice",
+ "contract_type": "rental",
+ "doc_type": "contract",
+ "governing_court": "Sąd Rejonowy dla Krakowa-Śródmieścia w Krakowie",
+ "number": "59/08/2026",
+ "parties": [
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "126",
+     "city": "Piaseczno",
+     "country": null,
+     "postal_code": "46-449",
+     "street": "Ściegiennego",
+     "unit_no": null
+    },
+    "krs": "0099999999",
+    "name": "Gabinety Krzywonos Sp. z o.o.",
+    "nip": "0001371218",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "legal_person",
+   "representatives": [
+    {
+     "full_name": "Michał Sypuła",
+     "role": "Wspólnik uprawniony do reprezentacji"
+    }
+   ],
+   "role": "Wynajmujący"
+  },
+  {
+   "id_document": null,
+   "party": {
+    "address": {
+     "building_no": "111",
+     "city": "Kwidzyn",
+     "country": null,
+     "postal_code": "24-233",
+     "street": "Partyzantów",
+     "unit_no": null
+    },
+    "krs": null,
+    "name": "Gabinety Natasza Kleban",
+    "nip": "0007573466",
+    "pesel": null,
+    "regon": null,
+    "vat_eu": null
+   },
+   "party_kind": "sole_trader",
+   "representatives": null,
+   "role": "Najemca"
+  }
+ ],
+ "payment_account": "PL35000000003993173367100318",
+ "remuneration": {
+  "amount": "9600.00",
+  "amount_in_words": "dziewięć tysięcy sześćset zł 00/100",
+  "basis": "net",
+  "currency": "PLN",
+  "period": "monthly"
+ },
+ "signatures_present": true,
+ "subject": "Wynajmujący oddaje Najemcy do używania lokal użytkowy nr 4 o powierzchni 78 m², położony w budynku przy ul. Ściegiennego 126, 46-449 Piaseczno, wraz z miejscem parkingowym (Lokal).",
+ "term": {
+  "end_date": "2026-11-24",
+  "indefinite": false,
+  "notice_period": "trzy miesiące",
+  "start_date": "2026-08-23"
+ },
+ "title": "UMOWA NAJMU LOKALU UŻYTKOWEGO NR 59/08/2026"
+}

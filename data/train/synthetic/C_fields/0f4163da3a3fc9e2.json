@@ -1,0 +1,62 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze w Siedlcach": [
+   "Samorządowego Kolegium Odwoławczego w Siedlcach"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Siedlcach",
+ "attachments_count": null,
+ "case_ref": "FN.3051.17.2026.RN",
+ "deadline": {
+  "action": "wniesienia zażalenia",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": "odmówić wszczęcia postępowania administracyjnego.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 61a § 1 k.p.a.",
+  "art. 61a § 2 k.p.a.",
+  "art. 61a § 3 k.p.a.",
+  "art. 141 § 2 k.p.a."
+ ],
+ "letter_date": "2026-08-12",
+ "letter_place": "Siedlce",
+ "letter_type": "order",
+ "recipient": {
+  "address": {
+   "building_no": "108",
+   "city": "Jawor",
+   "country": null,
+   "postal_code": "55-586",
+   "street": "Borówkowa",
+   "unit_no": "59"
+  },
+  "krs": null,
+  "name": "Marcel Kieszek",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "155",
+   "city": "Siedlce",
+   "country": null,
+   "postal_code": "30-803",
+   "street": "Rubinowa",
+   "unit_no": null
+  },
+  "authority_name": "Wójt Gminy Siedlce",
+  "epuap": "/WGSiedlce/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Referat Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Roksana Roda",
+  "role": "Wójt Gminy"
+ },
+ "subject": "odmowa wszczęcia postępowania administracyjnego o stwierdzenie nieważności umowy sprzedaży działki ewidencyjnej nr 686/27"
+}

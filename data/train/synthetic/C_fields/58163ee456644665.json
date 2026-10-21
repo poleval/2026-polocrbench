@@ -1,0 +1,174 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "77",
+   "city": "Gdańsk",
+   "country": null,
+   "postal_code": "36-638",
+   "street": "Zakole",
+   "unit_no": null
+  },
+  "krs": "0099999999",
+  "name": "Matus Sp. z o.o.",
+  "nip": "0001621299",
+  "pesel": null,
+  "regon": "002311224",
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2026-04-07",
+ "issue_place": "Zamość",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Kosiarka spalinowa do trawy",
+   "discount": null,
+   "gross_amount": "3886.80",
+   "line_no": 1,
+   "net_amount": "3160.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "3160.00",
+   "vat_amount": "726.80",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Doniczka plastikowa do sadzonek",
+   "discount": null,
+   "gross_amount": "16.31",
+   "line_no": 2,
+   "net_amount": "13.26",
+   "pkwiu_or_gtu": null,
+   "quantity": "17",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "0.78",
+   "vat_amount": "3.05",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Transport płodów rolnych",
+   "discount": null,
+   "gross_amount": "2.61",
+   "line_no": 3,
+   "net_amount": "2.12",
+   "pkwiu_or_gtu": null,
+   "quantity": "0.5",
+   "unit": "km",
+   "unit_price_gross": null,
+   "unit_price_net": "4.23",
+   "vat_amount": "0.49",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Rozsiewacz nawozów zawieszany",
+   "discount": null,
+   "gross_amount": "3450.51",
+   "line_no": 4,
+   "net_amount": "2805.29",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "2805.29",
+   "vat_amount": "645.22",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Środek ochrony roślin herbicyd dolistny",
+   "discount": null,
+   "gross_amount": "221.97",
+   "line_no": 5,
+   "net_amount": "205.53",
+   "pkwiu_or_gtu": null,
+   "quantity": "2.5",
+   "unit": "l",
+   "unit_price_gross": null,
+   "unit_price_net": "82.21",
+   "vat_amount": "16.44",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Pasza treściwa dla trzody chlewnej",
+   "discount": null,
+   "gross_amount": "2365.20",
+   "line_no": 6,
+   "net_amount": "2190.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "t",
+   "unit_price_gross": null,
+   "unit_price_net": "2190.00",
+   "vat_amount": "175.20",
+   "vat_rate": "8"
+  },
+  {
+   "description": "Podłoże torfowe do upraw",
+   "discount": null,
+   "gross_amount": "305.07",
+   "line_no": 7,
+   "net_amount": "282.47",
+   "pkwiu_or_gtu": null,
+   "quantity": "1.5",
+   "unit": "m3",
+   "unit_price_gross": null,
+   "unit_price_net": "188.31",
+   "vat_amount": "22.60",
+   "vat_rate": "8"
+  }
+ ],
+ "number": "FV/2026/04/0377",
+ "payment": {
+  "bank_account": "PL39000000008555947644769260",
+  "bank_name": "Bank Zielonej Doliny",
+  "due_date": null,
+  "due_days": 14,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2026-03-30",
+ "seller": {
+  "address": {
+   "building_no": "46",
+   "city": "Wrocław",
+   "country": null,
+   "postal_code": "11-057",
+   "street": "Wyspiańskiego",
+   "unit_no": "72"
+  },
+  "krs": null,
+  "name": "Madejczyk Sp. z o.o.",
+  "nip": "0003374385",
+  "pesel": null,
+  "regon": "000556803",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "10248.47",
+  "amount_in_words": "dziesięć tysięcy dwieście czterdzieści osiem zł 47/100",
+  "amount_paid": "0.00",
+  "gross_amount": "10248.47",
+  "net_amount": "8658.67",
+  "vat_amount": "1589.80"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "7356.23",
+   "net_amount": "5980.67",
+   "vat_amount": "1375.56",
+   "vat_rate": "23"
+  },
+  {
+   "gross_amount": "2892.24",
+   "net_amount": "2678.00",
+   "vat_amount": "214.24",
+   "vat_rate": "8"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Toruniu",
+ "attachments_count": null,
+ "case_ref": "AB.7217.166.2026.DW",
+ "deadline": {
+  "action": "wniesienie odwołania",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": "Strona Kajetan Anioła podlega wymeldowaniu z pobytu stałego.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 35 ust. 1 ustawy o ewidencji ludności",
+  "art. 104 k.p.a."
+ ],
+ "letter_date": "2026-08-06",
+ "letter_place": "Grudziądz",
+ "letter_type": "decision",
+ "recipient": {
+  "address": {
+   "building_no": "157",
+   "city": "Kościerzyna",
+   "country": null,
+   "postal_code": "42-114",
+   "street": "Podwale",
+   "unit_no": "43"
+  },
+  "krs": null,
+  "name": "Kajetan Anioła",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "66",
+   "city": "Grudziądz",
+   "country": null,
+   "postal_code": "91-062",
+   "street": "Cmentarna",
+   "unit_no": null
+  },
+  "authority_name": "Prezydent Miasta Grudziądza",
+  "epuap": "/PMGrudziadz/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Spraw Obywatelskich i Ewidencji Ludności"
+ },
+ "signatory": {
+  "full_name": "Artur Michnik",
+  "role": "Prezydent Miasta"
+ },
+ "subject": "wymeldowanie z pobytu stałego"
+}

@@ -1,0 +1,59 @@
+{
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Opolu",
+ "attachments_count": null,
+ "case_ref": "GN.5449.94.2026.AV",
+ "deadline": {
+  "action": "wniesienie odwołania od decyzji",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": "I. Ustala się warunki zabudowy dla inwestycji polegającej na budowie budynku mieszkalnego jednorodzinnego na działce ewidencyjnej nr 119/17.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 104 k.p.a.",
+  "art. 59 ust. 1",
+  "art. 60 ust. 1",
+  "art. 61 ust. 1",
+  "art. 62 ust. 1",
+  "art. 127 § 1 i 2 k.p.a."
+ ],
+ "letter_date": "2026-09-15",
+ "letter_place": "Korfantów",
+ "letter_type": "decision",
+ "recipient": {
+  "address": {
+   "building_no": "105",
+   "city": "Świnoujście",
+   "country": null,
+   "postal_code": "88-616",
+   "street": "Tuwima",
+   "unit_no": "72"
+  },
+  "krs": null,
+  "name": "Świergiel-Startek S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "8",
+   "city": "Korfantów",
+   "country": null,
+   "postal_code": "93-956",
+   "street": "Podwale",
+   "unit_no": "17"
+  },
+  "authority_name": "Burmistrz Miasta Korfantowa",
+  "epuap": null,
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Planowania Przestrzennego i Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Jacek Bulak",
+  "role": "Burmistrz"
+ },
+ "subject": "ustalenia warunków zabudowy dla inwestycji polegającej na budowie budynku mieszkalnego jednorodzinnego na działce ewidencyjnej nr 119/17"
+}

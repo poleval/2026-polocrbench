@@ -1,0 +1,84 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "129",
+   "city": "Wyszków",
+   "country": null,
+   "postal_code": "23-862",
+   "street": "Pocztowa",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Watras Sp. z o.o.",
+  "nip": "0009280188",
+  "pesel": null,
+  "regon": "003603756",
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-02-07",
+ "issue_place": "Gliwice",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Drzwi wewnętrzne z ościeżnicą",
+   "discount": null,
+   "gross_amount": "1008.22",
+   "line_no": 1,
+   "net_amount": "819.69",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "819.69",
+   "vat_amount": "188.53",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "FA/0518/25",
+ "payment": {
+  "bank_account": "PL98000000001966366622203092",
+  "bank_name": "Bank Zielonej Doliny",
+  "due_date": "2025-02-28",
+  "due_days": null,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2025-02-06",
+ "seller": {
+  "address": {
+   "building_no": "149",
+   "city": "Wieluń",
+   "country": null,
+   "postal_code": "79-049",
+   "street": "Popiełuszki",
+   "unit_no": "72"
+  },
+  "krs": null,
+  "name": "PPUH Rudowicz S.A.",
+  "nip": "0002212433",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "1008.22",
+  "amount_in_words": "tysiąc osiem złotych 22 gr",
+  "amount_paid": null,
+  "gross_amount": "1008.22",
+  "net_amount": "819.69",
+  "vat_amount": "188.53"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "1008.22",
+   "net_amount": "819.69",
+   "vat_amount": "188.53",
+   "vat_rate": "23"
+  }
+ ]
+}

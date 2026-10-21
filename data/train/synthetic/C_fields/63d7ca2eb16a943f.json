@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "AB.4005.7.2025.AL",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 6 ust. 2 ustawy o petycjach",
+  "art. 6 ust. 1 ustawy o petycjach"
+ ],
+ "letter_date": "2025-05-04",
+ "letter_place": "Kępno",
+ "letter_type": "information",
+ "recipient": {
+  "address": {
+   "building_no": "128B",
+   "city": "Kościerzyna",
+   "country": null,
+   "postal_code": "98-544",
+   "street": "Bolesława Krzywoustego",
+   "unit_no": "18"
+  },
+  "krs": null,
+  "name": "Norbert Podkowa",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "105C",
+   "city": "Kępno",
+   "country": null,
+   "postal_code": "85-242",
+   "street": "Władysława Jagiełły",
+   "unit_no": null
+  },
+  "authority_name": "Urząd Miasta Kępna",
+  "epuap": "/UMKepno/SkrytkaESP",
+  "nip": null,
+  "regon": "007865430",
+  "unit": "Wydział Organizacyjny"
+ },
+ "signatory": {
+  "full_name": "Alex Bogaczyk",
+  "role": "Burmistrz"
+ },
+ "subject": "sposób załatwienia petycji złożonej w dniu 2025-03-06 o zagospodarowanie nieruchomości oznaczonej numerem działki 207/27"
+}

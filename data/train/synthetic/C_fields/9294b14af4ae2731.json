@@ -1,0 +1,55 @@
+{
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Kielcach",
+ "attachments_count": null,
+ "case_ref": "PS.4652.127.2026.JM",
+ "deadline": {
+  "action": "wniesienie odwołania",
+  "date": null,
+  "days": 14
+ },
+ "decision_operative_part": "Strona Andrzej Bździuch podlega wymeldowaniu z pobytu stałego.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 35 ust. 1 ustawy o ewidencji ludności",
+  "art. 104 k.p.a."
+ ],
+ "letter_date": "2026-06-07",
+ "letter_place": "Kielce",
+ "letter_type": "decision",
+ "recipient": {
+  "address": {
+   "building_no": "106",
+   "city": "Gorzów Wielkopolski",
+   "country": null,
+   "postal_code": "41-224",
+   "street": "Powstańców Wielkopolskich",
+   "unit_no": "62"
+  },
+  "krs": null,
+  "name": "Andrzej Bździuch",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "50B",
+   "city": "Kielce",
+   "country": null,
+   "postal_code": "40-233",
+   "street": "Grzybowa",
+   "unit_no": null
+  },
+  "authority_name": "Prezydent Miasta Kielc",
+  "epuap": "/PMKielce/SkrytkaESP",
+  "nip": null,
+  "regon": "008776289",
+  "unit": "Wydział Spraw Obywatelskich i Ewidencji Ludności"
+ },
+ "signatory": {
+  "full_name": "Dorota Fyda",
+  "role": "Prezydent Miasta"
+ },
+ "subject": "wymeldowanie z pobytu stałego"
+}

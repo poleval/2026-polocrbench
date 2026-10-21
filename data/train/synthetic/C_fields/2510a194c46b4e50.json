@@ -1,0 +1,126 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "159",
+   "city": "Oleśnica",
+   "country": null,
+   "postal_code": "60-134",
+   "street": "Piłsudskiego",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Królikiewicz-Kondej Sp. z o.o.",
+  "nip": "0006274371",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-10-27",
+ "issue_place": "Piła",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Płyn hamulcowy DOT-4",
+   "discount": null,
+   "gross_amount": "141.45",
+   "line_no": 1,
+   "net_amount": "115.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "2.5",
+   "unit": "l",
+   "unit_price_gross": null,
+   "unit_price_net": "46.00",
+   "vat_amount": "26.45",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Filtr powietrza silnika",
+   "discount": null,
+   "gross_amount": "867.10",
+   "line_no": 2,
+   "net_amount": "704.96",
+   "pkwiu_or_gtu": null,
+   "quantity": "16",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "44.06",
+   "vat_amount": "162.14",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Wymiana oleju i filtra",
+   "discount": null,
+   "gross_amount": "342.69",
+   "line_no": 3,
+   "net_amount": "278.61",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "278.61",
+   "vat_amount": "64.08",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Filtr kabinowy z węglem aktywnym",
+   "discount": null,
+   "gross_amount": "974.16",
+   "line_no": 4,
+   "net_amount": "792.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "6",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "132.00",
+   "vat_amount": "182.16",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "379/10/2025",
+ "payment": {
+  "bank_account": "PL15000000000131558514602542",
+  "bank_name": null,
+  "due_date": "2025-11-03",
+  "due_days": null,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2025-10-18",
+ "seller": {
+  "address": {
+   "building_no": "63",
+   "city": "Płock",
+   "country": null,
+   "postal_code": "20-629",
+   "street": "Niecała",
+   "unit_no": "70"
+  },
+  "krs": null,
+  "name": "PPUH Witold Turoń",
+  "nip": "0000551266",
+  "pesel": null,
+  "regon": "009486010",
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "2325.40",
+  "amount_in_words": "dwa tysiące trzysta dwadzieścia pięć zł 40/100",
+  "amount_paid": "0.00",
+  "gross_amount": "2325.40",
+  "net_amount": "1890.57",
+  "vat_amount": "434.83"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "2325.40",
+   "net_amount": "1890.57",
+   "vat_amount": "434.83",
+   "vat_rate": "23"
+  }
+ ]
+}

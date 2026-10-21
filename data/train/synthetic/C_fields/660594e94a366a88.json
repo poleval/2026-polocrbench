@@ -1,0 +1,62 @@
+{
+ "_warianty": {
+  "Samorządowe Kolegium Odwoławcze w Katowicach": [
+   "Samorządowego Kolegium Odwoławczego w Katowicach"
+  ]
+ },
+ "appeal_body": "Samorządowe Kolegium Odwoławcze w Katowicach",
+ "attachments_count": null,
+ "case_ref": "OŚ.7664.145.2026",
+ "deadline": {
+  "action": "wniesienia zażalenia",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": "odmówić wszczęcia postępowania administracyjnego.",
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 61a § 1 k.p.a.",
+  "art. 61a § 2 k.p.a.",
+  "art. 61a § 3 k.p.a.",
+  "art. 141 § 2 k.p.a."
+ ],
+ "letter_date": "2026-09-27",
+ "letter_place": "Nędza",
+ "letter_type": "order",
+ "recipient": {
+  "address": {
+   "building_no": "82",
+   "city": "Stargard Szczeciński",
+   "country": null,
+   "postal_code": "32-444",
+   "street": "Krokusowa",
+   "unit_no": "19"
+  },
+  "krs": null,
+  "name": "Arkadiusz Kazior",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "160",
+   "city": "Nędza",
+   "country": null,
+   "postal_code": "22-286",
+   "street": "Lazurowa",
+   "unit_no": "8"
+  },
+  "authority_name": "Wójt Gminy Nędza",
+  "epuap": "/WGNedza/SkrytkaESP",
+  "nip": "0002392205",
+  "regon": null,
+  "unit": "Referat Gospodarki Nieruchomościami"
+ },
+ "signatory": {
+  "full_name": "Anastazja Błądek",
+  "role": "Wójt Gminy"
+ },
+ "subject": "odmowa wszczęcia postępowania administracyjnego o stwierdzenie nieważności umowy sprzedaży działki ewidencyjnej nr 978/18"
+}

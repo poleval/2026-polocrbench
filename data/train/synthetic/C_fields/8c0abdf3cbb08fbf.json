@@ -1,0 +1,112 @@
+{
+ "annotations": null,
+ "buyer": {
+  "address": {
+   "building_no": "25",
+   "city": "Nysa",
+   "country": null,
+   "postal_code": "05-206",
+   "street": "Spokojna",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "FPUH Ochnik Sp. z o.o.",
+  "nip": "0001148532",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-08-24",
+ "issue_place": "Marki",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Dezynfekcja pomieszczeń",
+   "discount": null,
+   "gross_amount": "15.41",
+   "line_no": 1,
+   "net_amount": "12.53",
+   "pkwiu_or_gtu": null,
+   "quantity": "1.5",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "8.35",
+   "vat_amount": "2.88",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Wiadro z wyciskaczem",
+   "discount": null,
+   "gross_amount": "463.32",
+   "line_no": 2,
+   "net_amount": "376.68",
+   "pkwiu_or_gtu": null,
+   "quantity": "4",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "94.17",
+   "vat_amount": "86.64",
+   "vat_rate": "23"
+  },
+  {
+   "description": "Pranie wykładzin",
+   "discount": null,
+   "gross_amount": "92.25",
+   "line_no": 3,
+   "net_amount": "75.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "5",
+   "unit": "m2",
+   "unit_price_gross": null,
+   "unit_price_net": "15.00",
+   "vat_amount": "17.25",
+   "vat_rate": "23"
+  }
+ ],
+ "number": "66/08/2025",
+ "payment": {
+  "bank_account": "PL64000000000064523883321727",
+  "bank_name": "Bank Nadmorskiej Bryzy",
+  "due_date": null,
+  "due_days": 14,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2025-08-21",
+ "seller": {
+  "address": {
+   "building_no": "134",
+   "city": "Police",
+   "country": null,
+   "postal_code": "07-626",
+   "street": "Rzemieślnicza",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Gabinety Olga Nawrotek",
+  "nip": "0001626339",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "570.98",
+  "amount_in_words": "pięćset siedemdziesiąt złotych 98/100",
+  "amount_paid": null,
+  "gross_amount": "570.98",
+  "net_amount": "464.21",
+  "vat_amount": "106.77"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "570.98",
+   "net_amount": "464.21",
+   "vat_amount": "106.77",
+   "vat_rate": "23"
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "annotations": [
+  "split_payment"
+ ],
+ "buyer": {
+  "address": {
+   "building_no": "140",
+   "city": "Konin",
+   "country": null,
+   "postal_code": "02-586",
+   "street": "Pocztowa",
+   "unit_no": "66"
+  },
+  "krs": "0099999999",
+  "name": "Wykręt Sp. z o.o.",
+  "nip": "0008586471",
+  "pesel": null,
+  "regon": "002052886",
+  "vat_eu": null
+ },
+ "corrected_invoice_number": null,
+ "currency": "PLN",
+ "doc_type": "invoice",
+ "invoice_type": "vat",
+ "issue_date": "2025-03-21",
+ "issue_place": "Bielsk Podlaski",
+ "ksef_number": null,
+ "line_items": [
+  {
+   "description": "Wahacz przedni zawieszenia",
+   "discount": null,
+   "gross_amount": "382.53",
+   "line_no": 1,
+   "net_amount": "311.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "311.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Wymiana oleju i filtra",
+   "discount": null,
+   "gross_amount": "824.10",
+   "line_no": 2,
+   "net_amount": "670.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "335.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Pasek wieloklinowy",
+   "discount": null,
+   "gross_amount": "808.69",
+   "line_no": 3,
+   "net_amount": "657.47",
+   "pkwiu_or_gtu": null,
+   "quantity": "11",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "59.77",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Płyn chłodniczy gotowy do użycia",
+   "discount": null,
+   "gross_amount": "28.29",
+   "line_no": 4,
+   "net_amount": "23.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "1",
+   "unit": "l",
+   "unit_price_gross": null,
+   "unit_price_net": "23.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Akumulator samochodowy 12V 60Ah",
+   "discount": null,
+   "gross_amount": "1037.33",
+   "line_no": 5,
+   "net_amount": "843.36",
+   "pkwiu_or_gtu": null,
+   "quantity": "3",
+   "unit": "szt.",
+   "unit_price_gross": null,
+   "unit_price_net": "281.12",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Najem samochodu zastępczego",
+   "discount": null,
+   "gross_amount": "12546.00",
+   "line_no": 6,
+   "net_amount": "10200.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "2",
+   "unit": "m-c",
+   "unit_price_gross": null,
+   "unit_price_net": "5100.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  },
+  {
+   "description": "Wulkanizacja opony",
+   "discount": null,
+   "gross_amount": "3302.55",
+   "line_no": 7,
+   "net_amount": "2685.00",
+   "pkwiu_or_gtu": null,
+   "quantity": "15",
+   "unit": "usł.",
+   "unit_price_gross": null,
+   "unit_price_net": "179.00",
+   "vat_amount": null,
+   "vat_rate": "23"
+  }
+ ],
+ "number": "187/03/2025",
+ "payment": {
+  "bank_account": "PL04000000004173541133653908",
+  "bank_name": null,
+  "due_date": "2025-03-28",
+  "due_days": null,
+  "method": "transfer"
+ },
+ "recipient": null,
+ "sale_date": "2025-03-20",
+ "seller": {
+  "address": {
+   "building_no": "86",
+   "city": "Turek",
+   "country": null,
+   "postal_code": "14-661",
+   "street": "Zielna",
+   "unit_no": "82"
+  },
+  "krs": "0099999999",
+  "name": "Wolan S.A.",
+  "nip": "0001543406",
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "totals": {
+  "amount_due": "18929.49",
+  "amount_in_words": "osiemnaście tysięcy dziewięćset dwadzieścia dziewięć zł 49/100",
+  "amount_paid": null,
+  "gross_amount": "18929.49",
+  "net_amount": "15389.83",
+  "vat_amount": "3539.66"
+ },
+ "vat_summary": [
+  {
+   "gross_amount": "18929.49",
+   "net_amount": "15389.83",
+   "vat_amount": "3539.66",
+   "vat_rate": "23"
+  }
+ ]
+}

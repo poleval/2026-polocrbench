@@ -1,0 +1,55 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "RO.4693.195.2025.UY",
+ "deadline": {
+  "action": "usunięcia wskazanych braków",
+  "date": null,
+  "days": 7
+ },
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 64 § 1 k.p.a.",
+  "art. 64 § 2 k.p.a."
+ ],
+ "letter_date": "2025-05-24",
+ "letter_place": "Września",
+ "letter_type": "summons",
+ "recipient": {
+  "address": {
+   "building_no": "134",
+   "city": "Gorzów Wielkopolski",
+   "country": null,
+   "postal_code": "56-206",
+   "street": "Źródlana",
+   "unit_no": "17"
+  },
+  "krs": null,
+  "name": "PPUH Rembisz S.A.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "100",
+   "city": "Września",
+   "country": null,
+   "postal_code": "45-147",
+   "street": "Wieniawskiego",
+   "unit_no": "78"
+  },
+  "authority_name": "Urząd Miasta Wrześni",
+  "epuap": "/UMWrzesnia/SkrytkaESP",
+  "nip": null,
+  "regon": null,
+  "unit": "Wydział Spraw Administracyjnych"
+ },
+ "signatory": {
+  "full_name": "Damian Choina",
+  "role": "Kierownik Wydziału Spraw Administracyjnych"
+ },
+ "subject": "uzupełnienie braków formalnych wniosku z dnia 2025-04-17 o wydanie decyzji administracyjnej dla działki nr 390/5"
+}

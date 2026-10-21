@@ -1,0 +1,53 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "OR.4247.6.2026",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 61 § 1 i 4 k.p.a.",
+  "art. 10 § 1 k.p.a.",
+  "art. 73 § 1 k.p.a.",
+  "art. 41 § 1 k.p.a."
+ ],
+ "letter_date": "2026-07-01",
+ "letter_place": "Rakoniewice",
+ "letter_type": "notification",
+ "recipient": {
+  "address": {
+   "building_no": "129",
+   "city": "Leszno",
+   "country": null,
+   "postal_code": "46-153",
+   "street": "Orla",
+   "unit_no": null
+  },
+  "krs": null,
+  "name": "Aurelia Cymbała",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "9",
+   "city": "Rakoniewice",
+   "country": null,
+   "postal_code": "40-788",
+   "street": "Morska",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Rakoniewic",
+  "epuap": "/BMRakoniewice/SkrytkaESP",
+  "nip": "0006745497",
+  "regon": null,
+  "unit": "Wydział Gospodarki Przestrzennej i Architektury"
+ },
+ "signatory": {
+  "full_name": "Marianna Lalak",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "wszczęcie postępowania administracyjnego dotyczącego wydania decyzji o warunkach zabudowy"
+}

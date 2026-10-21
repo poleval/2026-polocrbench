@@ -1,0 +1,51 @@
+{
+ "appeal_body": null,
+ "attachments_count": null,
+ "case_ref": "FN.4488.42.2025.AC",
+ "deadline": null,
+ "decision_operative_part": null,
+ "doc_type": "official_letter",
+ "legal_basis": [
+  "art. 306a ustawy – Ordynacja podatkowa",
+  "art. 306b ustawy – Ordynacja podatkowa"
+ ],
+ "letter_date": "2025-11-24",
+ "letter_place": "Kutno",
+ "letter_type": "certificate",
+ "recipient": {
+  "address": {
+   "building_no": "158",
+   "city": "Bochnia",
+   "country": null,
+   "postal_code": "68-182",
+   "street": "Waryńskiego",
+   "unit_no": "62"
+  },
+  "krs": null,
+  "name": "Styrna Sp. z o.o.",
+  "nip": null,
+  "pesel": null,
+  "regon": null,
+  "vat_eu": null
+ },
+ "sender": {
+  "address": {
+   "building_no": "47",
+   "city": "Kutno",
+   "country": null,
+   "postal_code": "41-574",
+   "street": "Kwiatowa",
+   "unit_no": null
+  },
+  "authority_name": "Burmistrz Miasta Kutna",
+  "epuap": null,
+  "nip": null,
+  "regon": "007470750",
+  "unit": "Wydział Finansów, Referat Podatków i Opłat Lokalnych"
+ },
+ "signatory": {
+  "full_name": "Sonia Kozieja",
+  "role": "Burmistrz Miasta"
+ },
+ "subject": "niezalegania w podatkach lokalnych"
+}
