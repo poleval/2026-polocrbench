@@ -1,0 +1,19 @@
+§ 1. W rozporządzeniu Ministra Finansów z dnia 16 grudnia 2008 r. w sprawie zasad tworzenia rezerw na ryzyko związane z działalnością banków wprowadza się następujące zmiany:
+
+1) w § 5 w ust. 4 pkt 1 otrzymuje brzmienie:
+
+„1) w przypadku ekspozycji kredytowych zabezpieczonych zabezpieczeniami wymienionymi w ust. 3 pkt 16 załącznika nr 2 do rozporządzenia, kwota, o którą można pomniejszyć podstawę tworzenia rezerw celowych, nie może być większa niż limit pomniejszenia dla poszczególnych okresów opóźnienia w spłacie, określony w tabeli nr 1 załącznika nr 3 do rozporządzenia;”;
+
+2) w załączniku nr 2:
+
+a) w ust. 1 po pkt 3 dodaje się pkt 3a i 3b w brzmieniu:
+
+„3a) umowa ubezpieczenia eksportowego lub gwarancja ubezpieczeniowa Korporacji Ubezpieczeń Kredytów Eksportowych S.A., objęta w sposób bezpośredni lub pośredni systemem gwarantowania wypłat przez Skarb Państwa, zawarta lub udzielona na podstawie przepisów o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych, dla określonej umowy dotyczącej ekspozycji kredytowych - do wysokości iloczynu procentu, w jakim ryzyko wystąpienia zdarzenia objęte jest ochroną ubezpieczeniową lub gwarancyjną, i sumy odpowiednio ubezpieczenia lub gwarancji, jeżeli konieczność tworzenia rezerw celowych jest następstwem zdarzeń objętych tym ubezpieczeniem lub gwarancją;
+
+3b) gwarancja lub poręczenie Banku Gospodarstwa Krajowego, o których mowa w rozdziale 8a ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne , a także regwarancja lub reporęczenie, zabezpieczające zobowiązania funduszy poręczeniowych, jeśli są powiązane z określoną ekspozycją kredytową banku;”,
+
+b) w ust. 2 uchyla się pkt 3, 5 i 5a,
+
+c) w ust. 3: pkt 9 otrzymuje brzmienie:
+
+„9) gwarancja lub poręczenie Banku Gospodarstwa Krajowego, o których mowa w rozdziale 8a ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby
