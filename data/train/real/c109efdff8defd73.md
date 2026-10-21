@@ -1,0 +1,4 @@
+<table>
+<tr><td></td><td>pełniły także dodatkowo funkcję ochrony indywidualnej.</td></tr>
+<tr><td>Przeprowadzenie kursów językowych</td><td>16 pracowników Wydziału Spraw Obywatelskich i Cudzoziemców zaangażowanych w obsługę cudzoziemców państw trzecich ukończyło kursy językowe: - 2 osoby ukończyły angielski na poziomie A1 - 2 osoby ukończyły angielski na poziomie A2 - 1 osoba ukończyła angielski na poziomie B1 - 3 osoby ukończyły angielski na poziomie B2 - 2 osoby ukończyły angielski na poziomie C1 - 2 osoby ukończyły rosyjski na poziomie A1 - 2 osoby ukończyły rosyjski na poziomie A2 - 2 osoby ukończyły rosyjski na poziomie B2 Łącznie zrealizowanych zostało 1 200 godzin kursu (120 godz. x 10 grup). Wiedza oraz umiejętności zdobyte w trakcie kursów są wykorzystywane przy obsłudze cudzoziemców.</td></tr>
+</table>

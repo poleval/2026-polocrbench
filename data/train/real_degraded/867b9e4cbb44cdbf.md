@@ -1,0 +1,21 @@
+Odwołanie od decyzji Wojewody Śląskiego z 7 października 2026 r., znak SCV.1331.44.2026
+
+Dotyczy: SCV.1331.44.2026 - decyzja Wojewody Śląskiego z 7 października 2026 r.
+
+Minister Spraw Wewnętrznych i Administracji za pośrednictwem Wojewody Śląskiego
+
+# ODWOŁANIE
+
+Na podstawie art. 127 § 1 i 2 oraz art. 129 § 1 i 2 k.p.a. w związku z art. 16 ust. 2 ustawy o dostępie do informacji publicznej wnoszę odwołanie od decyzji Wojewody Śląskiego z 7 października 2026 r., znak SCV.1331.44.2026, doręczonej 7 października 2026 r., odmawiającej udostępnienia informacji o postępowaniach z art. 42c-42e ustawy o pomocy obywatelom Ukrainy (wniosek z 10 sierpnia 2026 r.). Decyzję zaskarżam w całości. Wnoszę o jej uchylenie i przekazanie sprawy do ponownego rozpatrzenia z wytycznymi co do wykładni art. 3 ust. 1 pkt 1 u.d.i.p. (art. 138 § 2 i 2a k.p.a.) oraz o rozpoznanie odwołania w terminie 14 dni (art. 16 ust. 2 pkt 1 u.d.i.p.).
+
+Żądanie podtrzymuję w całym zakresie, którego organ nie udostępnił 27 sierpnia 2026 r., dla województwa śląskiego: karty w podziale na miesiące (pkt 3), średni i maksymalny czas do pierwszej czynności i do decyzji (pkt 4), postępowania ponad 60 i 180 dni bez decyzji (pkt 5), obsada etatowa według planu i faktyczna (pkt 7). Co do skali kraju wystarczy informacja, że organ tych danych nie posiada (art. 4 ust. 3 u.d.i.p.). Zarzuty i uzasadnienie zawiera załącznik nr 1. W skrócie:
+
+1. Decyzja nie określa, której informacji odmawia jako przetworzonej: sentencja obejmuje cały wniosek, łącznie z danymi udostępnionymi 27 sierpnia 2026 r., a kwalifikacja w uzasadnieniu jest warunkowa i nie wskazuje punktów, zbioru ani nakładu. Odmawia nawet liczby postępowań trwających ponad 180 dni, na dzień decyzji z konieczności zerowej (wnioski CUKR przyjmowane są od 4 maja 2026 r.).
+
+2. Teza, że dane „są znane" Szefowi UdSC i Ministrowi, jest prawnie obojętna, bo prawo do informacji służy kontroli społecznej (NSA, I OSK 1645/14). Część danych UdSC mi udostępnił, danych o obsadzie etatowej nie posiada i odesłał do Wojewody Śląskiego (BSZ.WAiSM.0361.15.2026/DH); MSWiA nie wyznaczyło komórki do monitorowania terminowości postępowań legalizacyjnych (DBiSO-WODO.06770.2.70.2026.EJ).
+
+3. Wymogu wymiernego efektu ustawa nie zna. Wyrok powołany przez organ wiąże interes publiczny z tym, że uzyskanie informacji „mogłoby mieć znaczenie z punktu widzenia funkcjonowania państwa" (II SA/Wa 112/07); zawężenia do „realnej, natychmiastowej możliwości wykorzystania zdobytych danych" nie przyjął prawomocny wyrok WSA w Warszawie wobec MSWiA (II SA/Wa 2371/23).
+
+4. Ocena szczególnej istotności jest - z pominięciem jednego akapitu - co do słowa zgodna z uzasadnieniem decyzji SCV.1331.35.2026 wydanej tego samego dnia na inny wniosek; o postępowaniach CUKR nie mówi nic, a udokumentowany użytek pomija (art. 7, 77 § 1, 80 i 107 § 3 k.p.a.).
+
+Szczególna istotność w skrócie: 13 października 2025 r. w toku było 463 487 spraw z art. 114 ustawy o cudzoziemcach (interpelacja nr 12584); średni czas postępowania o pobyt czasowy u Wojewody Śląskiego wzrósł z 427 dni w 2023 r. do 658 dni (stan na 6 lipca 2026 r., interpelacja nr 18089); NIK stwierdziła nieprawidłowości w 60,1% zbadanych spraw (P/23/069). W sprawach CUKR średni czas do decyzji u Wojewody Śląskiego wzrósł z 41 dni w czerwcu do 95 dni w sierpniu 2026 r., w kraju z 49 do 73 dni (dane UdSC). Nabór FAMI.02.05-IZ.00-001/26 przewiduje dofinansowanie obsługi wniosków CUKR, w tym „koszty personelu obsługującego wnioski o wydanie karty pobytu CUKR" (alokacja dla województwa śląskiego 7 618 000,00 zł). Pisma z danymi uzyskanymi od organów przekazałem Europejskiemu Trybunałowi Obrachunkowemu i sekretariatowi Komisji Kontroli Budżetowej Parlamentu Europejskiego, który 8 października 2026 r. poinformował, że moje pismo przekazano sprawozdawcy ds. absolutorium za 2025 r. Moje uwagi opublikowało Rządowe Centrum Legislacji (UD408), a NIK zarejestrowała moje wnioski. Proszę o kierowanie wszelkiej korespondencji w tej sprawie drogą elektroniczną: na adres do doręczeń elektronicznych, z którego wysłano niniejsze pismo, albo na mój adres poczty elektronicznej wskazany w podpisie. Doręczenie elektroniczne jest natychmiastowe i potwierdzone, podczas gdy przesyłka papierowa na

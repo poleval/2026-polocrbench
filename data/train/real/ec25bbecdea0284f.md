@@ -1,0 +1,21 @@
+# RE: Znak sprawy: SO-IV.1331.14.2026 (nadawany automatycznie przez formularz odpowiedzi)
+
+Dotyczy: SO-IV.1331.14.2026.ESzo - wniosek o udostępnienie informacji publicznej z 27 sierpnia 2026 r.
+
+Szanowni Państwo,
+
+potwierdzam otrzymanie pisma 9 września 2026 r. i odpowiadam w terminie na oba żądania.
+
+1. Punkt 3 - dziękuję. Przyjmuję odpowiedź, że Urząd nie wytworzył wewnętrznych dokumentów określających postępowanie z ponagleniami, oraz odesłanie do wzorów ze spraw SO-IV.1331.13.2026 i SO-IV.1331.12.2026; w tym zakresie o nic więcej nie wnoszę. Nie wycofuję pytania z 28 sierpnia 2026 r. (sprawa SO-IV.1331.13.2026) o treść samych wzorów.
+
+2. Podpis. Pismo składam przez e-Doręczenia z mojego adresu do doręczeń elektronicznych i podpisuję; potwierdzam, że jestem autorem wniosku z 27 sierpnia 2026 r. Czynię to dla usunięcia wątpliwości, nie z uznania obowiązku: ustawa o dostępie do informacji publicznej nie uzależnia udostępnienia informacji od podpisu, a przepisy Kodeksu postępowania administracyjnego o podaniu stosuje się - jak wskazał Naczelny Sąd Administracyjny w wyroku III OSK 2773/23 - "o ile zobowiązany organ zmierza do wydania takiej decyzji". Skoro Urząd rozważa decyzję z art. 16, podpis składam bez sporu; tego samego dnia złożyłem go w sprawie SO-I.1331.5.2026. Podpis dotyczy wniosku z 27 sierpnia 2026 r., który podtrzymuję w całości w brzmieniu tam wskazanym; niniejsze pismo go nie zastępuje i nie rozpoczyna nowego biegu terminów.
+
+3. Doprecyzowanie punktów 1 i 4 oraz zawężenie punktu 2.
+
+Punkt 1 nie wymaga przeglądu teczki 6156 - wskazuje dokumenty po znaku: DPM.0738.29.2022, DPM.0738.49.2022 (15 czerwca 2022 r.), DPM.0738.77.2022 i DPM.0738.81.2022 (9 listopada 2022 r.), a w granicach tego samego punktu także pismo DPM.0738.24.2022 z 5 kwietnia 2022 r., sygnalizujące nowelizację wprowadzającą art. 100c, powołane w piśmie DPM.0738.29.2022. To zbiór zamknięty, wyznaczony numerami dokumentów, a nie kryterium wymagającym oceny; odszukanie pisma po znaku jest wyszukaniem dokumentu, nie wytworzeniem informacji. Punkt 4 dotyczy wyłącznie tych pism: jeżeli któregoś Urząd nie posiada, wystarczy zdanie, że nie wpłynęło.
+
+Punkt 2 zawężam w czasie do pism Urzędu do Spraw Cudzoziemców dotyczących art. 100d albo postępowania z ponagleniami w sprawach objętych tym przepisem, które wpłynęły od 1 stycznia 2023 r., to jest od dnia wejścia w życie art. 100d (Dz.U. 2023 poz. 185). Wcześniejszy okres pokrywa punkt 1: spośród czterech pism, których treść znam, trzy dotyczą art. 100c, a czwarte postępowania uproszczonego przy wpisie zaproszenia do ewidencji i zapowiada dodanie art. 37 § 3a Kodeksu postępowania administracyjnego; żadne nie dotyczy art. 100d, bo przepisu jeszcze nie było. Po zawężeniu punkt 2 to korespondencja od jednego nadawcy, w jednym przedmiocie, z niespełna trzech lat - nie przegląd całej teczki. Co do uwagi, że jestem w posiadaniu żądanych pism: treść czterech z nich otrzymałem od innego wojewody i dlatego mogę podać znaki. Wnoszę jednak o kopię z akt tego Urzędu, nie o samo potwierdzenie - kopia pokazuje, czy i w jakiej wersji dokument do Lubuskiego Urzędu Wojewódzkiego dotarł, czego z egzemplarza innego organu ustalić się nie da. Wniosek z 27 sierpnia nie zawiera żądania żadnych liczb ani zestawień.
+
+4. Szczególnie istotny interes publiczny - na wypadek podtrzymania kwalifikacji. Żądane pisma dotyczą podstawy praktyki pozostawiania ponagleń bez rozpoznania, którą Urząd w tym samym piśmie potwierdza, stwierdzając zarazem, że własnego dokumentu wewnętrznego nie wytworzył. To pytanie o podstawę działania administracji. Skala: według odpowiedzi MSWiA na interpelację nr 12584 w toku pozostawało 463 487 spraw o zezwolenie na pobyt czasowy i pracę (art. 114 ustawy o cudzoziemcach) przy średnim czasie 341 dni, stan na 13 października 2025 r.; średni czas postępowania o pobyt czasowy u Wojewody Lubuskiego wzrósł z 398 dni w 2023 r. do 533 dni w 2026 r. - dane samego Urzędu z pisma SO-IV.1331.10.2026.ESzo; NIK stwierdziła nieprawidłowości w 60,1% zbadanych spraw (P/23/069).
+
+Użytek jest dokonany, nie zapowiadany. Moje uwagi opublikowało Rządowe Centrum Legislacji w konsultacjach projektu UD408 (nr 12412103). Sekretariat Europejskiej Karty Społecznej Rady Europy

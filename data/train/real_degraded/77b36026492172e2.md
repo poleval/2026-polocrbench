@@ -1,0 +1,10 @@
+ustawy, a wniosek złożony pocztą elektroniczną jest skuteczny i nie wymaga uzupełnienia. Wskazuję to wyłącznie dla uniknięcia zbędnej korespondencji.
+
+Proszę o kierowanie wszelkiej korespondencji w tej sprawie drogą elektroniczną: na adres poczty elektronicznej, z którego wysłano niniejsze pismo, albo na mój adres do doręczeń elektronicznych wskazany w podpisie. Doręczenie elektroniczne jest natychmiastowe i potwierdzone, podczas gdy przesyłka papierowa na adres w Gliwicach wydłuża obieg o kilka dni w każdą stronę - co przy terminach siedmiodniowych ma znaczenie praktyczne dla obu stron.
+
+Z poważaniem
+
+[imię i nazwisko usunięte]
+[adres usunięty], [adres usunięty]
+[e-mail usunięty]
+adres do doręczeń elektronicznych: [ADE usunięty]

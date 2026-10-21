@@ -1,0 +1,15 @@
+2664
+
+Urząd do Spraw Cudzoziemców
+
+Koszykowa 16
+
+00-564 WARSZAWA
+
+BSZ.WAiSM.0361.17.2026/DH
+
+REPO
+
+PUH3750285993005 2664
+
+Umowa nr:513100 Data nadania: 28.08.2026

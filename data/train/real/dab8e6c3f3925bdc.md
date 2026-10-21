@@ -1,0 +1,10 @@
+zarejestrowane w bazie skarg i wniosków, co umożliwi ich wykorzystanie w pracach Izby"; 18 września 2026 r. przekazałem Izbie i Rzecznikowi Praw Obywatelskich (XI.541.22.2025.DB) dalsze dokumenty urzędowe. Proszę o kierowanie korespondencji w tej sprawie drogą elektroniczną: na adres do doręczeń elektronicznych, z którego wysłano niniejsze pismo, albo na [e-mail usunięty].
+
+Z poważaniem
+
+[imię i nazwisko usunięte]
+[adres usunięty], [adres usunięty]
+[e-mail usunięty]
+[ADE usunięty]
+
+Załącznik: zestawienie odpowiedzi innych urzędów wojewódzkich na te same wnioski.

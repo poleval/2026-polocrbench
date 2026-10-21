@@ -1,0 +1,40 @@
+# Wojewoda Opolski
+
+Monika Jurek
+
+Opole, 5 października 2026 r.
+
+SO.II.1331.15.2026.KB
+
+Pan
+
+Dotyczy: wniosek o udzielenie informacji publicznej – wezwanie o podpis
+
+W związku ze złożonym 18.08.2026 r. (przekazanym do Opolskiego Urzędu Wojewódzkiego za pośrednictwem e-mail) wnioskiem o udzielenie informacji publicznej wzywam Pana do uzupełnienia, w terminie 7 dni od dnia otrzymania niniejszego pisma, braku formalnego w postaci podpisu na wniosku.
+
+Nieusunięcie powyższego braku w terminie spowoduje pozostawienie przedmiotowego wniosku bez rozpoznania.
+
+Podstawa prawna:
+
+1) Ustawa z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902, zwanej dalej udip)
+2) Ustawa z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691, zwanej dalej KPA).
+
+Informuję, że pismem z 28.08.2026 r. został Pan wezwany do wykazania, w jakim zakresie występuje szczególna istotność dla interesu publicznego, by dokonać przetworzenia żądanych informacji publicznych. Z uwagi na możliwość odmowy udostępnienia żądanej informacji, w związku z brakiem w sprawie szczególnie istotnego interesu publicznego, organ jest zobowiązany zakończyć sprawę poprzez
+
+ul. Piastowska 14,
+
+45-081 Opole
+
+NIP: 754-11-16-953
+
+REGON: 000514325
+
+tel. 77 45 24 125
+
+fax 77 45 24 705
+
+email: bok@opole.uw.gov.pl
+
+www: www.opole.uw.gov.pl
+
+1/2
