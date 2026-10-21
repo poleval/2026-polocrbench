@@ -1,0 +1,11 @@
+seed = 20261021
+real_train_pages = 800
+test_a_pages = 500
+test_b_pages = 500
+synthetic_train_pages = 1200
+render_dpi = 150
+max_pages_per_document = 12
+
+[release]
+require_two_reviewers = true
+allow_preannotations = false

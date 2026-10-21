@@ -1,0 +1,1 @@
+{"id":"example-page-001","text":"# Dokument przykładowy\n\nZażółć gęślą jaźń.","tables":["<table><tr><th>Kwota</th><td>12,50</td></tr></table>"],"kie":{"date":"21.10.2026","amount":"12,50 zł"},"status":"programmatic","split":"smoke","reviewers":[],"field_types":{"date":"date","amount":"amount"}}

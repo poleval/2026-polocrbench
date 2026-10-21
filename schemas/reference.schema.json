@@ -1,0 +1,106 @@
+{
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "minLength": 1,
+      "title": "Id",
+      "type": "string"
+    },
+    "text": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Text"
+    },
+    "tables": {
+      "anyOf": [
+        {
+          "items": {
+            "type": "string"
+          },
+          "type": "array"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Tables"
+    },
+    "kie": {
+      "anyOf": [
+        {
+          "additionalProperties": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "type": "object"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Kie"
+    },
+    "status": {
+      "enum": [
+        "preannotation",
+        "verified",
+        "programmatic"
+      ],
+      "title": "Status",
+      "type": "string"
+    },
+    "split": {
+      "enum": [
+        "train",
+        "test_a",
+        "test_b",
+        "smoke"
+      ],
+      "title": "Split",
+      "type": "string"
+    },
+    "reviewers": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Reviewers",
+      "type": "array"
+    },
+    "field_types": {
+      "additionalProperties": {
+        "enum": [
+          "text",
+          "date",
+          "amount",
+          "identifier",
+          "address"
+        ],
+        "type": "string"
+      },
+      "title": "Field Types",
+      "type": "object"
+    }
+  },
+  "required": [
+    "id",
+    "status",
+    "split"
+  ],
+  "title": "Reference",
+  "type": "object"
+}

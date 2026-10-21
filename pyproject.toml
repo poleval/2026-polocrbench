@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "polocrbench"
+version = "0.1.0"
+description = "Deterministic PolOCRBench evaluation and dataset preparation tools"
+requires-python = ">=3.11"
+dependencies = ["pydantic>=2.10,<3", "rapidfuzz>=3.9,<4", "lxml>=5,<7", "apted==1.0.3", "Pillow>=11,<13", "PyMuPDF>=1.25,<2", "numpy>=2,<3"]
+
+[project.scripts]
+polocrbench = "polocrbench.cli:main"
+polocrbench-explorer = "polocrbench.explorer:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+polocrbench = ["static/*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

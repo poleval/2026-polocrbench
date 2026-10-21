@@ -61,7 +61,11 @@ The intended data license is **CC BY 4.0**; evaluation scripts are intended to u
 
 ### Release status
 
-This repository currently publishes the task description. The split sizes above are targets. Dataset links, evaluation scripts, submission schemas, and baseline results will be added with their releases.
+This checkout includes a **v0.1 evaluation and annotation toolkit**: deterministic A/B/C scoring, strict schemas, a local PDF/text explorer, two-reviewer annotation workflow, candidate preparation, synthetic training generation, and guarded release export. See the [delivery guide](docs/delivery-guide.md), [protocol](docs/protocol-v0.1.md), [annotation guide](docs/annotation-guide.md), and [review of earlier PolEval editions](docs/historical-quality-review.md).
+
+**Verified competition data are not released yet.** Candidate test assignments and references remain private. Current preparation covers official-document scans from one source; historical, handwritten, photographed, and OOD coverage still requires work. Synthetic training examples are candidates, not replacements for reviewed real tests. A local adapter or smoke baseline does not establish that the remote platform is configured.
+
+The split sizes above remain targets. Actual releases will include versioned manifests, hashes, annotation coverage, reproducible baseline evidence, and an announcement after the review and audit gates pass.
 
 ## Evaluation
 

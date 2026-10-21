@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="pl">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>OCR Work · Explorer dokumentów</title><link rel="stylesheet" href="/style.css"></head>
+<body>
+<header><div class="brand"><span class="mark">O</span><div>OCR WORK<small>Explorer dokumentów · Głos Migranta</small></div></div><div id="stats" class="stats">Wczytywanie datasetu…</div><span class="model">BASAL OMNI ULTRA <i>beta</i></span></header>
+<main>
+<aside>
+ <div class="sidebar-head"><h1>Dokumenty</h1><span id="count" class="count"></span></div>
+ <label class="search"><span>⌕</span><input id="search" type="search" placeholder="Szukaj po opisie, urzędzie, nazwie…" aria-label="Szukaj dokumentów"></label>
+ <div class="filters" role="group" aria-label="Typ dokumentu"><button data-filter="scanned" class="active">Skany</button><button data-filter="digital">Cyfrowe</button><button data-filter="all">Wszystkie</button></div>
+ <label class="check"><input type="checkbox" id="needsOcr"> Tylko skany bez warstwy tekstu</label>
+ <select id="organization" aria-label="Filtr urzędu"><option value="">Wszystkie urzędy</option></select>
+ <select id="workset" aria-label="Kolejka anotacji"><option value="">Przeglądanie datasetu</option><option value="queue">Kolejka anotacji · wszystkie splity</option><option value="train">Kolejka · train</option><option value="test_a">Kolejka · Test A (roboczy)</option><option value="test_b">Kolejka · Test B (roboczy)</option></select>
+ <select id="queueStage" aria-label="Etap anotacji"><option value="">Wszystkie etapy anotacji</option><option value="unstarted">Do rozpoczęcia</option><option value="draft">Szkice / do poprawy</option><option value="submitted">Czeka na przegląd 1</option><option value="reviewed_once">Czeka na przegląd 2</option><option value="verified">Po dwóch przeglądach</option><option value="excluded">Wykluczone</option></select>
+ <div class="list-top"><span id="resultInfo"></span><select id="sort" aria-label="Sortowanie"><option value="name">Nazwa A–Z</option><option value="pages">Najwięcej stron</option><option value="ocr">Najwięcej stron bez tekstu</option></select></div>
+ <div id="list" class="document-list" aria-label="Lista dokumentów"></div>
+ <footer>Klasyfikacja modelu z pomiarów PDF.<br>Obecność tekstu nie wyklucza skanu.</footer>
+</aside>
+<section class="workspace">
+ <div class="toolbar"><div class="modes" role="group" aria-label="Tryb porównania"><button data-mode="text" class="active">PDF + tekst</button><button data-mode="compare">Dwa dokumenty</button><button data-mode="annotate">Anotacja i przegląd</button></div><div class="zoom"><label for="zoom">Rozmiar</label><input id="zoom" type="range" min="70" max="160" step="10" value="100"><output id="zoomValue">100%</output></div></div>
+ <div id="detail" class="detail"><div class="eyebrow" id="detailMeta"></div><h2 id="detailTitle">Wybierz dokument</h2><div class="detail-bottom"><span id="detailCounts"></span><a id="openPdf" target="_blank" rel="noopener">Otwórz PDF ↗</a></div></div>
+ <div class="comparison">
+  <article class="pane" id="primaryPane"><div class="pane-head"><strong>Oryginalny PDF</strong><div class="pager"><button id="prev" aria-label="Poprzednia strona">←</button><label><input id="page" type="number" min="1" value="1" aria-label="Numer strony"><span id="pageTotal"></span></label><button id="next" aria-label="Następna strona">→</button></div></div><div class="page-evidence" id="pageEvidence"></div><div class="image-scroll"><img id="primaryImage" alt="Podgląd wybranej strony PDF"></div></article>
+  <article class="pane" id="textPane"><div class="pane-head"><strong>Tekst do porównania</strong><button id="copyText">Kopiuj</button></div><div class="text-controls"><select id="textSource" aria-label="Źródło tekstu"><option value="native">Warstwa tekstu PDF · bieżąca strona</option><option value="publisher">Tekst z datasetu · cały dokument</option></select><span id="textInfo"></span></div><pre id="textContent"></pre><div class="text-note">Tekst z datasetu pochodzi od wydawcy. To materiał do porównania, nie zweryfikowana transkrypcja wzorcowa.</div></article>
+  <article class="pane" id="comparePane" hidden><div class="pane-head"><strong>Drugi dokument</strong><div class="pager"><button id="prevB" aria-label="Poprzednia strona drugiego dokumentu">←</button><label><input id="pageB" type="number" min="1" value="1" aria-label="Numer strony drugiego dokumentu"><span id="pageTotalB"></span></label><button id="nextB" aria-label="Następna strona drugiego dokumentu">→</button></div></div><div class="compare-controls"><input type="search" id="compareSearch" placeholder="Znajdź drugi dokument…" aria-label="Szukaj drugiego dokumentu"><select id="compareSelect" aria-label="Drugi dokument"></select></div><div class="image-scroll"><img id="secondaryImage" alt="Podgląd strony drugiego dokumentu"></div></article>
+  <article class="pane" id="annotationPane" hidden><div class="pane-head"><strong>Anotacja strony</strong><span id="annotationStatus" class="badge">Nie rozpoczęto</span></div><div class="annotation-editor">
+   <p class="annotation-help">Popraw tekst, porównując go z obrazem. Zapisana anotacja wymaga dwóch przeglądów przez osoby inne niż autor. Identyfikatory osób są deklarowane lokalnie.</p>
+   <label>Twój identyfikator<input id="actor" placeholder="np. imie.nazwisko" autocomplete="username"></label>
+   <div class="annotation-actions"><button id="loadPreannotation">Wstaw tekst wstępny z PDF</button><button id="nextQueued">Następna strona w kolejce →</button></div>
+   <label>A · Transkrypcja Markdown<textarea id="annotationText" spellcheck="false" placeholder="Transkrypcja całej bieżącej strony…"></textarea></label>
+   <label>B · Tabele HTML (JSON: lista ciągów HTML)<textarea id="annotationTables" class="small-editor" spellcheck="false" placeholder='null — nieanotowane; [] — zweryfikowany brak tabel'></textarea></label>
+   <label>C · Pola KIE (JSON)<textarea id="annotationKie" class="small-editor" spellcheck="false" placeholder='null albo {"data_pisma":"2026-10-21"}'></textarea></label>
+   <label>Typy pól KIE (JSON)<textarea id="annotationFieldTypes" class="tiny-editor" spellcheck="false" placeholder='{"data_pisma":"date"}'></textarea></label>
+   <label>Uwagi do przeglądu<textarea id="annotationNote" class="tiny-editor" placeholder="Co należy poprawić / powód wykluczenia…"></textarea></label>
+   <div class="annotation-actions"><button data-action="save">Zapisz szkic</button><button data-action="submit" class="submit">Przekaż do przeglądu</button><button data-action="approve">Zatwierdź przegląd</button><button data-action="reject">Zwróć do poprawy</button><button data-action="exclude">Wyklucz stronę</button></div>
+   <div id="annotationMessage" role="status"></div><div id="annotationHistory" class="annotation-help"></div>
+  </div></article>
+ </div><div id="status" role="status" class="status"></div>
+</section>
+</main><script src="/app.js"></script>
+</body></html>
